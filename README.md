@@ -1,5 +1,3 @@
-![MERN Stack Web Developer and Web Designer.](https://pbs.twimg.com/profile_banners/1287742635382169600/1633705361/1080x360)
-
 <h1 align="center">Hi 👋, I'm Al-Amin Ahamed</h1>
 <h3 align="center">Full stack web developer.</h3>
 
