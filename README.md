@@ -6,7 +6,7 @@
 Welcome to my GitHub profile... 
 I am a Full stack web developer From Bangladesh.
 
-Skills: HTML, CSS, JAVASCRIPT, PHP, REACTJS
+Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, REACTJS
 
 - 🔭 I’m currently working as Software Testing engineer with Echoasoft Ltd 
 - 🌱 I’m currently learning ReactJS 
