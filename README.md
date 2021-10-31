@@ -11,7 +11,7 @@ Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, REACTJS
 - 🔭 I’m currently working as Software Testing engineer with Echoasoft Ltd 
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me: alamin.rohita@hotmail.com 
+- 📫 How to reach me: alamin@mishusoft.com, alamin.rohita@hotmail.com 
 
 
 <h3 align="left">Connect with me:</h3>
