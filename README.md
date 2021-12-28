@@ -32,7 +32,9 @@ Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, REACTJS
   <img src="https://api.daily.dev/devcards/50ab0479b6f1474eb63e2852d65c72d7.png?r=bvo" width="400" alt="Al-Amin Ahamed's Dev Card"/>
 </a>
 </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mralaminahamed)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralaminahamed)  
