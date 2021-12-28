@@ -34,12 +34,9 @@ Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, REACTJS
 <a href="#" style="display:inline;">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mralaminahamed)](https://github.com/anuraghazra/github-readme-stats)
 </a>
-<a href="#" style="display:inline;">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&count_private=true)  
-</a>
 </div>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralaminahamed)  
 
