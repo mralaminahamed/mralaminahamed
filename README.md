@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al-Amin Ahamed</h1>
+<h1 align="center">Hi 👋, I'm Al Amin Ahamed</h1>
 <h3 align="center">PHP developer.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mralaminahamed) 
