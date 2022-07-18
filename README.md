@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Amin Ahamed</h1>
-<h3 align="center">PHP developer.</h3>
+<h3 align="center">Full-Stack Developer | PHP | Laravel | React JS.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mralaminahamed) 
 
@@ -11,7 +11,7 @@ Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, REACTJS
 - 🔭 I’m currently working as Software Testing engineer with Echoasoft Ltd 
 - 🌱 I’m currently learning ReactJS 
 - 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me: alamin@mishusoft.com, alamin.rohita@hotmail.com 
+- 📫 How to reach me: me@alaminahamed.com, alamin.rohita@hotmail.com 
 
 
 <h3 align="left">Connect with me:</h3>
