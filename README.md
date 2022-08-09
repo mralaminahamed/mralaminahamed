@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Al Amin Ahamed</h1>
-<h3 align="center">Full-Stack Developer | PHP | Laravel | React JS.</h3>
+<h3 align="center">Full-Stack Developer | PHP | Laravel | WordPress | NextJS | ReactJS.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mralaminahamed) 
 
 Welcome to my GitHub profile... 
 I am a PHP developer From Bangladesh.
 
-Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, REACTJS
+Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, WORDPRESS, NEXTJS, REACTJS.
 
 - 🔭 I’m currently working as Software Testing engineer with Echoasoft Ltd 
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning NEXTJS 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: me@alaminahamed.com, alamin.rohita@hotmail.com 
 
