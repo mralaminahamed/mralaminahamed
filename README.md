@@ -36,8 +36,4 @@ Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, WORDPRESS, NEXTJS, REACTJS.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mralaminahamed)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mralaminahamed)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mralaminahamed)  
+![Al Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&count_private=true)  
