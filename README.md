@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/mralaminahamed) 
 
 Welcome to my GitHub profile... 
-I am a PHP developer From Bangladesh.
+I am a Full Stack Developer From Bangladesh.
 
 Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, WORDPRESS, NEXTJS, REACTJS.
 
