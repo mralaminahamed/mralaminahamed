@@ -4,14 +4,15 @@
 ![Profile views](https://gpvc.arturio.dev/mralaminahamed) 
 
 Welcome to my GitHub profile... 
-I am a Full Stack Developer From Bangladesh.
 
-Skills: HTML, CSS, JAVASCRIPT, TYPESCRIPT, PHP, WORDPRESS, NEXTJS, REACTJS.
-
-- 🔭 I’m currently working as Software engineer with Echoasoft Ltd 
-- 🌱 I’m currently learning NEXTJS 
 - 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me: me@alaminahamed.com, alamin.rohita@hotmail.com 
+- 👨‍💻 Full-stack developer specializing in Laravel, WordPress, and React.js.
+- 🏢 Software Engineer at Riseup Labs, focused on WordPress projects.
+- 💼 Skilled in Quality Assurance, Theme and Plugin Development, Gutenberg Blocks, Elementor Widgets, and Divi Modules.
+- ⏱️ Committed to delivering high-quality work within tight deadlines.
+- 🔧 Passionate about creating exceptional user experiences.
+- 🌐 Based in Dhaka, Bangladesh.
+- 📫 How to reach me: me@alaminahamed.com, alamin.rohita@hotmail.com
 
 
 <h3 align="left">Connect with me:</h3>
