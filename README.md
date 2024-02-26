@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al Amin Ahamed</h1>
 <h3 align="center">Full Stack Developer (Python | PHP | Typescript  | Django | Laravel | WordPress).</h3>
 
-![Profile views](https://gpvc.arturio.dev/mralaminahamed) 
 
 Welcome to my GitHub profile... 
 
