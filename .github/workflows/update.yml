@@ -4,7 +4,7 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
-  push: {branches: ["master"]}
+  push: {branches: ["main","trunk"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -32,3 +32,4 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_display: relative
           plugin_stargazers: yes
+          plugin_achievements: yes
