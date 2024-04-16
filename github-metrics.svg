@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1854" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1821" class="large">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    451k added, 56.2k removed
+                                    152k added, 51.2k removed
                                 </div>
                             </section>
                             <section>
@@ -293,18 +293,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 293kb of code in 231 edited files across 72 commits over last 13 days</small>
+                <small>estimation from 294kb of code in 233 edited files across 76 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="710.7414927312597" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="710.7414927312597" y="0" width="157.67725168521076" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="868.4187444164704" y="0" width="33.34362056363194" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="901.7623649801022" y="0" width="15.092991147567611" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="916.8553561276699" y="0" width="1.9621538211646228" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="918.8175099488344" y="0" width="1.182490051165435" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="709.1988795518207" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="709.1988795518207" y="0" width="159.33181826189593" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="868.5306978137166" y="0" width="33.27125063862023" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="901.8019484523369" y="0" width="15.060232898190723" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="916.8621813505276" y="0" width="1.9578951077286262" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="918.8200764582563" y="0" width="1.1799235417437415" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -523,6 +523,83 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#009b2c4</div>
+                                        <div class="message">update: phpcs coding standards</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 12:05:26</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2213 Fix: Virtual Product Status in Sub-Orders</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mralaminahamed in <span class="repo">getdokan/dokan</span></div>
+                                    <div class="comment">vai, order note updated.</div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 11:57:45</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#2213 Fix: Virtual Product Status in Sub-Orders</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">getdokan/dokan</span></div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 11:57:46</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#328a04a</div>
+                                        <div class="message">update: order note on auto completing for digital products</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">16 Apr 2024, 11:56:17</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 14 commits in
                                         <span class="repo">mralaminahamed/dokan</span>
                                     </div>
@@ -652,88 +729,6 @@ Co-authored-by: Nurul Umbhiya &lt;nurul-umbhiya@users.noreply.github.com&gt;</di
                                     </div>
                                 </div>
                                 <div class="timestamp">16 Apr 2024, 10:48:11</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#335a4ee</div>
-                                        <div class="message">update: phpcs coding standards</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">16 Apr 2024, 10:45:25</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8aa33a9</div>
-                                        <div class="message">update: Exclude manual gateways from auto complete order status update for digital products.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">16 Apr 2024, 10:41:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2213 Fix: Virtual Product Status in Sub-Orders</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by mralaminahamed in <span class="repo">getdokan/dokan</span></div>
-                                    <div class="comment">@shashwatahalder01 vai, for digital products, we update the status of sub-orders when the parent order is paid. Please double-check the last commit to ensure everything is functioning as expected.
-If you encounter any issues or discrepancies, kindly let me know, and I'll be happy to investigate further.</div>
-                                </div>
-                                <div class="timestamp">16 Apr 2024, 09:01:14</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#50e885d</div>
-                                        <div class="message">update: Set sub order status directly when parent order is paid for digital products</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">16 Apr 2024, 08:57:22</div>
                             </section>
                         </div>
                     </section>
@@ -887,7 +882,7 @@ If you encounter any issues or discrepancies, kindly let me know, and I'll be ha
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 179k out of 135m users</span>
+                                    <span class="gh">ranked 179k out of 133m users</span>
                                 </div>
                                 <div class="text">Published 101 public repositories</div>
                             </div>
@@ -1376,7 +1371,7 @@ If you encounter any issues or discrepancies, kindly let me know, and I'll be ha
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Apr 2024, 11:15:45 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Apr 2024, 12:16:25 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
