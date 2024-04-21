@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    545k added, 66.1k removed
+                                    506k added, 18.5k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.53mb of code in 543 edited files across 124 commits over last 6 days</small>
+                <small>estimation from 1.58mb of code in 570 edited files across 134 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="639.0341937475625" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="639.0341937475625" y="0" width="84.4315152186001" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="723.4657089661625" y="0" width="74.53124878392157" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="797.9969577500841" y="0" width="64.40105812876553" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="862.3980158788497" y="0" width="45.15663955045958" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="907.5546554293093" y="0" width="10.785753138455231" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="918.3404085677645" y="0" width="1.0700625485890896" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="919.4104711163536" y="0" width="0.5895288836464799" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="615.9043780338187" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="615.9043780338187" y="0" width="81.37552008321332" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="697.2798981170321" y="0" width="75.77949138528831" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="773.0593895023204" y="0" width="71.83359337494" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="844.8929828772604" y="0" width="63.11213127433723" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="908.0051141515976" y="0" width="10.395363258121298" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="918.4004774097189" y="0" width="1.0313316797354244" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="919.4318090894543" y="0" width="0.5681909105456874" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -323,15 +323,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Hack
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -537,6 +537,90 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8c68ac5</div>
+                                        <div class="message">Merge branch 'develop' into trunk</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Apr 2024, 14:26:43</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a9f485e</div>
+                                        <div class="message">Update class-wc-bkash.php</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Apr 2024, 14:26:21</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0976eb9</div>
+                                        <div class="message">Merge branch 'develop' into trunk</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Apr 2024, 14:16:10</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#52da643</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Apr 2024, 14:15:49</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
                                     </div>
@@ -549,87 +633,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">20 Apr 2024, 17:43:45</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c1d13ad</div>
-                                        <div class="message">Update bkash.php</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Apr 2024, 15:37:22</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0667fcd</div>
-                                        <div class="message">Merge branch 'develop' into 2106-products-does-not-complete-status-with-different-vendors</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Apr 2024, 09:27:42</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#67d0c13</div>
-                                        <div class="message">update: verify order status before updating new status</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Apr 2024, 09:27:25</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#1 Configure the plugin with mozart</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">mralaminahamed/woocommerce-bkash-payments</span></div>
-                                    <div>8 files changed <span class="code">++6508 --12</span></div>
-                                </div>
-                                <div class="timestamp">20 Apr 2024, 09:05:46</div>
                             </section>
                         </div>
                     </section>
@@ -1272,7 +1275,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Apr 2024, 13:12:32 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2024, 14:27:27 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
