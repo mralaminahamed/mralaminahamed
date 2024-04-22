@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    502k added, 55.5k removed
+                                    482k added, 14.1k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.70mb of code in 634 edited files across 171 commits over last 7 days</small>
+                <small>estimation from 1.70mb of code in 635 edited files across 173 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="595.1031853535264" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="595.1031853535264" y="0" width="83.60598705371308" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="678.7091724072395" y="0" width="80.66983102824571" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="759.3790034354852" y="0" width="78.62719106806063" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="838.0061945035459" y="0" width="69.40752778748633" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="907.4137222910323" y="0" width="10.044276365697977" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="917.4579986567303" y="0" width="1.9930001787805234" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="919.4509988355107" y="0" width="0.5490011644893561" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="594.9805233807997" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="594.9805233807997" y="0" width="83.58875428541984" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="678.5692776662196" y="0" width="80.84283278126766" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="759.4121104474873" y="0" width="78.61098452337436" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="838.0230949708616" y="0" width="69.39322158901516" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="907.4163165598768" y="0" width="10.042206051197986" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="917.4585226110747" y="0" width="1.9925893839140356" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="919.4511119949888" y="0" width="0.548888005011264" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -538,6 +538,27 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#361a45d</div>
+                                        <div class="message">update: renamed the filter name for excluding payment gateways</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Apr 2024, 09:04:35</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
                                     </div>
                                 </div>
@@ -612,27 +633,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">21 Apr 2024, 14:46:24</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c0ef0e4</div>
-                                        <div class="message">update: table name and others</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Apr 2024, 14:46:16</div>
                             </section>
                         </div>
                     </section>
@@ -1275,7 +1275,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2024, 08:20:20 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2024, 09:15:01 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
