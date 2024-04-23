@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1931" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1938" class="large">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            10 issue comments
+                            11 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    431k added, 18k removed
+                                    519k added, 55.5k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.76mb of code in 695 edited files across 194 commits over last 8 days</small>
+                <small>estimation from 1.80mb of code in 732 edited files across 204 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="592.4253413186805" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="592.4253413186805" y="0" width="83.2011358332647" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="675.6264771519452" y="0" width="81.57450964242432" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="757.2009867943696" y="0" width="76.5863817670522" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="833.7873685614218" y="0" width="70.46307953578307" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="904.2504480972049" y="0" width="9.78357199166951" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="914.0340200888744" y="0" width="2.2833386281361903" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="916.3173587170106" y="0" width="3.6826412829895636" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="586.4701734768362" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="586.4701734768362" y="0" width="84.87021075028343" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="671.3403842271196" y="0" width="80.75450775753623" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="752.0948919846559" y="0" width="76.18515584960164" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="828.2800478342574" y="0" width="76.12871763810588" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="904.4087654723633" y="0" width="9.68522573731538" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="914.0939912096786" y="0" width="2.260386090791905" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="916.3543773004706" y="0" width="3.6456226995294223" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -329,15 +329,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -530,6 +530,66 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/2236-dokan-stripe-express-order-confirmation-status</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5314805</div>
+                                        <div class="message">Merge branch '2106-products-does-not-complete-status-with-different-vendors' into fix/2236-dokan-stripe-express-order-confirmation-status</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Apr 2024, 07:15:29</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2213 Fix: Virtual Product Status in Sub-Orders</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mralaminahamed in <span class="repo">getdokan/dokan</span></div>
+                                    <div class="comment">@shashwatahalder01 vai, issues are fixed. please test again.</div>
+                                </div>
+                                <div class="timestamp">23 Apr 2024, 07:12:36</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ba0098f</div>
+                                        <div class="message">update: order status validation to complete digital products</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Apr 2024, 07:11:57</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -844,69 +904,6 @@ Fixes #42893
                                 <div class="timestamp">22 Apr 2024, 09:04:35</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">wporg/submission</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e9eec9f</div>
-                                        <div class="message">fix: plugin check issues</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Apr 2024, 15:01:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">wporg/submission</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1824cb2</div>
-                                        <div class="message">Merge branch 'develop' into wporg/submission</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Apr 2024, 14:48:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/woocommerce-bkash-payments</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9087bb4</div>
-                                        <div class="message">Update bkash.php</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Apr 2024, 14:48:01</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -915,7 +912,7 @@ Fixes #42893
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
                     </svg>
-                    Overall users reactions from last 15 comments
+                    Overall users reactions from last 16 comments
                 </h2>
                 <div class="row">
                     <section>
@@ -1547,7 +1544,7 @@ Fixes #42893
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2024, 06:18:40 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Apr 2024, 07:18:46 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
