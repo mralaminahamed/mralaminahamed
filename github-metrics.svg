@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1911" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1888" class="large">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    428k added, 54.9k removed
+                                    50.7k added, 4.73k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.50mb of code in 1556 edited files across 250 commits over last 13 days</small>
+                <small>estimation from 2.56mb of code in 1608 edited files across 252 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="643.2929211865198" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="643.2929211865198" y="0" width="78.79760851425338" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="722.0905297007732" y="0" width="69.10970714205365" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="791.2002368428268" y="0" width="62.18514370908627" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="853.3853805519132" y="0" width="54.90840529001213" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="908.2937858419252" y="0" width="6.886462630376884" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="915.1802484723021" y="0" width="1.6290667485990624" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="916.8093152209012" y="0" width="3.1906847790987327" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="646.3444478636944" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="646.3444478636944" y="0" width="77.92862819936639" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="724.2730760630608" y="0" width="68.34756503893148" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="792.6206411019922" y="0" width="61.499365716828535" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="854.1200068188208" y="0" width="54.30287519565367" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="908.4228820144745" y="0" width="6.810518695302762" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="915.2334007097772" y="0" width="1.611101394537416" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="916.8445021043146" y="0" width="3.1554978956853246" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -530,6 +530,39 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab97f19</div>
+                                        <div class="message">add e2e feature map (#2260)
+
+* add e2e test coverage and feature map
+
+* update some test title
+
+* update file extension
+
+* update coverage project
+
+* update git action step logic
+
+* update: fix product qa tests</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Apr 2024, 13:32:41</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1506,24 +1539,6 @@ Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
                                 <div class="timestamp">29 Apr 2024, 07:54:38</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2236 DOKAN / STRIPE EXPRESS - Order Confirmation Page shows Pending Payment at first while payment succeed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Sophie-2e in <span class="repo">getdokan/dokan</span></div>
-                                    <div class="comment">After investigating this further, we have determined that the issue has been resolved by the WooCommerce team. No changes are required on our end. We will be closing this issue. Thank you for taking the time to report it initially.</div>
-                                </div>
-                                <div class="timestamp">29 Apr 2024, 06:25:11</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2166,7 +2181,7 @@ Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2024, 13:14:46 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 14:29:34 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
