@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2004" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1854" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    442k added, 15.3k removed
+                                    149k added, 20.8k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.09mb of code in 964 edited files across 234 commits over last 14 days</small>
+                <small>estimation from 2.33mb of code in 1121 edited files across 243 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="613.3191685627779" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="613.3191685627779" y="0" width="78.91193676460843" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="692.2311053273863" y="0" width="78.6070862678708" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="770.8381915952571" y="0" width="69.97889342081217" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="840.8170850160692" y="0" width="65.65247980549547" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="906.4695648215647" y="0" width="8.34920845307451" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="914.8187732746392" y="0" width="1.9485797407632777" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="916.7673530154025" y="0" width="3.2326469845974857" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="638.97529186856" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="638.97529186856" y="0" width="75.28600113020164" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="714.2612929987616" y="0" width="71.73745656538938" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="785.998749564151" y="0" width="62.84507821235767" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="848.8438277765086" y="0" width="58.982385687318896" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="907.8262134638276" y="0" width="7.498070240829135" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="915.3242837046568" y="0" width="1.7499368770364672" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="917.0742205816931" y="0" width="2.925779418306862" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -317,15 +317,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Hack
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PHP
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Hack
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -537,6 +537,128 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/2236-dokan-stripe-express-order-confirmation-status</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7893645</div>
+                                        <div class="message">Merge remote-tracking branch 'upstream/develop' into fix/2236-dokan-stripe-express-order-confirmation-status</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbb3fcb</div>
+                                        <div class="message">Merge branch 'release/3.10.4' into develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c83d590</div>
+                                        <div class="message">chore: Release Version 3.10.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98e5c2f</div>
+                                        <div class="message">chore: Release Version 3.10.4-RC.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#923ad5a</div>
+                                        <div class="message">Merge branch 'refs/heads/develop' into release/3.10.4
+
+# Conflicts:
+#	readme.txt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a43ad1a</div>
+                                        <div class="message">fix: Vue Translation loading from WP Language Directory (#2255)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#901577d</div>
+                                        <div class="message">Update readme.txt (#2254)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e694b18</div>
+                                        <div class="message">refactor test suite (#2253)
+
+* add: added a helper function
+
+* update: added new api setup tests
+
+* Marked a test as failed
+
+* marked an e2e test as failed
+
+* marked test as fail
+
+* marked test as fail
+
+* update: update workflow
+
+* marked a test as only
+
+* update: undo some previous changes
+
+* update: refactor some tests
+
+* update: packages and locators
+
+* update: package
+
+* update: update tags
+
+* fix: fix lint and refactor some code
+
+* update some tags
+
+* update: update guest tags
+
+* update: update hover time
+
+* update: locator
+
+* removed: github reporter
+
+* update: exp tag
+
+* fix some typos
+
+* fix some typos in the codebase
+
+* refactored some tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b08379e</div>
+                                        <div class="message">chore: Release Version 3.10.4-RC.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#751b06f</div>
+                                        <div class="message">Fix withdraw header title (#2241)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a6df8d</div>
+                                        <div class="message">fix: Store support modules menu double border issue. (#2239)
+
+* fix: Store support modules menu double border issue.
+
+* fix: orders, products sub-menu ui issue
+
+* update: refactor dokan_order_listing_status_filter method
+
+* update: formatted orders count comment
+
+* update: add order status excluding filter for exclude necessary order statuses from wc order statuses
+
+* refactor: update filter hook name, use array shorthand &amp; update order counts variable position.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Apr 2024, 04:58:52</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 10 commits in
                                         <span class="repo">mralaminahamed/dokan</span>
                                     </div>
@@ -617,223 +739,6 @@ I have successfully addressed the actual issue. I would like to inform you that 
 The fix for this issue will be included in our next software release, which is scheduled for the future. However, if you require the fix sooner and cannot wait for the public release, please contact our support team, and they will assist you in obtaining the patch or update before it becomes publicly available.</div>
                                 </div>
                                 <div class="timestamp">26 Apr 2024, 10:40:57</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 51 commits in
-                                        <span class="repo">mralaminahamed/woocommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0f4e675</div>
-                                        <div class="message">Correctly serialize data in additional fields API (#46762)
-
-* fix data sanitization on session
-
-* add changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ea1095</div>
-                                        <div class="message">Update the styling of the WooPayments banner for the mobile version (#46647)
-
-* Style WCPay banner for mobile version
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#190c972</div>
-                                        <div class="message">Blocks: Isolate performance tests from e2e tests (#46773)
-
-* Isolate (cart) performance tests from e2e tests
-
-* Add changelog entry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc31f0c</div>
-                                        <div class="message">Be less aggressive on selected shipping rate logic for Checkout block (#46719)
-
-* be less aggressive on selected shipping rate logic
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25fae0c</div>
-                                        <div class="message">CYS - AI Flow: hide X button on the entrepreneur flow (#46800)
-
-* CYS - set flowType when the state machine is instantiated
-
-* remove not necessary code
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* fix action
-
-* improve logic
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* CYS - AI Flow: hide X button on the entrepreneur flow
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37beab9</div>
-                                        <div class="message">Allow enbling HPOS when the only incompatible plugin is the Legacy REST API one (#46634)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67f67b1</div>
-                                        <div class="message">Add assets to the dewp distribution as it is needed. (#46755)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97595ce</div>
-                                        <div class="message">Fix crashes in mini-cart by externalizing the wc types package. (#46814)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2ae56b2</div>
-                                        <div class="message">CYS - set flowType when the state machine is instantiated (#46528)
-
-* CYS - set flowType when the state machine is instantiated
-
-* remove not necessary code
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* fix action
-
-* improve logic
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* remove not necessary guards
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9a1b67</div>
-                                        <div class="message">[LYS] Reapply styles from 46619 (#46813)
-
-* copy styles over from 46619
-
-* Fix header padding
-
-* login/out
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
-
-* typo
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89c330f</div>
-                                        <div class="message">[Launch Your Store] Use Block to handle template styles (#46751)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05e838e</div>
-                                        <div class="message">Export useProductEdits hook (#46808)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a33078b</div>
-                                        <div class="message">[performance metrics] Use engines.pnpm version when setting up the environment (#46787)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05fed19</div>
-                                        <div class="message">Move all HPOS CLI tools to the "hpos" namespace (#46766)
-
-* Deprecate CLI tools in the “cot” namespace
-
-* PHPCS fixes
-
-* Add changelog
-
-* Restore a few args for backwards compatibility</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ac3a49</div>
-                                        <div class="message">Change "Origin" column name to "Attribution" in Orders Analytics (#46760)
-
-* Change "Origin" column name to "Attribution" in Analytics.
-
-* Rename "Origin" column to "Attribution" in Orders Analytics report download.
-
-* Add changelog.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c595717</div>
-                                        <div class="message">Fix "Add a filter" UI issue in Analytics (#46750)
-
-* Fix UI for add filter popover in Analytics.
-
-* Make character casing consistent for filters.
-
-* Add changelog.
-
-* Add changelog.
-
-* Change filter label to sentence case.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6222d6</div>
-                                        <div class="message">Fix encoding on a few HPOS docs (#46786)
-
-* Fix encoding in some HPOS docs
-
-* Update manifest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aba7cb7</div>
-                                        <div class="message">Update test-assistant-api-rest-change-tracker.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab7d2db</div>
-                                        <div class="message">Update test-assistant-release-highlight-tracker.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efbce91</div>
-                                        <div class="message">[CYS] Remove `Save` button from inside the different sections (#46526)
-
-* Remove save button, rename done button and fix tests
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Fix error
-
-* Fix lint errors
-
-* Fix more lint errors
-
-* Fix done button tests
-
-* Add missing awaits
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Apr 2024, 17:49:54</div>
                             </section>
                         </div>
                     </section>
@@ -1478,7 +1383,7 @@ Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2024, 04:26:20 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 05:17:14 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
