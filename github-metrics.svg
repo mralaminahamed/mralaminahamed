@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1828" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2144" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.post{align-items:flex-start}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    107k added, 4.92k removed
+                                    537k added, 56.8k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.27mb of code in 1091 edited files across 229 commits over last 13 days</small>
+                <small>estimation from 2.50mb of code in 1556 edited files across 250 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="645.7512375719142" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="645.7512375719142" y="0" width="75.35216947904117" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="721.1034070509554" y="0" width="64.0283473842635" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="785.1317544352189" y="0" width="61.34710101475582" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="846.4788554499747" y="0" width="61.13770953685391" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="907.6165649868287" y="0" width="7.693986310269298" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="915.310551297098" y="0" width="1.8200951540704347" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="917.1306464511684" y="0" width="2.869353548831646" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="643.2929211865198" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="643.2929211865198" y="0" width="78.79760851425338" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="722.0905297007732" y="0" width="69.10970714205365" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="791.2002368428268" y="0" width="62.18514370908627" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="853.3853805519132" y="0" width="54.90840529001213" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="908.2937858419252" y="0" width="6.886462630376884" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="915.1802484723021" y="0" width="1.6290667485990624" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="916.8093152209012" y="0" width="3.1906847790987327" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -317,27 +317,27 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PHP
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        PHP
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Hack
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -534,6 +534,913 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 24 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#94e438f</div>
+                                        <div class="message">Add experimental support for FTS indexes in HPOS.  (#46130)
+
+* Added key for sku
+
+* Add experimental support for FTS indexes in HPOS. Additionally, revert existing HPOS search queries to use post like structure.
+
+* Add unit tests
+
+* Escape the error messages as per new phpcs rules.
+
+* Fix query with index + added test.
+
+* remove uninteded change.
+
+* Unit test fixes.
+
+* Remove unit test since the commit command breaks other tests.
+
+Use message API instead of notices with defensive checks.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d8e20c</div>
+                                        <div class="message">Bump octokit from 2.1.0 to 3.1.2 (#42891)
+
+* Bump octokit from 2.1.0 to 3.1.2
+
+Bumps [octokit](https://github.com/octokit/octokit.js) from 2.1.0 to 3.1.2.
+- [Release notes](https://github.com/octokit/octokit.js/releases)
+- [Commits](https://github.com/octokit/octokit.js/compare/v2.1.0...v3.1.2)
+
+---
+updated-dependencies:
+- dependency-name: octokit
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+* Rename env variable
+
+* Add changelog
+
+---------
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: Jon Lane &lt;jon.lane@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ded320d</div>
+                                        <div class="message">[Blocks] Migrate stock filter to playwright (#46580)
+
+* try db reset in page teardown
+
+* move reset to setup step
+
+* Use wp db cli
+
+* Fix global setup
+That part is overriding the logged in user state and wipes out the nonce and rootUrl fields.
+
+* Try importing instead from a generated dump
+
+* Revert "Try importing instead from a generated dump"
+
+This reverts commit 987dc471c9dab49dd14aa8a96be43418454133a1.
+
+* Revert "Revert "Try importing instead from a generated dump""
+
+This reverts commit c8d008cb2040c03c4cebc725734856fc5a472017.
+
+* Don't bypass visitSiteEditor so that the Welcome Guide is closed
+
+* use createNewPost
+
+* Revert "Revert "Revert "Try importing instead from a generated dump"""
+
+This reverts commit 26842735822e95252fbe1cc63b026db4c1949f16.
+
+* [Blocks]: Fix E2E tests (#46344)
+
+* Load local pickup enabled setting as bool not string
+
+* Add changelog
+
+* Remove unused import
+
+* Update plugins/woocommerce-blocks/assets/js/extensions/shipping-methods/pickup-location/utils.ts
+
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+
+* Use strict equality test
+
+* try now
+
+* try now
+
+* add a new sql file
+
+* remove default.sql
+
+* fix welcome guide tour
+
+* fix E2E tests
+
+* Fix the template revert tests
+...where the template is unreachable due to pagination.
+
+* Add changelog entry
+
+* improve logic to closeWelcomeGuideModal
+
+* fix cart checkout tests
+
+* improve flakiness
+
+* improve flakiness
+
+* fix flaky test
+
+* fix company field
+
+* fix E2E test
+
+* fix E2E tests
+
+---------
+
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+
+* Replace beforeAll w/ beforeEach + remove all after* hooks
+
+* Fix broken hooks
+
+* Activate plugins via requestUtils API
+
+* [Blocks - E2E]: Add `playwright/no-hooks` ESlint rule (#46432)
+
+add ESLint configuration
+
+* Clean up console logs
+
+* Remove obsolete language setup steps
+
+* Remove more unnecessary setup steps
+
+* Remove even more obsolete setup steps
+
+* tmp: add the LYS fix
+
+* Try stabilizing the company field test
+
+* Use canvas param instead of manually entering edit mode
+
+* Blocks: Migrate stock filter to playwright
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Remove double site editor redirect
+
+* remove not necessary file
+
+* fix test
+
+* Revert "Use canvas param instead of manually entering edit mode"
+
+This reverts commit 5e6cc1715490ed333b2e363e1cdcefe4e8696683.
+
+* Revert "Remove double site editor redirect"
+
+This reverts commit 69a57a82a86ab0fe39002bc59838e6a63d118298.
+
+* Fix flaky products sorting test
+
+* Blocks: Fix ESLint errors (#46595)
+
+fix eslint error
+
+* improve E2E tests
+
+* fix test
+
+* Fix ESLint errors (#46626)
+
+* Fix ESLint errors
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+
+* address feedback
+
+---------
+
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f437c53</div>
+                                        <div class="message">Avoid duplicated product request (#46934)
+
+* Add getPermalinkParts utility
+
+* Use getPermalinkParts utility
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45a4817</div>
+                                        <div class="message">[Blocks] Migrate Attribute filter E2E tests to playwright (#46591)
+
+* try db reset in page teardown
+
+* move reset to setup step
+
+* Use wp db cli
+
+* Fix global setup
+That part is overriding the logged in user state and wipes out the nonce and rootUrl fields.
+
+* Try importing instead from a generated dump
+
+* Revert "Try importing instead from a generated dump"
+
+This reverts commit 987dc471c9dab49dd14aa8a96be43418454133a1.
+
+* Revert "Revert "Try importing instead from a generated dump""
+
+This reverts commit c8d008cb2040c03c4cebc725734856fc5a472017.
+
+* Don't bypass visitSiteEditor so that the Welcome Guide is closed
+
+* use createNewPost
+
+* Revert "Revert "Revert "Try importing instead from a generated dump"""
+
+This reverts commit 26842735822e95252fbe1cc63b026db4c1949f16.
+
+* [Blocks]: Fix E2E tests (#46344)
+
+* Load local pickup enabled setting as bool not string
+
+* Add changelog
+
+* Remove unused import
+
+* Update plugins/woocommerce-blocks/assets/js/extensions/shipping-methods/pickup-location/utils.ts
+
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+
+* Use strict equality test
+
+* try now
+
+* try now
+
+* add a new sql file
+
+* remove default.sql
+
+* fix welcome guide tour
+
+* fix E2E tests
+
+* Fix the template revert tests
+...where the template is unreachable due to pagination.
+
+* Add changelog entry
+
+* improve logic to closeWelcomeGuideModal
+
+* fix cart checkout tests
+
+* improve flakiness
+
+* improve flakiness
+
+* fix flaky test
+
+* fix company field
+
+* fix E2E test
+
+* fix E2E tests
+
+---------
+
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+
+* Replace beforeAll w/ beforeEach + remove all after* hooks
+
+* Fix broken hooks
+
+* Activate plugins via requestUtils API
+
+* [Blocks - E2E]: Add `playwright/no-hooks` ESlint rule (#46432)
+
+add ESLint configuration
+
+* Clean up console logs
+
+* Remove obsolete language setup steps
+
+* Remove more unnecessary setup steps
+
+* Remove even more obsolete setup steps
+
+* tmp: add the LYS fix
+
+* Try stabilizing the company field test
+
+* Use canvas param instead of manually entering edit mode
+
+* Remove double site editor redirect
+
+* Blocks: Migrate attribute filter E2E tests to playwright
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Revert "Use canvas param instead of manually entering edit mode"
+
+This reverts commit 5e6cc1715490ed333b2e363e1cdcefe4e8696683.
+
+* Revert "Remove double site editor redirect"
+
+This reverts commit 69a57a82a86ab0fe39002bc59838e6a63d118298.
+
+* Fix flaky products sorting test
+
+* Blocks: Fix ESLint errors (#46595)
+
+fix eslint error
+
+* update path
+
+* Fix ESLint errors (#46626)
+
+* Fix ESLint errors
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+
+* address feedback
+
+* fix visitSiteEditor
+
+* fix description
+
+* remove not necessary changelog
+
+---------
+
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d2f88d</div>
+                                        <div class="message">[Product Block Editor]: update the attributes list optimistically when a new attribute is created (#46717)
+
+* tweak optimisticQueryUpdate type
+
+* sort items optimistically
+
+* update attributes list optimistically
+
+* do not invalidate when creating a new attribute
+
+* changelog
+
+* changelog
+
+* update tests
+
+* update options param in test
+
+* wait for the promise when creating new attribute
+
+* fix the rest of tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24c2832</div>
+                                        <div class="message">[Blocks] Migrate rating filter to playwright (#46583)
+
+* try db reset in page teardown
+
+* move reset to setup step
+
+* Use wp db cli
+
+* Fix global setup
+That part is overriding the logged in user state and wipes out the nonce and rootUrl fields.
+
+* Try importing instead from a generated dump
+
+* Revert "Try importing instead from a generated dump"
+
+This reverts commit 987dc471c9dab49dd14aa8a96be43418454133a1.
+
+* Revert "Revert "Try importing instead from a generated dump""
+
+This reverts commit c8d008cb2040c03c4cebc725734856fc5a472017.
+
+* Don't bypass visitSiteEditor so that the Welcome Guide is closed
+
+* use createNewPost
+
+* Revert "Revert "Revert "Try importing instead from a generated dump"""
+
+This reverts commit 26842735822e95252fbe1cc63b026db4c1949f16.
+
+* [Blocks]: Fix E2E tests (#46344)
+
+* Load local pickup enabled setting as bool not string
+
+* Add changelog
+
+* Remove unused import
+
+* Update plugins/woocommerce-blocks/assets/js/extensions/shipping-methods/pickup-location/utils.ts
+
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+
+* Use strict equality test
+
+* try now
+
+* try now
+
+* add a new sql file
+
+* remove default.sql
+
+* fix welcome guide tour
+
+* fix E2E tests
+
+* Fix the template revert tests
+...where the template is unreachable due to pagination.
+
+* Add changelog entry
+
+* improve logic to closeWelcomeGuideModal
+
+* fix cart checkout tests
+
+* improve flakiness
+
+* improve flakiness
+
+* fix flaky test
+
+* fix company field
+
+* fix E2E test
+
+* fix E2E tests
+
+---------
+
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+
+* Replace beforeAll w/ beforeEach + remove all after* hooks
+
+* Fix broken hooks
+
+* Activate plugins via requestUtils API
+
+* [Blocks - E2E]: Add `playwright/no-hooks` ESlint rule (#46432)
+
+add ESLint configuration
+
+* Clean up console logs
+
+* Remove obsolete language setup steps
+
+* Remove more unnecessary setup steps
+
+* Remove even more obsolete setup steps
+
+* tmp: add the LYS fix
+
+* Try stabilizing the company field test
+
+* Use canvas param instead of manually entering edit mode
+
+* Remove double site editor redirect
+
+* Blocks: Migrate rating filter to playwright
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
+
+* remove not necessary changelog
+
+* Revert "Use canvas param instead of manually entering edit mode"
+
+This reverts commit 5e6cc1715490ed333b2e363e1cdcefe4e8696683.
+
+* Revert "Remove double site editor redirect"
+
+This reverts commit 69a57a82a86ab0fe39002bc59838e6a63d118298.
+
+* Fix flaky products sorting test
+
+* Blocks: Fix ESLint errors (#46595)
+
+fix eslint error
+
+* improve tests
+
+* use visitSiteEditor util
+
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+
+* use locator.fill
+
+* Fix ESLint errors (#46626)
+
+* Fix ESLint errors
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+
+* address feedback
+
+* remove not necessary changelog
+
+---------
+
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae305a0</div>
+                                        <div class="message">Product Block Editor: introduce AttributesComboboxControl component (#46912)
+
+* first approach
+
+* update TS types
+
+* rename
+
+* add storybook story
+
+* changelog
+
+* update types
+
+* onChange should return item
+
+* rename css classes
+
+* tweak styles. remove unused prop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#417baee</div>
+                                        <div class="message">[Blocks] Migrate Price filter tests to Playwright (#46576)
+
+* try db reset in page teardown
+
+* move reset to setup step
+
+* Use wp db cli
+
+* Fix global setup
+That part is overriding the logged in user state and wipes out the nonce and rootUrl fields.
+
+* Try importing instead from a generated dump
+
+* Revert "Try importing instead from a generated dump"
+
+This reverts commit 987dc471c9dab49dd14aa8a96be43418454133a1.
+
+* Revert "Revert "Try importing instead from a generated dump""
+
+This reverts commit c8d008cb2040c03c4cebc725734856fc5a472017.
+
+* Don't bypass visitSiteEditor so that the Welcome Guide is closed
+
+* use createNewPost
+
+* Revert "Revert "Revert "Try importing instead from a generated dump"""
+
+This reverts commit 26842735822e95252fbe1cc63b026db4c1949f16.
+
+* [Blocks]: Fix E2E tests (#46344)
+
+* Load local pickup enabled setting as bool not string
+
+* Add changelog
+
+* Remove unused import
+
+* Update plugins/woocommerce-blocks/assets/js/extensions/shipping-methods/pickup-location/utils.ts
+
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+
+* Use strict equality test
+
+* try now
+
+* try now
+
+* add a new sql file
+
+* remove default.sql
+
+* fix welcome guide tour
+
+* fix E2E tests
+
+* Fix the template revert tests
+...where the template is unreachable due to pagination.
+
+* Add changelog entry
+
+* improve logic to closeWelcomeGuideModal
+
+* fix cart checkout tests
+
+* improve flakiness
+
+* improve flakiness
+
+* fix flaky test
+
+* fix company field
+
+* fix E2E test
+
+* fix E2E tests
+
+---------
+
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+
+* Replace beforeAll w/ beforeEach + remove all after* hooks
+
+* Fix broken hooks
+
+* Activate plugins via requestUtils API
+
+* [Blocks - E2E]: Add `playwright/no-hooks` ESlint rule (#46432)
+
+add ESLint configuration
+
+* Clean up console logs
+
+* Remove obsolete language setup steps
+
+* Remove more unnecessary setup steps
+
+* Remove even more obsolete setup steps
+
+* tmp: add the LYS fix
+
+* [Blocks]: Migrate Price Filter tests to Playwright
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* improve description
+
+* Try stabilizing the company field test
+
+* use Product Collection
+
+* Use canvas param instead of manually entering edit mode
+
+* remove blockData
+
+* Remove double site editor redirect
+
+* Revert "Use canvas param instead of manually entering edit mode"
+
+This reverts commit 5e6cc1715490ed333b2e363e1cdcefe4e8696683.
+
+* Revert "Remove double site editor redirect"
+
+This reverts commit 69a57a82a86ab0fe39002bc59838e6a63d118298.
+
+* Fix flaky products sorting test
+
+* Blocks: Fix ESLint errors (#46595)
+
+fix eslint error
+
+* update test
+
+* add missing import
+
+* Fix ESLint errors (#46626)
+
+* Fix ESLint errors
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+
+* improve E2E tests
+
+* remove not necessary changelog
+
+---------
+
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f7cc39</div>
+                                        <div class="message">Block E2E: Eliminate side effects through improved test isolation (#46125)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d914ff</div>
+                                        <div class="message">Fix invalid date format errors in certain languages (#46932)
+
+* Fix invalid date format errors in certain languages
+
+* Remove rest of jsdoc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42902ef</div>
+                                        <div class="message">Logging: Ensure the woocommerce_format_log_entry filter hook still has access to the log source value (#46851)
+
+* Logging: keep full context in woocommerce_format_log_entry filter hook
+
+The source value gets removed from the context array before it is
+converted to JSON and output as part of the log entry. However, this
+means that the source value is not available when the
+woocommerce_format_log_entry filter hook fires, so plugins can't easily
+determine where the log entry came from. This simply ensures that the
+source value is still available to the filter hook, even though it's not
+included in the JSON.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5d25d3</div>
+                                        <div class="message">[LYS] Comin soon block - Refactor and hide Styles block on Store Only (#46854)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed430bd</div>
+                                        <div class="message">Block Hooks: Revert opening up hooked blocks to all block themes (#46935)
+
+* Revert opening up hooked blocks to all block themes.
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add version to @since tag in fn comment.
+
+Missing @since version throwing a CI check error:
+
+`A "@since" tag was found but no version declared.`
+
+Adding `8.4.0`, as this was the version referenced before the revert.
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+Co-authored-by: Daniel W. Robert &lt;danielwrobert@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86eee17</div>
+                                        <div class="message">[LYS] Convert status chip files to typescript (#46898)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b68ba76</div>
+                                        <div class="message">Fix issue with changelog generation selection case-sensitivity (#46936)
+
+* Fix issue with changelog generation selection case-sensitivity
+
+* Appease linter
+
+* Update case insensitivity to every field</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd8aa94</div>
+                                        <div class="message">[e2e tests] Fix more e2e tests with Gutenberg active (#46861)
+
+* Add publish page util
+
+* Update create-woocommerce-patterns.spec.js to use canvas
+
+* Update create-woocommerce-blocks.spec.js to use the publishPage util
+
+* Fix check for pattern
+
+* Add changelog
+
+* Update cart-block-calculate-shipping.spec.js to use canvas
+
+* Add utility for adding a product to cart and only waiting for the relevant request instead of networkidle
+
+* Update cart-block-coupons.spec.js to use canvas and new utils
+
+* Update shopper/cart-block.spec.js to use canvas and new utils
+
+* Update shopper/cart-calculate-shipping.spec.js to use new utils
+
+* Update shopper/cart-checkout-block-calculate-tax.spec.js to use canvas and new utils.
+
+* Use uuid instead of Date.now()
+
+* Update shopper/cart-checkout-calculate-tax.spec.js to use new utils
+
+* Suppress testing-library/await-async-utils eslint rule
+
+* Add currency for a more strict text based locator
+
+* Don't wait for networkidle
+
+* Don't wait for networkidle in cart-checkout-restricted-coupons.spec.js
+
+* Don't wait for networkidle in cart-redirection.spec.js
+
+* Fix cart.spec.js
+
+* Fix checkout-block-coupons.spec.js
+
+* Fix checkout-block.spec.js
+
+* Fix shop-products-filter-by-price.spec.js
+
+* Add gutenberg to wp-env config
+
+* Dirty fix for multiple coupons test
+
+* Remove Gutenberg from wp-env</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac7bcdb</div>
+                                        <div class="message">Add filter hook wc_product_pre_has_unique_sku (#46763)
+
+Adds the `wc_product_pre_has_unique_sku` filter hook to allow SKU uniqueness to be determined externally in order to avoid an expensive query.
+
+Fixes #46759
+Fixes #31720
+
+---------
+
+Co-authored-by: Corey McKrill &lt;916023+coreymckrill@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7cad9c</div>
+                                        <div class="message">Prep trunk for 9.0 cycle (#46893)
+
+Prep trunk for 9.0 cycle with version bump to 9.0.0-dev
+
+Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26a9972</div>
+                                        <div class="message">Release: Remove 8.9 change files (#46894)
+
+Delete changelog files from 8.9 release
+
+Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">29 Apr 2024, 07:54:38</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -704,27 +1611,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">29 Apr 2024, 04:58:52</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cbb3fcb</div>
-                                        <div class="message">Merge branch 'release/3.10.4' into develop</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Apr 2024, 13:38:55</div>
                             </section>
                         </div>
                     </section>
@@ -1369,7 +2255,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2024, 07:17:07 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 08:21:21 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
