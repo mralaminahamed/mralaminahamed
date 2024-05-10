@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1677" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2088" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    458k added, 64.6k removed
+                                    45.5k added, 4.19k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.16mb of code in 1410 edited files across 198 commits over last 13 days</small>
+                <small>estimation from 1.67mb of code in 1906 edited files across 244 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="599.6861243605135" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="599.6861243605135" y="0" width="202.9580778091437" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="802.6442021696572" y="0" width="58.970818867149056" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="861.6150210368063" y="0" width="35.16780773765102" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="896.7828287744574" y="0" width="11.920784797257104" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="908.7036135717144" y="0" width="5.340969315465568" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="914.04458288718" y="0" width="1.6045296732535126" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="915.6491125604335" y="0" width="4.350887439566501" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="637.6625451560718" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="637.6625451560718" y="0" width="154.44247939642378" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="792.1050245524956" y="0" width="71.72497387270879" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="863.8299984252044" y="0" width="33.43243410911902" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="897.2624325343234" y="0" width="8.415402455726767" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="905.6778349900502" y="0" width="3.7704234291413545" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="909.4482584191915" y="0" width="3.119775138271829" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="912.5680335574632" y="0" width="7.431966442536662" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -347,9 +347,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Dockerfile
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -536,6 +536,762 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 18 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2106-products-does-not-complete-status-with-different-vendors</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9c9ef18</div>
+                                        <div class="message">Merge branch 'getdokan:develop' into 2106-products-does-not-complete-status-with-different-vendors</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 May 2024, 06:18:24</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">mralaminahamed/woocommerce-subscriptions-core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5ba92ad</div>
+                                        <div class="message">Version 7.1.1 (#620)
+
+Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#285154e</div>
+                                        <div class="message">Use strtotime to avoid errors passing wc_datetime objects (#619)
+
+* Use strtotime to avoid errors passing wc_datetime objects
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ed6291</div>
+                                        <div class="message">Version 7.1.0 (#618)
+
+Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9219e4</div>
+                                        <div class="message">Reset the chaneglog date</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6acdbfa</div>
+                                        <div class="message">Fixes read property on null (#617)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#987bbe2</div>
+                                        <div class="message">Version 7.1.0 (#616)
+
+* Version 7.1.0
+
+* Update the changelog to group similar types together
+
+---------
+
+Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;
+Co-authored-by: mattallan &lt;matt.allan@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#befb215</div>
+                                        <div class="message">Change the filter hook from post_updated_messages to woocommerce_orde… (#615)
+
+* Change the filter hook from post_updated_messages to woocommerce_order_updated_messages to show the subscription updated message in subscription-edition screen
+
+* Update post_updated_messages to work when HPOS is enabled and disabled
+
+* Add changelog entry
+
+---------
+
+Co-authored-by: mattallan &lt;matt.allan@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79fca67</div>
+                                        <div class="message">Fixes bulk actions buttons (suspend, cancel) on Subscriptions list table not working while filtering the table (#614)
+
+* Remove the 'filter_action' param from bulk action URLs as this prevents handle_bullk_action() being called
+
+* Add changelog entry</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eeef4ae</div>
+                                        <div class="message">Fix subscription product sales ending before WC products (#611)
+
+* Store the scheduled sale dates to be the beginning of the 'from' day and the end of the 'to' day
+
+* Add changelog entry
+
+* Let WooCommerce Core handle saving/updating the product sale price dates for subscriptions
+
+---------
+
+Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab94dc3</div>
+                                        <div class="message">Fix filtered order links in subscription reports not working correctly when HPOS is enabled (#609)
+
+* use `woocommerce_orders_table_query_clauses` to filter orders and subscription for report when HPOS is enabled
+
+* add changelog entry
+
+* Update includes/admin/class-wc-subscriptions-admin.php
+
+Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;
+
+* Fix PHPCS issues
+
+---------
+
+Co-authored-by: Matt Allan &lt;matt.allan@automattic.com&gt;
+Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 May 2024, 05:35:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 82 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2adde79</div>
+                                        <div class="message">Update the version number of some methods in AbstractTemplateCompatibility (#47118)
+
+* Update the version number of some methods in AbstractTemplateCompatibility
+
+* Add changelog file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#420207a</div>
+                                        <div class="message">Migrate Jest Puppeteer E2E tests to Playwright (#46671)
+
+* try db reset in page teardown
+
+* move reset to setup step
+
+* Use wp db cli
+
+* Fix global setup
+That part is overriding the logged in user state and wipes out the nonce and rootUrl fields.
+
+* Try importing instead from a generated dump
+
+* Revert "Try importing instead from a generated dump"
+
+This reverts commit 987dc471c9dab49dd14aa8a96be43418454133a1.
+
+* Revert "Revert "Try importing instead from a generated dump""
+
+This reverts commit c8d008cb2040c03c4cebc725734856fc5a472017.
+
+* Don't bypass visitSiteEditor so that the Welcome Guide is closed
+
+* use createNewPost
+
+* Revert "Revert "Revert "Try importing instead from a generated dump"""
+
+This reverts commit 26842735822e95252fbe1cc63b026db4c1949f16.
+
+* [Blocks]: Fix E2E tests (#46344)
+
+* Load local pickup enabled setting as bool not string
+
+* Add changelog
+
+* Remove unused import
+
+* Update plugins/woocommerce-blocks/assets/js/extensions/shipping-methods/pickup-location/utils.ts
+
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+
+* Use strict equality test
+
+* try now
+
+* try now
+
+* add a new sql file
+
+* remove default.sql
+
+* fix welcome guide tour
+
+* fix E2E tests
+
+* Fix the template revert tests
+...where the template is unreachable due to pagination.
+
+* Add changelog entry
+
+* improve logic to closeWelcomeGuideModal
+
+* fix cart checkout tests
+
+* improve flakiness
+
+* improve flakiness
+
+* fix flaky test
+
+* fix company field
+
+* fix E2E test
+
+* fix E2E tests
+
+---------
+
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+
+* Replace beforeAll w/ beforeEach + remove all after* hooks
+
+* Fix broken hooks
+
+* Activate plugins via requestUtils API
+
+* [Blocks - E2E]: Add `playwright/no-hooks` ESlint rule (#46432)
+
+add ESLint configuration
+
+* Clean up console logs
+
+* Remove obsolete language setup steps
+
+* Remove more unnecessary setup steps
+
+* Remove even more obsolete setup steps
+
+* tmp: add the LYS fix
+
+* Try stabilizing the company field test
+
+* Use canvas param instead of manually entering edit mode
+
+* Remove double site editor redirect
+
+* Revert "Use canvas param instead of manually entering edit mode"
+
+This reverts commit 5e6cc1715490ed333b2e363e1cdcefe4e8696683.
+
+* Revert "Remove double site editor redirect"
+
+This reverts commit 69a57a82a86ab0fe39002bc59838e6a63d118298.
+
+* Fix flaky products sorting test
+
+* Blocks: Fix ESLint errors (#46595)
+
+fix eslint error
+
+* Fix ESLint errors (#46626)
+
+* Fix ESLint errors
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+
+* Blocks: Migrate multiple tests to Playwright
+
+* fix path
+
+* migrate other tests
+
+* add product best sellers E2E tests
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* migrate jest-puppetter E2E tests to Playwright
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Remove obsolete waitForLoadState call
+
+* improve E2E tests
+
+* fix E2E tests
+
+* improve E2E tests
+
+* remove old test
+
+* remove not necessary test
+
+* fix number product
+
+* fix E2E test
+
+* fix number of products
+
+* fix product count
+
+* refactor store notice E2E tests
+
+* update string
+
+* fix E2E test
+
+* fix E2E tests
+
+---------
+
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d81f49a</div>
+                                        <div class="message">Fix plugin registration on woocommerce.com for active plugins (#46780)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0ab7ba</div>
+                                        <div class="message">Fix Merchant → Mini Cart in FSE editor can only be inserted once test (#47134)
+
+* Fix Merchant → Mini Cart in FSE editor can only be inserted once test
+
+* Add changelog file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e750b0f</div>
+                                        <div class="message">Product Details: not use `useBlockProps`  twice (#46785)
+
+* Product Details: not use  twice
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a5721c</div>
+                                        <div class="message">Replace @wordpress/components Button, Radio, RadioGroup with Ariakit Button  (#45974)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2434836</div>
+                                        <div class="message">Fix missing shipping recommendation task (#47117)
+
+* Add secret tasklist to exception for hidden list in tasklist API
+
+* Changelog
+
+* Lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51c629d</div>
+                                        <div class="message">Fix extra /wp-admin from action url link for ticket 46993 (#47010)
+
+* Fix extra /wp-admin from action url link for ticket 46993
+
+* Fix extra /wp-admin from task LaunchYourStore get action url
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ba1e91</div>
+                                        <div class="message">HPOS - Made the query for retrieving meta keys more performant (#46985)
+
+* Modified query for fetching meta key, making it more perfomant
+
+* added changelog
+
+* Improved query when include_private is true
+
+* Address review feedback
+
+* Address review feedback</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6066c08</div>
+                                        <div class="message">Relocate helper (child) themes (#47080)
+
+* Relocate helper (child) themes
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Correct wrong template slugs
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#296c0cf</div>
+                                        <div class="message">Update to display full woocommerce version on status page rather than a shortened milestone style version (#46906)
+
+* update to display actual woocommerce version on status page
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5d386f</div>
+                                        <div class="message">Remove wc_update_890_add_launch_your_store_tour_option (#47005)
+
+* Remove wc_update_890_add_launch_your_store_tour_option
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b4b8be</div>
+                                        <div class="message">Improved readability and better UX for GitHub bug reports, by optimizing the format of the SSR (#47088)
+
+* Improved readability and better UX for GitHub bug reports, by optimising the format of the SSR
+
+* Added changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#48f479f</div>
+                                        <div class="message">Rename and sort filter options in "Add a filter" in Analytics (#46955)
+
+* Rename filter options in Orders Analytics.
+
+* Sort filter options in labels in Orders Analytics.
+
+* Change filter labels to singular.
+
+* Wider label column to accommodate label change.
+
+* Rename filter options in Variations Analytics.
+
+* Change filter options to Attribute, Category and Product in Variations Analytics.
+
+* Revert "Change filter options to Attribute, Category and Product in Variations Analytics."
+
+This reverts commit b3ca5d5807b43aae548b7af182998ed240e3c598.
+
+* Change "Add a Filter" to "Add a filter".
+
+* Add changelog.
+
+* Add changelog.
+
+* Refactor getAvailableFilterKeys and getAvailableFilters into one function.
+
+* Add code comment and remove unneeded code.
+
+* Code refactor getAvailableFilters.
+
+This is done by starting from allFilterKeys, and filtering with allowMultiple or not yet active.
+
+With this, we don't need to have `inactiveFilterKeys` and "Ensure filters that allow multiples are always present."
+
+* Fix tests and lint issues.
+
+* Simplify code with Object.entries.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36b3712</div>
+                                        <div class="message">[Launch Your Store] Remove "Powered by WooCommerce" footer  (#47075)
+
+* Remove unnecessary powered by WooCommerce link
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbcc73e</div>
+                                        <div class="message">Migrate Jest Puppeteer E2E tests to Playwright (#46644)
+
+* try db reset in page teardown
+
+* move reset to setup step
+
+* Use wp db cli
+
+* Fix global setup
+That part is overriding the logged in user state and wipes out the nonce and rootUrl fields.
+
+* Try importing instead from a generated dump
+
+* Revert "Try importing instead from a generated dump"
+
+This reverts commit 987dc471c9dab49dd14aa8a96be43418454133a1.
+
+* Revert "Revert "Try importing instead from a generated dump""
+
+This reverts commit c8d008cb2040c03c4cebc725734856fc5a472017.
+
+* Don't bypass visitSiteEditor so that the Welcome Guide is closed
+
+* use createNewPost
+
+* Revert "Revert "Revert "Try importing instead from a generated dump"""
+
+This reverts commit 26842735822e95252fbe1cc63b026db4c1949f16.
+
+* [Blocks]: Fix E2E tests (#46344)
+
+* Load local pickup enabled setting as bool not string
+
+* Add changelog
+
+* Remove unused import
+
+* Update plugins/woocommerce-blocks/assets/js/extensions/shipping-methods/pickup-location/utils.ts
+
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+
+* Use strict equality test
+
+* try now
+
+* try now
+
+* add a new sql file
+
+* remove default.sql
+
+* fix welcome guide tour
+
+* fix E2E tests
+
+* Fix the template revert tests
+...where the template is unreachable due to pagination.
+
+* Add changelog entry
+
+* improve logic to closeWelcomeGuideModal
+
+* fix cart checkout tests
+
+* improve flakiness
+
+* improve flakiness
+
+* fix flaky test
+
+* fix company field
+
+* fix E2E test
+
+* fix E2E tests
+
+---------
+
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+
+* Replace beforeAll w/ beforeEach + remove all after* hooks
+
+* Fix broken hooks
+
+* Activate plugins via requestUtils API
+
+* [Blocks - E2E]: Add `playwright/no-hooks` ESlint rule (#46432)
+
+add ESLint configuration
+
+* Clean up console logs
+
+* Remove obsolete language setup steps
+
+* Remove more unnecessary setup steps
+
+* Remove even more obsolete setup steps
+
+* tmp: add the LYS fix
+
+* Try stabilizing the company field test
+
+* Use canvas param instead of manually entering edit mode
+
+* Remove double site editor redirect
+
+* Revert "Use canvas param instead of manually entering edit mode"
+
+This reverts commit 5e6cc1715490ed333b2e363e1cdcefe4e8696683.
+
+* Revert "Remove double site editor redirect"
+
+This reverts commit 69a57a82a86ab0fe39002bc59838e6a63d118298.
+
+* Fix flaky products sorting test
+
+* Blocks: Fix ESLint errors (#46595)
+
+fix eslint error
+
+* Fix ESLint errors (#46626)
+
+* Fix ESLint errors
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+
+* Blocks: Migrate multiple tests to Playwright
+
+* fix path
+
+* migrate other tests
+
+* add product best sellers E2E tests
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Remove obsolete waitForLoadState call
+
+* improve E2E tests
+
+* fix E2E tests
+
+* fix E2E test
+
+* remove not necessary changelog
+
+* improve E2E tests
+
+* remove not necessary folder
+
+* fix test
+
+---------
+
+Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;
+Co-authored-by: Thomas Roberts &lt;5656702+opr@users.noreply.github.com&gt;
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75bb52c</div>
+                                        <div class="message">Fix core profiler email field overlapping with continue button in mobile screen (#47077)
+
+* Fix core profiler email field is not positioned correctly in mobile screens
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e2133e</div>
+                                        <div class="message">[Launch Your Store] Fix failed to load coming-soon resources (#47073)
+
+* Fix failed to load coming soon css/js
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Update plugins/woocommerce/src/Blocks/BlockTypes/ComingSoon.php
+
+Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de91a08</div>
+                                        <div class="message">[ci-jobs] Add support for github event and include HPOS disabled e2e tests in ci (#46922)
+
+* Update env setup script to disable hpos
+
+* Use DISABLE_HPOS instead of ENABLE_HPOS
+
+* Log HPOS state
+
+* Configure project for core e2e with HPOS disabled
+
+* Add event argument for ci-jobs util
+
+* Add event option for test jobs
+
+* Add support for github events
+
+* Add changelog
+
+* Configure HPOS tests to run on pull_request
+
+* Fix utils tests for undefined commandVars
+
+* Added some tests for the event configuration
+
+* Revert event for HPOS e2e to push
+
+* Use matrix name in artifact name to avoid duplication
+
+* Test with pull_request event
+
+* Use job-index for unique artifacts names
+
+* Revert event for HPOS e2e to push
+
+* Add api tests for HPOS disabled
+
+* Use unique artifact name for api tests
+
+* Revert event for HPOS disabled api tests to push
+
+* Rebuild monorepo utils to fix a merge conflict
+
+* Updated wording</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96a8cd4</div>
+                                        <div class="message">Update package release readme with note about post-publish delay (#47097)
+
+Add note about delay between release and update</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 May 2024, 05:31:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -591,108 +1347,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">9 May 2024, 08:13:21</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2234 ⚠️⚠️⚠️ DOKAN / STRIPE EXPRESS - Delayed and Order Status to process withdraw not respected</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Sophie-2e in <span class="repo">getdokan/dokan</span></div>
-                                    <div class="comment">
-                                        Hi @Sophie-2e, thank you for the clarification and additional details. I understand the issue better now.
-
-You're correct that the order status update itself is working as expected, with the status changing to '
-                                        <code>Processing</code>
-                                        ' after a purchase, which is the intended behavior.
-
-I also acknowledge that the issue is not specific to any particular product type and is occurring across simple, variable, and kit products.
-
-
-As you mentioned, the root cause seems to be related to the Stripe Express API not adhering to the delay and order status settings configured in Dokan or WooPayment. This is resulting in vendors being paid before the configured 6-day delay period, even when the order status is still in '
-                                        <code>Processing</code>
-                                        '.
-To provide some additional context, the disburse funds method in Stripe depends on the following configurations:
-
-'Payment Completed (Order Processing)': Funds are disbursed to the vendor when the payment is completed, and the order status is set to '
-                                        <code>Processing</code>
-                                        '.
-
-'Order Completed': Funds are disbursed to the vendor only when the order status is marked as '
-                                        <code>Completed</code>
-                                        '.
-
-'Delayed': Funds are disbursed to the vendor after a specified delay period, regardless of the order status being '
-                                        <code>Processing</code>
-                                        ' or '
-                                        <code>Completed</code>
-                                        '.
-                                        <i>It seems that the issue lies with the Stripe Express API somehow where the delay and the Order Status adding in Dokan Settings or WooPayment settings are not respected resulting in the vendor being paid in less than 24h while the order status is still 'processing'</i>
-                                        Based on your site's configuration, you have chosen the '
-                                        <code>Delayed</code>
-                                        ' option with a 6-day delay period. This means that Stripe should disburse payments to vendors after a 6-day delay, even if the order status is 'Processing' or 'Completed'. You mention in the issue that vendors are being paid within 24 hours.
-It's important to note that while Stripe can initiate and disburse payments to vendors, it cannot directly change the order status in WooCommerce or Dokan. The order status update needs to be handled manually.
-                                        <b>References:</b>
-                                        Screenshot of your Stripe Express Settings
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 May 2024, 06:36:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2234 ⚠️⚠️⚠️ DOKAN / STRIPE EXPRESS - Delayed and Order Status to process withdraw not respected</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Sophie-2e in <span class="repo">getdokan/dokan</span></div>
-                                    <div class="comment">
-                                        Dear @Sophie-2e, thank you for raising this issue and providing the video demonstration in the Dokan support ticket #56084. I appreciate you taking the time to explain the problem in detail.
-After carefully reviewing the video and investigating the issue, I have identified the root cause of the problem. The order status not being updated correctly is related to the product type you are trying to purchase.
-In your case, you are purchasing a simple (physical) product that requires shipping. For such products, the expected behavior is that the order status will be set to "
-                                        <code>Processing</code>
-                                        " after the purchase, instead of "
-                                        <code>Completed</code>
-                                        ." This is because the order needs to go through the shipping process before it can be marked as completed.
-I appreciate your patience and understanding as I work to resolve this issue. Thank you for your continued support and for bringing this issue to our attention.
-                                        <b>References:</b>
-                                        Screenshot of Your screen recording
-Screenshot of purchased product details
-Screenshot of purchased order details
-                                    </div>
-                                </div>
-                                <div class="timestamp">8 May 2024, 12:55:41</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#645 Update property data types and API parameter types</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by mralaminahamed in <span class="repo">Mangopay/mangopay2-php-sdk</span></div>
-                                    <div class="comment">@iulian03 are you a MangoPay Team member?</div>
-                                </div>
-                                <div class="timestamp">8 May 2024, 12:11:29</div>
                             </section>
                         </div>
                     </section>
@@ -1340,7 +1994,7 @@ Screenshot of purchased order details
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2024, 05:17:05 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 06:18:35 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
