@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2281" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2131" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant{color:#b44418}.token.property{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    67.4k added, 8.58k removed
+                                    28.7k added, 10.5k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.95mb of code in 2185 edited files across 292 commits over last 13 days</small>
+                <small>estimation from 1.96mb of code in 2203 edited files across 312 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="583.4171069955745" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="583.4171069955745" y="0" width="182.58851253207695" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="766.0056195276514" y="0" width="89.54895460379514" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="855.5545741314465" y="0" width="43.40956678595665" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="898.9641409174033" y="0" width="7.305949391107359" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="906.2700903085107" y="0" width="3.2733458561576585" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="909.5434361646684" y="0" width="3.2093120760185707" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="912.752748240687" y="0" width="7.247251759313194" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="578.4111498486825" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="578.4111498486825" y="0" width="186.02575519096237" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="764.4369050396449" y="0" width="88.78058798594932" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="853.2174930255941" y="0" width="45.92714415743591" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="899.1446371830301" y="0" width="7.243261360313084" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="906.3878985433432" y="0" width="3.245259211308888" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="909.6331577546521" y="0" width="3.1817748671659105" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="912.8149326218181" y="0" width="7.185067378182021" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -536,6 +536,125 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/phpcs-security-issues-01-30</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ba1d250</div>
+                                        <div class="message">update: add phpcs rule for exception output</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ef53faf</div>
+                                        <div class="message">style: ignore escaping some variables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#109dae7</div>
+                                        <div class="message">style: ignore escaping for some variables</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 May 2024, 09:01:12</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/phpcs-security-issues-01-30</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1f28259</div>
+                                        <div class="message">reactor: escaping some variables and some are ignored</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e635fd2</div>
+                                        <div class="message">style: ignore escaping for back trace message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e39a4a6</div>
+                                        <div class="message">refactor: escaping some variables</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#145f3ac</div>
+                                        <div class="message">style: ignore escaping for back trace message</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 May 2024, 08:58:54</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/phpcs-security-issues-01-30</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4c37c33</div>
+                                        <div class="message">refactor: escaping some text</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9057e12</div>
+                                        <div class="message">refactor: shop order custom columns data</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f10d22c</div>
+                                        <div class="message">style: ignore escaping the svg label image from radio image control</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2a4973</div>
+                                        <div class="message">refactor: heading control description</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#854151f</div>
+                                        <div class="message">refactor: escaping note and ship info</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27f37c9</div>
+                                        <div class="message">style: ignore scaping wc_esc_json function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#879b167</div>
+                                        <div class="message">refactor: escaping installed error message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e039ff5</div>
+                                        <div class="message">refactor: escaping dokan withdraw method title</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8557ee</div>
+                                        <div class="message">refactor: escaping tooltip text</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81c66b2</div>
+                                        <div class="message">refactor: page view scripts load from template</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 May 2024, 08:50:53</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -644,862 +763,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">10 May 2024, 06:28:26</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">mralaminahamed/woocommerce-gateway-stripe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e93d1b2</div>
-                                        <div class="message">Fix 'No such customer' error in new checkout experience  (#3110)
-
-* add recreated customer id in payment_information</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#064edbc</div>
-                                        <div class="message">Hide BNPLs on the checkout pages when capture later is enabled. (#3123)
-
-* Flag Affirm as non-compatible for manual capture
-
-* Continue the checkout-enabled checks when the payment method is within currency limits
-
-Before, we were returning early with the is_inside_currency_limits() check. There are other factors to consider before deciding whether the payment method is enabled. This commit prevents an early return when the currency limits check passes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd363ea</div>
-                                        <div class="message">Removing BNPL payments from settings when outside a supported Stripe account country (#3114)
-
-* Add domestic payment restrictions and multiple currency support for Klarna
-
-* Starting the Affirm implementation
-
-* Including common updates to shared classes
-
-* Including temp payment icon
-
-* Fix include error
-
-* Updating currencies and icon
-
-* Additional icon + copying some common unit test changes
-
-* Adding currency limit verification
-
-* Fix conversion rate
-
-* Fix currency conversion
-
-* Fix payment method being displayed on the pay for order page
-
-* Fix limit verification
-
-* Adding specific unit tests
-
-* Adding specific unit tests
-
-* Fix tests
-
-* Revert unnecessary change
-
-* Readme and changelog updates
-
-* Fix rebase issue
-
-* Inject WC_Stripe_Account as a dependency of WC_Stripe_UPE_Payment_Gateway
-
-* Starting Afterpay method implementation
-
-* Multiple updates to the main payment method classes
-
-* Conditional attributes for Clearpay
-
-* Introducing a new payment method data hook
-
-* Fix include
-
-* Improve conditional strings handling
-
-* Adding specific unit tests
-
-* Additional icon + copying some common unit test changes
-
-* Readme and changelog update + fix unit test
-
-* Fix unit JS tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Add missing icon image
-
-* Adding limits per currency
-
-* Fix rebase issues
-
-* Switch the keys of the first and second levels of the currency limit array
-
-* Display the afterpay/clearpay icon on the block checkout
-
-* Define the display of afterpay/clearpay in the settings via JS params
-
-* Remove use-payment-methods-data
-
-* Access wc_stripe_settings_params through the window dom object
-
-* Adjust unnecesary diffs
-
-* Remove useAccount mocks
-
-* Update afterpay constant on the client side
-
-* Temporary fix for rendering Clearpay on the block checkout
-
-Prevent the block checkout from breaking on render when there's a GB Stripe account connected. This displays the Afterpay icon instead of the Clearpay one. Fixing that separately to allow testing the rest of the functionality in the meantime.
-
-* Update innacurate inline comments on currency limits
-
-* Don't validate currency limit in non-checkout contexts
-
-* Remove /**
-
-* Use the correct icon for clearpay/afterpay based on Stripe Account country
-
-* Fix icon issues on Admin pages
-
-* Removing BNPL payments from settings when outside a supported Stripe account country
-
-* Fix tests
-
-* Changelog and readme updates
-
----------
-
-Co-authored-by: Danae Millan &lt;danae.millan@automattic.com&gt;
-Co-authored-by: Wesley Rosa &lt;wesley.rosa@automattic.com&gt;
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87c3bd0</div>
-                                        <div class="message">Reorder changelog entries</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64ac73c</div>
-                                        <div class="message">Restrict Affirm and Klarna to domestic and cross EEA border transactions (#3108)
-
-* Restrict Klarna to domestic transactions and cross EEA border transactions
-
-* Restrict Klarna to domestic transactions and cross EEA border transactions
-
-* Expand account out to variable to avoid possible error
-
-* Use array merge to add Switzerland and UK to EEA countries
-
-* Use a list of available countries to utilise existing logic
-
-* Fix comments
-
----------
-
-Co-authored-by: Danae Millan &lt;danae.millan@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fd4a6a</div>
-                                        <div class="message">[BNPL] Don't validate currency limit in non-checkout contexts (#3115)
-
-* Don't validate currency limit in non-checkout contexts
-
-* Adjust unit tests for UPE payment methods
-
-* Reset woocommerce_stripe_settings on unit tests setup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#133e87b</div>
-                                        <div class="message">Add Afterpay (Clearpay) to the available payment methods (#3091)
-
-* Add domestic payment restrictions and multiple currency support for Klarna
-
-* Starting the Affirm implementation
-
-* Including common updates to shared classes
-
-* Including temp payment icon
-
-* Fix include error
-
-* Updating currencies and icon
-
-* Additional icon + copying some common unit test changes
-
-* Adding currency limit verification
-
-* Fix conversion rate
-
-* Fix currency conversion
-
-* Fix payment method being displayed on the pay for order page
-
-* Fix limit verification
-
-* Adding specific unit tests
-
-* Adding specific unit tests
-
-* Fix tests
-
-* Revert unnecessary change
-
-* Readme and changelog updates
-
-* Fix rebase issue
-
-* Inject WC_Stripe_Account as a dependency of WC_Stripe_UPE_Payment_Gateway
-
-* Starting Afterpay method implementation
-
-* Multiple updates to the main payment method classes
-
-* Conditional attributes for Clearpay
-
-* Introducing a new payment method data hook
-
-* Fix include
-
-* Improve conditional strings handling
-
-* Adding specific unit tests
-
-* Additional icon + copying some common unit test changes
-
-* Readme and changelog update + fix unit test
-
-* Fix unit JS tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Add missing icon image
-
-* Adding limits per currency
-
-* Fix rebase issues
-
-* Switch the keys of the first and second levels of the currency limit array
-
-* Display the afterpay/clearpay icon on the block checkout
-
-* Define the display of afterpay/clearpay in the settings via JS params
-
-* Remove use-payment-methods-data
-
-* Access wc_stripe_settings_params through the window dom object
-
-* Adjust unnecesary diffs
-
-* Remove useAccount mocks
-
-* Update afterpay constant on the client side
-
-* Temporary fix for rendering Clearpay on the block checkout
-
-Prevent the block checkout from breaking on render when there's a GB Stripe account connected. This displays the Afterpay icon instead of the Clearpay one. Fixing that separately to allow testing the rest of the functionality in the meantime.
-
-* Update innacurate inline comments on currency limits
-
-* Don't validate currency limit in non-checkout contexts
-
-* Remove /**
-
-* Use the correct icon for clearpay/afterpay based on Stripe Account country
-
-* Fix icon issues on Admin pages
-
----------
-
-Co-authored-by: Danae Millan &lt;danae.millan@automattic.com&gt;
-Co-authored-by: Wesley Rosa &lt;wesley.rosa@automattic.com&gt;
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e7a5d2</div>
-                                        <div class="message">[Affirm] - Dynamically display the available purchasing currency on payment method setting screen (#3103)
-
-* Dynamically display available currency on payment method setting screen
-
-* Remove affirm as a payment method expected for non-us accounts
-
-* Update client/settings/general-settings-section/payment-methods-list.js
-
-Co-authored-by: Mayisha &lt;33387139+Mayisha@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: Mayisha &lt;33387139+Mayisha@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#25af16b</div>
-                                        <div class="message">Remove duplicate changelog entry added in #2996</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff47373</div>
-                                        <div class="message">Add more detailed error details to a subscription renewal failure (#2996)
-
-* Add more detailed error details to a subscription renewal failure
-
-* Add changelog entry
-
-* Add the request log url whenever possible when any type of error occurs
-
-* Remove \\ added in error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60f9276</div>
-                                        <div class="message">Add Affirm to the available payment methods (#3083)
-
-* Add domestic payment restrictions and multiple currency support for Klarna
-
-* Starting the Affirm implementation
-
-* Including common updates to shared classes
-
-* Including temp payment icon
-
-* Fix include error
-
-* Updating currencies and icon
-
-* Additional icon + copying some common unit test changes
-
-* Adding currency limit verification
-
-* Fix conversion rate
-
-* Fix currency conversion
-
-* Fix payment method being displayed on the pay for order page
-
-* Fix limit verification
-
-* Adding specific unit tests
-
-* Adding specific unit tests
-
-* Fix tests
-
-* Revert unnecessary change
-
-* Readme and changelog updates
-
-* Fix rebase issue
-
-* Removing USD mention from method display in admin
-
-* Removing unnecessary countries property
-
-* Using existing helper function to calculate the order/cart totals
-
-* Update includes/payment-methods/class-wc-stripe-upe-payment-method.php
-
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;
-
----------
-
-Co-authored-by: Danae Millan &lt;danae.millan@automattic.com&gt;
-Co-authored-by: Wesley Rosa &lt;wesley.rosa@automattic.com&gt;
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3be4528</div>
-                                        <div class="message">Removing brand selection (for co-branded cards) when UPE is disabled (#3058)
-
-* Handling saving of co-branded credit cards
-
-* Refactor co-branded card handler
-
-* Correctly displaying co-branded cards in payment method screen
-
-* Refactoring card brand label display
-
-* Display of the preferred network when listing cards
-
-* Display of the preferred network when listing cards
-
-* Fix tests
-
-* Fix tests
-
-* New unit tests for the co-branded card hooks
-
-* Specific unit tests for the new hooks
-
-* Fix tests
-
-* Co-branded credit card handling with native credit card class
-
-* Removing unnecessary changes already present in the main WooCommerce code
-
-* Removing include
-
-* Tests changes reverted
-
-* Updating token class with base class
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix e2e tests
-
-* Revert e2e tests updates
-
-* Removing unnecessary test
-
-* Removing unnecessary test
-
-* Fix compatibility version
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Reverting linting changes
-
-* Reverting linting changes
-
-* Adding specific unit tests
-
-* Disabling brand selection for co-branded cards when UPE is disabled
-
-* Changelog and readme updates
-
-* Reverting unnecessary change
-
-* Removing unnecessary changes from original branch
-
-* Fix lint issue
-
-* Fix card brand enabled in legacy checkout
-
----------
-
-Co-authored-by: Wesley Rosa &lt;wesley.rosa@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42a287e</div>
-                                        <div class="message">Add Klarna to the available payment methods (#3040)
-
-* Display Klarna on the payment methods settings tab
-
-* Adjust php unit tests
-
-* Add Klarna icon on the shortcode checkout page
-
-* Add domestic payment restrictions and multiple currency support for Klarna
-
-* Fix error when the account doesn't have a default currency
-
-* Set an instance of WC_Stripe_Account as a property of WC_Stripe_UPE_Payment_Method
-
-* Adjust failing tests due to the introduced accept_only_domestic_payment check
-
-* Inject WC_Stripe_Account as a dependency of WC_Stripe_UPE_Payment_Gateway
-
-* Adjust unit tests
-
-* Remove currency in the Klarna payment method description
-
-* Add base 'supported_countries' property to WC_Stripe_UPE_Payment_Method
-
-* Restrict payment methods on the block checkout based on the customer billing country
-
-* Hide payment methods on the shortcode checkout based on the customer billing country
-
-* Update unit tests for the payment fields html output
-
-* Keep  as the first argument of the is_enabled_at_checkout method
-
-* Add php unit tests for has_domestic_transactions_restrictions
-
-* Remove unit test leftover from a previous implementation
-
-* Update function description
-
-This function description suggests that it will hide the payment element when in fact it just returns a bool that can be used for that purpose.
-
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;
-
-* Pass the billing country to the localized JS params on the Pay for order page
-
-* Fix Klarna icon sizing
-
-* Add changelog entries
-
----------
-
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96ebc33</div>
-                                        <div class="message">Reduce margin for the disabled icon of the payment method settings page (#3098)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#21cc234</div>
-                                        <div class="message">Using the preferred brand when paying with co-branded CC (#3030)
-
-* Handling saving of co-branded credit cards
-
-* Refactor co-branded card handler
-
-* Correctly displaying co-branded cards in payment method screen
-
-* Refactoring card brand label display
-
-* Display of the preferred network when listing cards
-
-* Display of the preferred network when listing cards
-
-* Fix tests
-
-* Fix tests
-
-* New unit tests for the co-branded card hooks
-
-* Specific unit tests for the new hooks
-
-* Fix tests
-
-* Changelog and readme updates
-
-* Co-branded credit card handling with native credit card class
-
-* Removing unnecessary changes already present in the main WooCommerce code
-
-* Removing specific unit tests
-
-* Removing include
-
-* Tests changes reverted
-
-* Updating token class with base class
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix e2e tests
-
-* Revert e2e tests updates
-
-* Removing unnecessary test
-
-* Removing unnecessary test
-
-* Using the preferred brand when paying with co-branded CC
-
-* Including compatibility file
-
-* Including specific unit test
-
-* Adding preferred card brand as a new meta
-
-* Fix compatibility version
-
-* Changelog and readme updates
-
-* Improving compatibility check
-
-* Fix tests
-
-* Improve compatibility verification
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Simplifyied approach to store co-branded credit cards information
-
-* Reverting linting changes
-
-* Reverting linting changes
-
-* Adding specific unit tests
-
-* Updating minimum WC version required
-
-* Changing the main implementation with the latest changes on the base WC classes
-
-* Renaming test class
-
-* Improve test version verification
-
-* Tracking the selection of a preferred brand when paying with co-branded credit cards (#3074)
-
-* Tracking the selection of a preferred brand when paying with co-branded credit cards
-
-* Changelog and readme updates
-
-* Replacing WC_Tracks call with wc_admin_record_tracks_event
-
-* Moving the preferred card metric definition
-
-* Reverting testing change
-
-* Renaming tracked co-badged event
-
----------
-
-Co-authored-by: Wesley Rosa &lt;wesley.rosa@automattic.com&gt;
-
-* Update includes/class-wc-stripe-co-branded-cc-compatibility.php
-
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;
-
-* Update includes/class-wc-stripe-co-branded-cc-compatibility.php
-
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;
-
-* Fix lint issues
-
-* Adding check for the tracking function before calling it
-
-* Fix passing of the preferred card brand in request
-
-* Moving the preferred card brand only to the update request
-
----------
-
-Co-authored-by: Wesley Rosa &lt;wesley.rosa@automattic.com&gt;
-Co-authored-by: James Allan &lt;james.allan@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b40725</div>
-                                        <div class="message">Fix potential mandate errors if subscription period includes uppercase (#3077)
-
-* Ensure subscription billing period is all lowercase to avoid errors
-
-* Remove unnecessary duplication
-
-* Add changelog entries</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb6a0f7</div>
-                                        <div class="message">Fixes orders that require manual review due to risk/fraud rules being marked as processing/completed before approval (#3063)
-
-* Introduce helpers for getting risk outcome and storing hold status meta
-
-* Replace existing update/get meta with new helpers
-
-* Fix orders being stuck on-hold when review webhook is processed earlier than usual
-
-* Fixes an issue when the review.open and intent/change.succeeded come in at the same time
-
-* if the review.close even has a reason other than approved. don't update the status
-
-* On review.close mark the order as completed if it the charge has been captured and approved
-
-* Fix handling review.closed events that resulted in the charge being refunded
-
-* Remove unused save param in set_stripe_order_status_before_hold()
-
-* Remove default status from set_stripe_order_status_before_hold()
-
-* Refactor get_stripe_order_status_before_hold() to return early if meta exists
-
-* Improve readability of getting the default status
-
-* Remove unneeded 'single' param as its default value
-
-* Add changelog entry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bb4821</div>
-                                        <div class="message">Properly handle refund webhook events for non-card payments (#3075)
-
-* Fix processing webhook events for orders purchased with an APM where the payment is stored as stripe_{apm}
-
-* Add changelog entry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bdf0f8</div>
-                                        <div class="message">Prevents duplicate stripe meta stored on orders caused by the redirect flow and webhook event being processed at the same time (#3078)
-
-* Don't process the intent succeeded webhook if it will be handled by redirect flow
-
-* add changelog entry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba264c9</div>
-                                        <div class="message">Handling saving of co-branded credit cards (native CC Woo class version) (#3024)
-
-* Handling saving of co-branded credit cards
-
-* Refactor co-branded card handler
-
-* Correctly displaying co-branded cards in payment method screen
-
-* Refactoring card brand label display
-
-* Display of the preferred network when listing cards
-
-* Display of the preferred network when listing cards
-
-* Fix tests
-
-* Fix tests
-
-* New unit tests for the co-branded card hooks
-
-* Specific unit tests for the new hooks
-
-* Fix tests
-
-* Changelog and readme updates
-
-* Co-branded credit card handling with native credit card class
-
-* Removing unnecessary changes already present in the main WooCommerce code
-
-* Removing specific unit tests
-
-* Removing include
-
-* Tests changes reverted
-
-* Updating token class with base class
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix tests
-
-* Fix e2e tests
-
-* Revert e2e tests updates
-
-* Removing unnecessary test
-
-* Removing unnecessary test
-
-* Fix compatibility version
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Removing unnecessary test part
-
-* Simplifyied approach to store co-branded credit cards information
-
-* Reverting linting changes
-
-* Reverting linting changes
-
-* Adding specific unit tests
-
----------
-
-Co-authored-by: Wesley Rosa &lt;wesley.rosa@automattic.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 May 2024, 06:26:10</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">mralaminahamed/update-browserslist-db</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eff4059</div>
-                                        <div class="message">Release 1.0.15 version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f3ab06</div>
-                                        <div class="message">Improve error message on missed browserslist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39a5f63</div>
-                                        <div class="message">Release 1.0.14 version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af0ec1a</div>
-                                        <div class="message">Update dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0aa5fa5</div>
-                                        <div class="message">Merge pull request #34 from mralaminahamed/main
-
-Feat(yarn-detection): detect the presence of yarn and hadoop installations</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 May 2024, 06:25:22</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a636976</div>
-                                        <div class="message">Merge branch 'release/3.11.0' into develop</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">10 May 2024, 06:18:37</div>
                             </section>
                         </div>
                     </section>
@@ -2147,7 +1410,7 @@ Feat(yarn-detection): detect the presence of yarn and hadoop installations</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 May 2024, 08:20:41 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2024, 09:16:28 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
