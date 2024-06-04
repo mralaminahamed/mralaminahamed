@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    119k added, 36k removed
+                                    503k added, 32.1k removed
                                 </div>
                             </section>
                             <section>
@@ -293,7 +293,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2mb of code in 2463 edited files across 391 commits over last 13 days</small>
+                <small>estimation from 2.01mb of code in 2470 edited files across 405 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -540,17 +540,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/phpstan-freemius-stubs</span>
+                                        <span class="repo">thewpsquad/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2ec45f6</div>
-                                        <div class="message">refactor: update docbloc for praram type</div>
+                                        <div class="sha">#afbcd9c</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Jun 2024, 22:01:35</div>
+                                <div class="timestamp">4 Jun 2024, 18:38:53</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -561,17 +561,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/payment-gateway-mangopay2-php-sdk</span>
+                                        <span class="repo">thewpsquad/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix/php-related-issues</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#586b770</div>
-                                        <div class="message">refactor: property type for `PayOut.php` (phpstan)</div>
+                                        <div class="sha">#08eb32e</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Jun 2024, 11:33:08</div>
+                                <div class="timestamp">4 Jun 2024, 18:38:37</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -582,17 +582,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/payment-gateway-mangopay2-php-sdk</span>
+                                        <span class="repo">thewpsquad/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix/php-related-issues</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#91ca58a</div>
-                                        <div class="message">refactor: property type for `PayOut.php` (phpstan)</div>
+                                        <div class="sha">#b0115f6</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Jun 2024, 11:29:40</div>
+                                <div class="timestamp">4 Jun 2024, 18:38:33</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -603,17 +603,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/payment-gateway-mangopay2-php-sdk</span>
+                                        <span class="repo">thewpsquad/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix/php-related-issues</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3f3e135</div>
-                                        <div class="message">refactor: property type for `PayOut.php`</div>
+                                        <div class="sha">#02785cd</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Jun 2024, 11:28:02</div>
+                                <div class="timestamp">4 Jun 2024, 18:36:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -624,17 +624,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/payment-gateway-mangopay2-php-sdk</span>
+                                        <span class="repo">thewpsquad/.github</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix/php-related-issues</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f5303e0</div>
-                                        <div class="message">update: added php versions for `php 8.1` and `php 8.2` to `build.yaml`</div>
+                                        <div class="sha">#ad8d5b1</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Jun 2024, 10:37:27</div>
+                                <div class="timestamp">4 Jun 2024, 18:36:28</div>
                             </section>
                         </div>
                     </section>
@@ -793,7 +793,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 104k out of 137m users</span>
+                                    <span class="gh">ranked 104k out of 135m users</span>
                                 </div>
                                 <div class="text">Published 136 public repositories</div>
                             </div>
@@ -840,7 +840,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.29158110882957 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="33.37645448323066 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1161,7 +1161,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.13m out of 137m users</span>
+                                    <span class="gh">ranked 3.13m out of 135m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -1283,7 +1283,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2024, 19:14:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jun 2024, 20:21:35 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
