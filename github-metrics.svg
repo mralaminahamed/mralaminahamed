@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    576k added, 34.1k removed
+                                    575k added, 36.7k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.51mb of code in 3174 edited files across 407 commits over last 14 days</small>
+                <small>estimation from 2.51mb of code in 3172 edited files across 403 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="477.75388559687855" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="477.75388559687855" y="0" width="180.08289334668436" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="657.8367789435629" y="0" width="98.43334242513865" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="756.2701213687016" y="0" width="94.01428348678246" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="850.2844048554841" y="0" width="35.92754582430861" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="886.2119506797926" y="0" width="19.255891696820644" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="905.4678423766132" y="0" width="8.613419964592556" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="914.0812623412057" y="0" width="5.918737658794206" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="477.78047633898467" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="477.78047633898467" y="0" width="180.04171116992748" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="657.8221875089122" y="0" width="98.4388210108749" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="756.2610085197871" y="0" width="94.01951611731013" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="850.2805246370973" y="0" width="35.9295454733629" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="886.2100701104603" y="0" width="19.256963437868848" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="905.4670335483291" y="0" width="8.613899368812666" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="914.0809329171418" y="0" width="5.919067082858402" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1868,7 +1868,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@58340 602fd350-edb4-49c9-b59
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jun 2024, 07:17:18 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jun 2024, 08:23:46 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
