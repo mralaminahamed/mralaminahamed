@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    320k added, 135k removed
+                                    591k added, 102k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.13mb of code in 3330 edited files across 850 commits over last 14 days</small>
+                <small>estimation from 4.84mb of code in 2621 edited files across 808 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="571.3798812763636" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="571.3798812763636" y="0" width="121.26597390828825" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="692.6458551846517" y="0" width="86.70094933483665" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="779.3468045194884" y="0" width="63.76413213697304" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="843.1109366564615" y="0" width="42.664264162129456" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="885.7752008185909" y="0" width="13.982727824927771" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="899.7579286435187" y="0" width="13.495428621679498" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="913.2533572651981" y="0" width="6.74664273480182" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="600.2667875412808" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="600.2667875412808" y="0" width="95.14724157706671" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="695.4140291183476" y="0" width="84.26431262735908" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="779.6783417457066" y="0" width="64.99856394266058" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="844.6769056883671" y="0" width="45.27389656731174" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="889.9508022556788" y="0" width="14.359309292050067" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="904.310111547729" y="0" width="10.67199737760748" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="914.9821089253364" y="0" width="5.017891074663518" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -341,15 +341,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        SCSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        SCSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -873,7 +873,7 @@ Generate stubs from latest version of Ninja Forms plugin</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 92.2k out of 135m users</span>
+                                    <span class="gh">ranked 92.2k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 146 public repositories</div>
                             </div>
@@ -1241,7 +1241,7 @@ Generate stubs from latest version of Ninja Forms plugin</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.15m out of 135m users</span>
+                                    <span class="gh">ranked 3.15m out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -1363,7 +1363,7 @@ Generate stubs from latest version of Ninja Forms plugin</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2024, 07:17:03 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2024, 08:23:15 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
