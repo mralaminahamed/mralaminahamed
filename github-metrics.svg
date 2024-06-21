@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1964" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2181" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    557k added, 95.2k removed
+                                    535k added, 61.6k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.39mb of code in 2278 edited files across 750 commits over last 13 days</small>
+                <small>estimation from 4.51mb of code in 2383 edited files across 771 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="613.7454194090744" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="613.7454194090744" y="0" width="80.23598205371754" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="693.9814014627918" y="0" width="73.42638548825977" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="767.4077869510517" y="0" width="72.48917963623596" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="839.8969665872876" y="0" width="52.139502587966966" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="892.0364691752546" y="0" width="11.93878796226057" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="903.9752571375152" y="0" width="10.31090571350888" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="914.2861628510241" y="0" width="5.713837148975981" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="609.628827606987" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="609.628827606987" y="0" width="86.90770434008516" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="696.5365319470721" y="0" width="72.51980401718778" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="769.0563359642599" y="0" width="70.9964312788678" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="840.0527672431276" y="0" width="51.76373206073312" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="891.8164993038607" y="0" width="11.7815911094608" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="903.5980904133215" y="0" width="9.916919732773172" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="913.5150101460947" y="0" width="6.484989853905157" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -323,15 +323,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PHP
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PHP
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -537,6 +537,394 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 74 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8c680e8</div>
+                                        <div class="message">Fix flaky customize store transitional e2e test (#48532)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0892120</div>
+                                        <div class="message">Fix flaky checkout block e2e test (#48527)
+
+Fix flaky checkout block test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4df98f6</div>
+                                        <div class="message">Fire action if order line item has been restored (#40848)
+
+* Fire action if order line item has been restored
+
+This is the equivalent to the 'woocommerce_reduce_order_item_stock' hook in the wc_reduce_stock_levels() function.
+
+* Add @since tag to docblock
+
+* Change position of @since tag
+
+* Add changelog
+
+* Use tabs for indents
+
+* Fix indents again
+
+* Fix another indent</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb9b332</div>
+                                        <div class="message">Add best practices advice to the API generation screen (#48483)
+
+* Add "best practice" advice to the API key generation screen.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28b4d22</div>
+                                        <div class="message">Prefer update URLs over PluginURI in My Subscriptions (#47950)
+
+* Prefer update URLs over PluginURI in My Subscriptions
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add comments to clarify how the function works
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65423a4</div>
+                                        <div class="message">Add `queryId` to the Product Collection in blockified templates (#48530)
+
+* Add hardcoded queryId to the blockified templates
+
+* Add additional check in PC block to verify the content is being rendered
+
+* Add changelog
+
+* Lint fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a203823</div>
+                                        <div class="message">Add CYS Fiverr Logo Maker CTA (#48486)
+
+* Add markup for Fiverr logo maker.
+
+Add text CTA with link to WooCommerce landing page for Fiverr logo
+maker in sidebar navigation on the logo view.
+
+* Adjust styles for Fiverr logo maker CTA.
+
+* Update string output to use interpolateComponents
+
+The text in this addition is mixed with string and markup.
+
+This segmentation can lead to translation issues because
+different languages have different syntactic structures.
+
+Here, we utilize interpolateComponents to remedy these potential issues.
+
+See
+https://github.com/woocommerce/woocommerce/pull/48486#discussion_r1639637477
+for context.
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0652c2e</div>
+                                        <div class="message">Set stock quantity value as 0 by default (#48448)
+
+* Set value to stock quantity
+
+* Add changelog
+
+* Undo set_stock_quantity
+
+* Fix orders.test.js lint
+
+* Fix product-list-test lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efb7f6a</div>
+                                        <div class="message">Prepare Packages for Release (#48499)
+
+* Automated change: Prep @woocommerce/extend-cart-checkout-block for release.
+
+* Re-add removed items from changelog with updated prefixes
+
+---------
+
+Co-authored-by: opr &lt;opr@users.noreply.github.com&gt;
+Co-authored-by: Thomas Roberts &lt;thomas.roberts@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#317fcae</div>
+                                        <div class="message">CYS: fix logic to disable mover buttons (#48502)
+
+* CYS: fix logic to disable mover buttons
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4162a6e</div>
+                                        <div class="message">Wrap activity panels in error boundary (#48415)
+
+* Fix review error type
+
+* Add changelog
+
+* Rename global error-boundary class to avoid conflict
+
+* Rename global error-boundary class to avoid conflict
+
+* Wrap panels in error boundary
+
+* Remove console
+
+* Reformat
+
+* Fix test
+
+* Fix test
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e92b0e</div>
+                                        <div class="message">Optimize the regeneration of the product attributes lookup table (#47700)
+
+Fixes  #46699 
+
+* Add the ProductAttributesLookup\CLIRunner class
+
+* Fix the restoring of the lookup table usage option
+
+* Fix the restoring of the lookup table usage option
+
+* Improve the progress bar of the regeneration command
+
+* Add changelog file
+
+* Fix existing unit tests
+
+* Add linter exception for TODO comment
+
+* Fix example in CLI runner
+
+* Optimize data insertion/update in the product attributes lookup table
+
+The optimized method uses direct database access to the database tables
+required to gather all the required data (posts, terms, teaxonomies)
+instead of the standard WordPress and WooCommerce functions.
+This is done only if:
+
+1. The curent data store for products is the posts table, AND
+2. The woocommerce_attribute_lookup_optimized_updates option is 'yes'
+
+Otherwise, the old existing code is used as a fallback instead.
+
+* Adjust the product attributes lookup table CLI tools.
+
+The "regenerate" and "regenerate_for_product" commands will now
+use the optimized update method by default if the data store
+for products is the posts table (irrespective of the value of the
+woocommerce_attribute_lookup_optimized_updates option).
+The --disable-db-optimization argument can be appended to
+use the old method instead.
+
+* Adjust unit tests for the product attributes lookup table data store.
+
+Now both the optimized data insert/update method and the old
+standard functions based method are tested.
+
+* Change the default step size for product attributes lookup table regeneration
+
+The previous value of 10 was too conservative and slowed down the
+regeneration unnecessarily (each step involves a call to
+wc_get_products, which is quite slow). The new value of 100 is not
+too high as to produce bottlenecks, but provides a significant
+performance gain.
+
+* Add a missing exception variable
+
+* Add changelog file
+
+* Replace sneaky spaces with tabs
+
+* Make the linter happy
+
+* Add extra code comment for clarity
+
+* Display error messages after CLI commands if table updates fail.
+
+* Use lookup table name variable in SQL query
+
+Co-authored-by: Corey McKrill &lt;916023+coreymckrill@users.noreply.github.com&gt;
+
+* Better description for the newly introduced setting
+
+Co-authored-by: Corey McKrill &lt;916023+coreymckrill@users.noreply.github.com&gt;
+
+* Fix typo in method name and change |= operator to ||
+
+* Fix linting issue and variable initialization
+
+---------
+
+Co-authored-by: Corey McKrill &lt;916023+coreymckrill@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#49c76bd</div>
+                                        <div class="message">Remove edit_comments_screen_text on gettext filter for performance (#48485)
+
+* Remove filter edit_comments_screen_text on gettext for performance
+
+The filter is removed to improve performance and avoid unnecessary calls. Acceptable tradeoff: When editing a product review in the Admin, the screen title changes from "Edit Review" to "Edit Comment".
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd9b2ee</div>
+                                        <div class="message">fix: label improvement on my order pages (#48374)
+
+* fix: label improvement on my order pages
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Update plugins/woocommerce/changelog/48374-fix-label-improvement-on-my-orders
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Update plugins/woocommerce/changelog/48374-fix-label-improvement-on-my-orders
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* version bump
+
+* Update plugins/woocommerce/changelog/48374-fix-label-improvement-on-my-orders
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* linting
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24391fb</div>
+                                        <div class="message">Do not attempt to re-save hooks after delivery when not already persisted (#48480)
+
+* Do not re-save hooks not in the DB after delivery
+
+* Add changelog
+
+* Do not try to deliver (async) webhooks that have been deleted</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5893ac</div>
+                                        <div class="message">Product Editor: Respect system setting for maximum upload file size for Images and Downloads (#48399)
+
+* Move productBlockEditorSettings type to global.d.ts
+
+* Set maxUploadFileSize to system settings
+
+* Changelog
+
+* Add maxUploadFileSize to test
+
+* Set maxUploadFileSize for downloads
+
+* Set maxUploadFileSize for variation image quick action
+
+* Remove unused EditDownloadsModal props
+
+* Fix typo in EditDownloadsModal prop
+
+* Remove unused EditDownloadsModalProps prop
+
+* Remove unused function
+
+* Show specific error message when upload of download file fails
+
+* Show error notice when upload fails for variation image quick action
+
+* Set maxUploadFileSize for download files menu item
+
+* Close downloads menu on error
+
+* Fix up types to avoid duplicate definitions
+
+* Show specific link error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cac7e0d</div>
+                                        <div class="message">[Experimental] Product Filters Redesign &gt; Parent block: Enable block customizations (#47594)
+
+* Enable block customizations
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+* Enable background and color customization
+
+* Add E2E tests
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5dc87be</div>
+                                        <div class="message">Fix flaky e2e test customize store logo picker (#48503)
+
+* Fix flaky logo picker e2e test
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9039890</div>
+                                        <div class="message">Fix core api tests results path and artifacts naming pattern (#48490)
+
+* Fix api tests results path
+
+* Add changelog
+
+* Run Core API tests - HPOS disabled on pull_request
+
+* Update the artifacts name pattern to avoid conflicts
+
+* Revert pull_request trigger</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c70064</div>
+                                        <div class="message">Update `@woocommerce/extend-cart-checkout-block` package to add Additional Checkout Fields examples (#48280)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">21 Jun 2024, 05:56:27</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 8 commits in
                                         <span class="repo">mralaminahamed/phpstan-wpforms-lite-stubs</span>
                                     </div>
@@ -668,53 +1056,6 @@ Generate stubs from latest version</div>
                                     <div>0 files changed <span class="code">++0 --0</span></div>
                                 </div>
                                 <div class="timestamp">17 Jun 2024, 23:13:34</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">mralaminahamed/phpstan-ninja-forms-stubs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">create-pull-request/patch</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2f00703</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.8.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e05e3fd</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.7.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28f3952</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.6.34</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6369a67</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.2.28</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c60dfaa</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.1.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1a7ec1</div>
-                                        <div class="message">Generate stubs for Ninja Forms 2.9.58</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7a9dc8</div>
-                                        <div class="message">Merge pull request #3 from mralaminahamed/create-pull-request/patch
-
-Generate stubs from latest version of Ninja Forms plugin</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">17 Jun 2024, 23:13:33</div>
                             </section>
                         </div>
                     </section>
@@ -873,7 +1214,7 @@ Generate stubs from latest version of Ninja Forms plugin</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 92.3k out of 139m users</span>
+                                    <span class="gh">ranked 92.3k out of 138m users</span>
                                 </div>
                                 <div class="text">Published 146 public repositories</div>
                             </div>
@@ -1241,7 +1582,7 @@ Generate stubs from latest version of Ninja Forms plugin</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.15m out of 139m users</span>
+                                    <span class="gh">ranked 3.15m out of 138m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -1363,7 +1704,7 @@ Generate stubs from latest version of Ninja Forms plugin</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jun 2024, 05:19:29 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2024, 06:20:05 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
