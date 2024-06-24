@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2231" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1565" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}svg.large .screenshot{width:904px;height:630px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    322k added, 178k removed
+                                    85.5k added, 54.7k removed
                                 </div>
                             </section>
                             <section>
@@ -293,7 +293,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.31mb of code in 1557 edited files across 667 commits over last 14 days</small>
+                <small>estimation from 4.31mb of code in 1558 edited files across 669 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -534,6 +534,68 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">create-pull-request/patch</span>
+                                        in
+                                        <span class="repo">mralaminahamed/phpunit-wordpress-tests</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Jun 2024, 20:05:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">mralaminahamed/phpunit-wordpress-tests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6ddeec5</div>
+                                        <div class="message">Merge pull request #5 from mralaminahamed/create-pull-request/patch
+
+Update from WordPress Develop Repository</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5adf398</div>
+                                        <div class="message">Update from WordPress Develop</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Jun 2024, 20:05:42</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#5 Update from WordPress Develop Repository</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">mralaminahamed/phpunit-wordpress-tests</span></div>
+                                    <div>1 file changed <span class="code">++52 --1</span></div>
+                                </div>
+                                <div class="timestamp">24 Jun 2024, 20:05:41</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -563,800 +625,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">24 Jun 2024, 11:13:55</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 48 commits in
-                                        <span class="repo">mralaminahamed/wordpress-develop</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#199bc9d</div>
-                                        <div class="message">Upgrade/Install: Delay automatic updates after installation.
-
-After installation, the user is directed to the `Log In` page. This triggers the `wp_schedule_update_checks()` function which is hooked to `init` and schedules updates to run immediately if no other events exist. As a result of more robust use of maintenance mode for automatic updates added in [58128], the user may be presented with a maintenance mode screen just after installing WordPress.
-
-To improve the user experience, this schedules core updates for 1 hour, plugin updates for 1.5 hours, and theme updates for 2 hours after installation.
-
-Follow-up to [58128], [58139], [58308], [58309].
-
-Props afragen, hellofromTonya, peterwilsoncc, nithi22, dd32.
-Fixes #61457. See #58281, #61391.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58435 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4d3def</div>
-                                        <div class="message">Editor: Update packages for 6.6 Beta 3.
-
-See https://make.wordpress.org/core/handbook/about/release-cycle/block-editor-release-process-for-major-releases/#package-updates-and-core-patches.
-See https://github.com/WordPress/gutenberg/pull/62641.
-See https://github.com/WordPress/wordpress-develop/pull/6850.
-
-Props ellatrix, cbravobernal.
-
-Fixes #61462.
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58434 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df16b6a</div>
-                                        <div class="message">Twenty Twenty-Four: Replace theme screenshot to remove drop shadow at the top.
-
-Follow up to [56716], [56726].
-
-Props beafialho.
-Fixes #61460.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58433 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b15bb67</div>
-                                        <div class="message">Site Health: Bump the recommended MariaDB version.
-
-MariaDB 10.4 reaches EOL (“End of Life”) on 18 June 2024. The recommended minimum is bumped to 10.5 for now, whose EOL is 24 June 2025.
-
-Also removes the skip in tests to allow the tests to run on all branches with this change.
-
-References:
-* [https://mariadb.org/about/#maintenance-policy MySQL Support Policies]
-* [https://make.wordpress.org/hosting/handbook/server-environment/#database Hosting team handbook: Server Environment: Database]
-
-Follow-up to [55665], [52420], [53435], [54069], [54076].
-
-Props peterwilsoncc, dd32, costdev, mukesh27, hellofromTonya.
-Fixes #61458.
-See #meta7679.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58432 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19684ed</div>
-                                        <div class="message">Build/Test Tools: install additional languages in end-to-end tests.
-
-As a follow-up to [58430], this makes another locale available during the e2e tests, allowing testing of scenarios that require loading translations in the future.
-
-See #61240.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58431 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0030c4</div>
-                                        <div class="message">Build/Test Tools: add new end-to-end tests for edge cases such as maintenance mode.
-
-Sometimes errors only occur in unusual code paths such as the maintenance mode or installation screens. Due to lack of tests for these scenarios in core, such errors are usually only noticed very late. This change adds new end-to-end (e2e) tests to prevent regressions in the following areas:
-
-- Maintenance mode (presence of a `.maintenance` file)
-- Fatal error handler (simulated with an mu-plugin that causes an error)
-- Installation screen (verifying full installation flow &amp; that there are no database errors)
-
-Thanks to these tests, an issue was already found and addressed in the default `wp_die` handler, as `wp_robots_noindex_embeds` and `wp_robots_noindex_search` used to cause PHP warnings due to `$wp_query` not existing.
-
-In the future, these tests can be extended to also test scenarios like localized error pages via `wp_load_translations_early()`.
-
-Fixes #61240.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58430 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3d82e0</div>
-                                        <div class="message">Do not use init to register block style variations defined via theme.json.
-
-Props oandregal, aaronrobertshaw, joemcgill, ramonopoly, andrewserong, swissspidy.
-See #61451.
-Fixes #61312.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58429 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e711c50</div>
-                                        <div class="message">Editor: Read theme.json files stored in `styles/` folder only once.
-
-Uses `read_json_file` to access cached file if it exists instead of using `wp_json_file_decode` directly.
-
-Props oandregal, aaronrobertshaw, joemcgill, ramonopoly, isabel_brison.
-See #61451.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58428 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b64d246</div>
-                                        <div class="message">Taxonomy: Remove unused `$term_ids` in `wp_set_object_terms()`.
-
-In [5983], a call to `clean_term_cache()` was removed from `wp_set_object_terms()`. Since then, the `$term_ids` array that had been populated inside one of the `foreach` loops before being passed to the removed `clean_term_cache()` call has not been used.
-
-This change removes the unused `$term_ids` variable.
-
-Follow-up to [5983].
-
-Props dlh, mukesh27.
-Fixes #61456.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58427 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38c6167</div>
-                                        <div class="message">Twenty Seventeen: Correct image height for the Site Logo block.
-
-Includes removing box shadow when the “Link image to home” setting is enabled.
-
-Follow-up to [43800].
-
-Props sabernhardt, nkeller15, karmatosed, hmbashar, rajinsharwar, huzaifaalmesbah, shailu25.
-Fixes #58474.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58426 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ef0b85</div>
-                                        <div class="message">Code Modernization: Fix 'ping_sites' non-nullable deprecation.
-
-When saving options from the Settings page, include the `'ping_sites'` option in the allowed "writing" options list only when the `'blog_public'` option is `'1'`.
-
-Fixes a PHP 8.1 and above "null to non-nullable" deprecation notice in `sanitize_option()` ([https://core.trac.wordpress.org/browser/trunk/src/wp-includes/formatting.php?annotate=blame#L4952 which happens when here] as part of [22255]):
-
-{{{
-Deprecated: explode(): Passing null to parameter #2 ($string) of type string is deprecated in .../wp-includes/formatting.php
-}}}
-
-**Explanation**
-
-[https://developer.wordpress.org/apis/options/#writing Per the documentation], the `ping_sites` option requires the `'blog_public'` option to have a value of `'1'` and must be a `string` data type. `null` is not valid for this option.
-
-The relationship between the 2 options shows itself in the `options-writing.php` code ([https://core.trac.wordpress.org/browser/tags/6.5.4/src/wp-admin/options-writing.php#L233 shown here] and in [4326]), as the `textarea#ping_sites` only renders when `'1' === get_option( 'blog_public' )`.
-
-**What happens if `'blog_public'` is not `'1'`?**
-
-The `'ping_sites'` option will not be a field on the page. Upon saving:
-
-* HTTP POST (`$_POST`) does not include `'ping_sites'`. 
-* Before this commit:
-   * The [https://core.trac.wordpress.org/browser/trunk/src/wp-admin/options.php#L333 option's value was set to] `null` before being passed to `update_option()`. 
-   * `update_option()` invokes `sanitize_option()`.
-   * A `null` value for the `'ping_sites'` case was passed to `explode()`, which threw a deprecation notice on PHP 8.1 and above.
-* With this commit, the `'ping_sites'` option is no longer included in the allow list and thus will not be passed to `update_options()` &gt; `sanitize_option()` &gt; `explode()`.
-
-Follow-up to [22255], [12825], [4326], [949].
-
-Props kitchin, SergeyBiryukov, swissspidy, devmuhib, rajinsharwar, hellofromTonya.
-Fixes #59818.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58425 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b36ff60</div>
-                                        <div class="message">KSES: Fix tests and detection of HTML Bogus Comment spans.
-
-In [58418] a test was added without the `test_` prefix in its function
-name, and because of that, it wasn't run in the test suite.
-The prefix has been added to ensure that it runs.
-
-In the original patch, due to a logical bug, a recursive loop to
-transform the inside contents of the bogus comments was never run
-more than once. This has been fixed.
-
-This patch also includes one more case where `kses` wasn't
-properly detecting the bogus comment state, and adds a test case
-to cover this. It limits itself to some but not all constructions
-of invalid markup declaration so that it doesn't conflict with
-existing behaviors around those and other kinds of invalid comments.
-
-Props ellatrix, dmsnell.
-See #61009.
-Follow-up to [58418].
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58424 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90f1f77</div>
-                                        <div class="message">Global Styles: Avoid unnecessary processing of theme.json variation partials.
-
-Props aaronrobertshaw, oandregal, mukesh27.
-See #61451.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58423 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb20072</div>
-                                        <div class="message">Global styles: prevent duplicate CSS for block style variations.
-
-Props aaronrobertshaw, mukesh27, ramonopoly, isabel_brison, oandregal.
-Fixes #61443.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58422 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c00ad5a</div>
-                                        <div class="message">Editor: fix custom CSS output for block style variations.
-
-Adds custom CSS to the block style variation rules output by `get_styles_for_block` in class `WP_Theme_JSON`.
-
-Props isabel_brison, aaronrobertshaw.
-Fixes #61425.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58421 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa7902c</div>
-                                        <div class="message">Tests: Use more specific assertions in `WP_Script_Modules` tests.
-
-Follow-up to [57269], [57327], [57593].
-
-See #60705.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58420 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc6c8c8</div>
-                                        <div class="message">Docs: Add missing description for a few globals in the admin.
-
-This affects:
-
-* `$post_type`
-* `$post_type_object`
-* `$taxonomy`
-* `$title`
-* `$wp_meta_boxes`
-
-Follow-up to [31121], [32642], [32643], [37890], [43815], [44244], [45742], [53060], [53061], [54831].
-
-Props shub07, 1naveengiri, sabernhardt, SergeyBiryukov.
-Fixes #59561.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58419 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c756dfe</div>
-                                        <div class="message">KSES: Preserve some additional invalid HTML comment syntaxes.
-
-When `wp_kses_split` processes a document it attempts to leave HTML comments
-alone. It makes minor adjustments, but leaves the comments in the document in
-its output. Unfortunately it only recognizes one kind of HTML comment and
-rejects many others.
-
-This patch makes a minor adjustment to the algorithm in `wp_kses_split` to
-recognize and preserve an additional kind of HTML comment: closing tags with
-an invalid tag name, e.g. `&lt;/%dolly&gt;`.
-
-These invalid closing tags must be interpreted as comments by a browser.
-This bug fix aligns the implementation of `wp_kses_split()` more closely
-with its stated goal of leaving HTML comments as comments.
-
-It doesn't attempt to fully fix the mis-parsed comments, but it does propose a
-minor fix that hopefully won't break any existing code or projects.
-
-Developed in https://github.com/WordPress/wordpress-develop/pull/6395
-Discussed in https://core.trac.wordpress.org/ticket/61009
-
-Props ellatrix, dmsnell, joemcgill, jorbin, westonruter, zieladam.
-See #61009.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58418 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#738c03d</div>
-                                        <div class="message">Media: Revert r58415 Use `version_compare()` for Imagick version check when removing alpha.
-This commit is a clean revert of r58415 as tests seem to now be failing with this change. Likely the test needs an update as well to accomodate the new successful version check.
-Follow-up to [60798].
-Props jorbin, hellofromTonya.
-See #60798.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58417 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36ee9bd</div>
-                                        <div class="message">Options: Fix some default autoload values used in core.
-
-This fixes some autoload values that were updated in [58105] that used the database values of `"on"` and `"off"` instead of the boolean values `true` and `false` when being passed to `add|update_option()`.
-
-Props joemcgill, desrosj, rajinsharwar.
-Fixes #61045. See #42441.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58416 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Jun 2024, 04:31:48</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">mralaminahamed/woocommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5e99743</div>
-                                        <div class="message">Create an API that manage the custom field names (#48504)
-
-* Create WC_REST_Product_Custom_Fields_Controller
-
-* Register WC_REST_Product_Custom_Fields_Controller
-
-* Add pagination to the /product-custom-fields/names request
-
-* Add WC_REST_Product_Custom_Fields_Controller_Tests
-
-* Fix linter errors
-
-* Add changelog file
-
-* Fix linter error
-
-* Change endpoint path to matches the product related endpoints set
-
-* Fix controller file description
-
-* Use more descriptive table alias in the sql query</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c77dfe5</div>
-                                        <div class="message">Add tags to e2e tests and update PW configs (#48715)
-
-* Add tags to e2e tests and update pw configs
-
-* Fix lint issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#200c7b3</div>
-                                        <div class="message">Initial work to constrain when the `tk_ai` (anon ID tracking cookie) is set (#47863)
-
-Initial work to constrain when the `tk_ai` (anon ID tracking cookie) is set.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#daf7d5c</div>
-                                        <div class="message">Get tax line lable instead of name (#48445)
-
-* Get tax line lable instead of name
-
-* Remove error log
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Update plugins/woocommerce/changelog/48445-update-get-tax-line-label
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;
-Co-authored-by: Seghir Nadir &lt;nadir.seghir@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51f3807</div>
-                                        <div class="message">Add buttonProps to MediaUploader (#48639)
-
-* Add buttonProps to MediaUploader
-
-* Add storybook story to show new functionality
-
-* Move buttonProps to last position of spread</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#532f1be</div>
-                                        <div class="message">[Accessibility] Fix misspelling in inline documentation in packages/js/* (#48640)
-
-* Fix "colleciton" typo
-
-* Fix "fomatting" typo
-
-* Fix "elments" typo
-
-* Fix "actuall" typo
-
-* Fix "witth" typo
-
-* Fix "varation" typo
-
-* Fix "procesing" typo
-
-* Fix "neigbouring" typo
-
-* Fix "staticly" typo
-
-* Fix "Curreny" typo
-
-* Fix "addd" typo
-
-* Fix "accessibile" typo
-
-* Fix "avaiable" typo
-
-* Fix "Resurce" typo
-
-* Fix "curent" typo
-
-* Fix "flakyness" typo
-
-* Fix "flakyness" typo
-
-* Fix "Shiping" typo
-
-* Fix "specfically" and "Shiping" typos
-
-* Fix "flakyness" typo
-
-* Fix "avaliable" typo
-
-* Fix "availble" typo
-
-* Fix "oject" typo
-
-* Fix "explict" typo
-
-* Fix "sumary" typo
-
-* Fix "whn" typo
-
-* Fix "normaly" typo
-
-* Add changelog files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bdb1a3</div>
-                                        <div class="message">[Accessibilite] Fix typo in packages/js/admin-e2e-tests/ test (#48642)
-
-* Fix "fullfilled" typo
-
-* Add changefile(s) from automation for the following project(s): @woocommerce/admin-e2e-tests
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0273910</div>
-                                        <div class="message">Product Editor: restore and fix E2E test that creates product variations (#48725)
-
-* update test when creating product variations
-
-* fix picking 50 value from page
-
-* handle snackBar step properly
-
-* enable the rest of tests
-
-* changelog
-
-* simplify. remove console.log lines</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#464c2d4</div>
-                                        <div class="message">CYS &gt; Remove the site title block fixed length (#48671)
-
-* Remove the site title block fixed length
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Remove the site title block fixed length
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6d1cf4</div>
-                                        <div class="message">Make sure the correct block template file is used in the Site Editor for templates with fallback (#48621)
-
-* Make sure the correct block template file is used in the Site Editor for templates with fallback
-
-* Add tests
-
-* Add changelog file
-
-* Clean up unnecessary function
-
-* Update plugins/woocommerce-blocks/tests/e2e/tests/templates/product-search-results.block_theme.spec.ts
-
-Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;
-
----------
-
-Co-authored-by: Bart Kalisz &lt;bartlomiej.kalisz@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2374240</div>
-                                        <div class="message">CYS: fix pattern wrapped twice by group blocks (#48712)
-
-* CYS: fix pattern wrapped twice by group blocks
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d14a6f</div>
-                                        <div class="message">CYS: hide button to resize the image (#48714)
-
-* CYS: hide button to resize the image
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5cb691</div>
-                                        <div class="message">CYS: fix logic to disable click on the no block placeholder (#48722)
-
-* CYS: fix logic to disable click on the no block placeholder
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b8b0a6</div>
-                                        <div class="message">Add data from the template to the product when it is selected (#48681)
-
-* Add data from the template to the product when it is selected via URL query parameter
-
-* Remove unused hook
-
-* add ts-ignore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed2bb0e</div>
-                                        <div class="message">[CYS] Pattern Sidebar: Update pattern categories and copy (#48665)
-
-* WIP
-
-* CYS: Refactor routing approach
-
-* fix type
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* remove focus logic
-
-* remove routekey prop
-
-* fix scroll after insert pattern
-
-* pass onNavigateBackClick callback as prop
-
-* fix scroll
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* fix back arrow click
-
-* fix css
-
-* fix tooltip position
-
-* create dedicated CSS class
-
-* lint css
-
-* restore change
-
-* improve css class name
-
-* remove not necessary class
-
-* add github link to the todo
-
-* lint css
-
-* add want more pattern section
-
-* remove not used import
-
-* fix logic after merge trunk
-
-* CYS: fix tooltip position
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* trigger CI
-
-* Add missing categories and descriptions
-
-* Add services copy
-
-* Uppercase
-
-* Fix categories key
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Remove todo comment
-
----------
-
-Co-authored-by: Luigi Teschio &lt;gigitux@gmail.com&gt;
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4976011</div>
-                                        <div class="message">CYS - Fix register testimonials category as reviews failing test (#48719)
-
-* Fix register testimonials category as reviews failing test
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a80e3e8</div>
-                                        <div class="message">Accessibility: Prevent shipping losing focus when making selections during checkout (#48370)
-
-* Prevent duplicate update
-
-* Style aria disabled radio input
-
-* Disable keyboard navigation when options are being sent to server.
-
-* Abort multiple requests to update shipping rates
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks
-
-* Update changelog
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4424860</div>
-                                        <div class="message">CYS &gt; Register PTK testimonial patterns as reviews (#48674)
-
-* Register PTK testimonial patterns as reviews
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52d4c7b</div>
-                                        <div class="message">[CYS] Fetch patterns from the WooCommerce PTK source site (#48492)
-
-* Include a request to the PTK for the woocommerce site
-
-* Parse _woo_* categories
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Continue the flow when fetching dotcom patterns fails
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#921e86e</div>
-                                        <div class="message">[Experimental] Product Filters: add layout and block spacing support (#48429)
-
-* add: layout and block spacing support
-
-* chore: changelog
-
-* add: vertical aligment controls
-
-* fix: update test to check for inspector styles controls
-
-* test: ensure the block spacing setting is visible
-
-* test: ensure the layout settings is rendered
-
-* test: default layout settings
-
-* test: justification setting
-
-* test: orientation
-
-* test: block spacing
-
-* test: remove unnecessary util
-
-* test: store selector in blockData
-
-* test: use layout matching</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Jun 2024, 04:31:13</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">mishusoft-systems/react-lottie-player</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#67e62fa</div>
-                                        <div class="message">Merge pull request #8 from mishusoft-systems/dependabot/npm_and_yarn/ws-5.2.4
-
-Bump ws from 5.2.3 to 5.2.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#898b2ad</div>
-                                        <div class="message">Bump ws from 5.2.3 to 5.2.4
-
-Bumps [ws](https://github.com/websockets/ws) from 5.2.3 to 5.2.4.
-- [Release notes](https://github.com/websockets/ws/releases)
-- [Commits](https://github.com/websockets/ws/compare/5.2.3...5.2.4)
-
----
-updated-dependencies:
-- dependency-name: ws
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Jun 2024, 03:23:49</div>
                             </section>
                         </div>
                     </section>
@@ -2005,7 +1273,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2024, 20:21:59 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2024, 21:14:42 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
