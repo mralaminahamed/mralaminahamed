@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1911" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2028" class="large">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    154k added, 41.4k removed
+                                    230k added, 141k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.16mb of code in 1500 edited files across 584 commits over last 13 days</small>
+                <small>estimation from 3.30mb of code in 1571 edited files across 591 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="613.1267397563828" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="613.1267397563828" y="0" width="196.34604614120798" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="809.4727858975908" y="0" width="66.81327165771094" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="876.2860575553017" y="0" width="24.523461586103075" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="900.8095191414047" y="0" width="8.80801752694129" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="909.617536668346" y="0" width="3.0821244804953505" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="912.6996611488414" y="0" width="2.3592217442285497" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="915.05888289307" y="0" width="4.941117106929996" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="582.6699111685804" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="582.6699111685804" y="0" width="186.94709292941477" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="769.617004097995" y="0" width="103.70336133816566" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="873.3203654361607" y="0" width="28.442433260886915" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="901.7627986970477" y="0" width="8.370482735809848" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="910.1332814328575" y="0" width="2.929021164489242" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="913.0623025973467" y="0" width="2.2420283360709874" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="915.3043309334176" y="0" width="4.69566906658222" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -530,6 +530,117 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e13ce86</div>
+                                        <div class="message">Add back revert template e2e tests (#48805)
+
+* Add back revert template e2e tests
+
+* Add changelog file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e601afb</div>
+                                        <div class="message">CYS: Remove not necessary patterns (#48750)
+
+* remove not necessary patterns
+
+* use always template1 for AI flow
+
+* show default patterns homepage
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* remove not used images
+
+* restore changes
+
+* fix e2e test
+
+* fix e2e test
+
+* restore necessary patterns
+
+* add necessary patterns
+
+* restore necessary patterns
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fb9131</div>
+                                        <div class="message">Update coupon test for retries (#48734)
+
+Co-authored-by: Jon Lane &lt;jon.lane@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#745964d</div>
+                                        <div class="message">Fix variations saving with UI check (#48737)
+
+Co-authored-by: Jon Lane &lt;jon.lane@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0205513</div>
+                                        <div class="message">Fix Classic Template block registration on WP 6.6 (#48730)
+
+* Fix Classic Template block registration on WP 6.6
+
+* Update Compatibility Layer docs
+
+* Add changelog file
+
+* Remove unused function
+
+* Simplify logic</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9e837a</div>
+                                        <div class="message">Add coming soon example code documentation (#48748)
+
+* Add coming soon docs
+
+* Update manifest
+
+* Add new example and fix writing
+
+* Update docs/extension-development/integrating-coming-soon-mode.md
+
+Co-authored-by: Adrian Duffell &lt;9312929+adrianduffell@users.noreply.github.com&gt;
+
+* Add example for a single page exclusion
+
+* Add example for 2-way sync and fix trigger from woocommerce example to use update_option action
+
+* Lint
+
+* Update docs according to style guide
+
+* Better structure for custom exclusions filter
+
+* Update manifest
+
+---------
+
+Co-authored-by: Adrian Duffell &lt;9312929+adrianduffell@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">26 Jun 2024, 16:16:21</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -882,23 +993,6 @@ Thank you again for bringing this to our attention and helping us improve Dokan 
                                     </div>
                                 </div>
                                 <div class="timestamp">25 Jun 2024, 06:28:09</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">create-pull-request/patch</span>
-                                        in
-                                        <span class="repo">mralaminahamed/phpunit-wordpress-tests</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Jun 2024, 20:05:48</div>
                             </section>
                         </div>
                     </section>
@@ -1547,7 +1641,7 @@ Thank you again for bringing this to our attention and helping us improve Dokan 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jun 2024, 17:18:59 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2024, 18:21:22 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
