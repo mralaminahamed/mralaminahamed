@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1898" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2214" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.post{align-items:flex-start}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    120k added, 7.81k removed
+                                    70.5k added, 14.6k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 973kb of code in 822 edited files across 196 commits over last 13 days</small>
+                <small>estimation from 1.08mb of code in 915 edited files across 216 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.18613498661404" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="323.18613498661404" y="0" width="302.4462730731295" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="625.6324080597435" y="0" width="159.04060870790474" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="784.6730167676483" y="0" width="106.53436663378892" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="891.2073834014371" y="0" width="16.197548259828096" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="907.4049316612652" y="0" width="4.508609271523179" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="911.9135409327885" y="0" width="3.4832182612371425" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="915.3967591940257" y="0" width="4.603240805974355" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="316.93447189439814" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="316.93447189439814" y="0" width="289.8539092296202" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="606.7883811240184" y="0" width="179.99308430845014" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="786.7814654324686" y="0" width="102.38082322438333" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="889.1622886568518" y="0" width="14.776699004166124" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="903.938987661018" y="0" width="8.68389762205617" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="912.6228852830742" y="0" width="3.1776702860499704" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="915.8005555691242" y="0" width="4.199444430875864" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -532,6 +532,377 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 365 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/dynamic-property-WooCommerce</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#af2946a</div>
+                                        <div class="message">CYS: Refactor routing approach (#48312)
+
+* CYS: Refactor routing approach
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* remove focus logic
+
+* remove routekey prop
+
+* pass onNavigateBackClick callback as prop
+
+* create dedicated CSS class
+
+* lint css
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4921018</div>
+                                        <div class="message">Product Block Editor: disable the `product-editor-template-system` flag even for the dev-env (#48378)
+
+* disable `product-editor-template-system` as default
+
+* changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#665d45b</div>
+                                        <div class="message">[e2e tests] Disable task list reminder bar in analytics-data spec - fixed flaky tests (#48357)
+
+* Disable task list reminder bar
+
+* Remove unused product fixture
+
+* Disable tour via the api</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#deb15d2</div>
+                                        <div class="message">Sync #319 with trunk (#48348)
+
+* Use DOM API to create Order Attribution inputs
+
+* Add changelog entry
+
+* Delete unnecessary changelog
+
+---------
+
+Co-authored-by: Tomek Wytrębowicz &lt;tomalecpub@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1badbf</div>
+                                        <div class="message">Add global ErrorBoundary component for handling errors in react admin (#48250)
+
+* feat: Add ErrorBoundary component for handling errors in WooCommerce admin client
+
+* Add changelog
+
+* Add tests for error-boundary
+
+* Update plugins/woocommerce-admin/client/error-boundary/index.tsx
+
+Co-authored-by: RJ &lt;27843274+rjchow@users.noreply.github.com&gt;
+
+* Wrap text in __()
+
+* Address feedback
+
+* Fix tests
+
+* Improve mobile view
+
+* Update button
+
+---------
+
+Co-authored-by: RJ &lt;27843274+rjchow@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#545e48e</div>
+                                        <div class="message">Expand block templates documentation (#48247)
+
+* Expand block templates documentation
+
+* Add changelog file
+
+* New manifest
+
+* Minor changes
+
+* Add Page: Coming soon template</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0139bd1</div>
+                                        <div class="message">Delete changelog files based on PR 48201 (#48332)
+
+Delete changelog files for 48201
+
+Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50d6d0a</div>
+                                        <div class="message">Fix getOption() not catch error properly (#48246)
+
+* Improve batch fetching of options error handling and code
+
+* Add changelog
+
+* Catch promise error
+
+* Catch options fetch error
+
+* Fix lint
+
+* Use debounce fetch
+
+* Change debounce wait time to 100ms
+
+* Fix debounce</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bca269d</div>
+                                        <div class="message">Reduce redundant LYS option API Calls  (#48303)
+
+* Update useLaunchYourStore hook to accept enabled parameter and only enable it in homescreen
+
+* Add changelog
+
+* Fix type
+
+* Change isHomescreen function to variable</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb71b8b</div>
+                                        <div class="message">Add CLI tools for the product attributes lookup table (#47311)
+
+* Add the ProductAttributesLookup\CLIRunner class
+
+* Fix the restoring of the lookup table usage option
+
+* Improve the progress bar of the regeneration command
+
+* Add changelog file
+
+* Fix existing unit tests
+
+* Add linter exception for TODO comment
+
+* Fix example in CLI runner
+
+* Fix: get_lookup_table_info was returning data as strings.
+
+* Show count of lookup table rows after the "regenerate" command finishes.
+
+* Improve error message</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1533afd</div>
+                                        <div class="message">[e2e tests] Fix e2e test results path and report name (#48320)
+
+* Fix the report name sent to woocommerce-test-reports workflow
+
+* Add test type
+
+* Test change
+
+* Remove test type
+
+* Merge artifacts to keep allure-results
+
+* Overwrite artifacts if one already exists with the same name
+
+* Test changes to trigger tests
+
+* Fix allure-results and .state paths
+
+* Filter tests for faster feedback
+
+* Debug artifacts content
+
+* Use name instead of pattern
+
+* Use name instead of pattern
+
+* Don't use an intermediate path
+
+* Use artifact name and path instead of only pattern
+
+* Use artifact name and path instead of only pattern
+
+* Use artifact name and path instead of only pattern
+
+* Remove testMatch filter to run all tests
+
+* Revert test change
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd0884a</div>
+                                        <div class="message">[ci] Fetch all pages when evaluating jobs conclusions (#48315)
+
+Use pagination to get all workflow jobs when evaluating the jobs conclusions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5992b3</div>
+                                        <div class="message">Run possibly_add_template_id function in woocommerce_rest_prepare_product_variation_object hook (#48325)
+
+* Add template ID for variations
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Update 48325-fix-prepare-variation-boejct
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Update 48325-fix-prepare-variation-boejct
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#114a0e5</div>
+                                        <div class="message">PFT: update CPT product_form posts when plugin updates (#48265)
+
+* edit the CPT post when plugin updates
+
+* minor jsdoc improvement
+
+* changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d461fa</div>
+                                        <div class="message">Add unit tests for some tracks in product editor (#48245)
+
+* Add tests for ProductPage
+
+* Add tests for ProductVariationPage
+
+* Add test for product_tab_click event
+
+* Add test for product_editor_feedback_bar_turnoff_editor_click event
+
+* Add test for product_dropdown_option_click event
+
+* Add test for product_add_view track
+
+* Changelogs
+
+* Changelog
+
+* Lint
+
+* Add product_edit_view test and falsey test
+
+* Fix test name</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1167b54</div>
+                                        <div class="message">Display return to cart link on mobile devices (#48103)
+
+* Display return to cart link on mobile devices
+
+* Add changelog entry</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b06493</div>
+                                        <div class="message">Fix tax table ajax save (#48201)
+
+* Ensure onsubmit event that triggers ajax save on tax table is bind to the correct button
+Unblock the button busy state after saving
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Update changelog
+
+* Update changelog entry
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+Co-authored-by: André Kallehauge &lt;3846700+kallehauge@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b3879f</div>
+                                        <div class="message">Add "(Experimental)" suffix to experimental blocks (#48071)
+
+* Add (Experimental) suffix to experimental blocks
+
+* Add comments reminding to update feature flags doc
+
+* Update feature flag doc
+
+* Add changelog
+
+* Provide links to all feature flags
+
+* Add JS flag for Product Filter: Rating (Experimental)
+
+* Bring back linting in PHP file
+
+* Update block references
+
+* Update variation names
+
+* Update tests
+
+* Update test
+
+* Add notification that block is not available in inserter to block references doc
+
+* Add missing feature flag
+
+* Remove information about block not being exposed in inserter from block references
+
+* Update block references</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1fdba93</div>
+                                        <div class="message">Add a step to install patterns when during the CYS flow (#48274)
+
+* Add a step to install patterns when during the CYS flow
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add feature flag to the install patterns function
+
+* Fix changelog
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9d114c6</div>
+                                        <div class="message">[CYS - Full Composability] Select the next block after deleting the selected one (#48316)
+
+* Select the next block after deleting one
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Fix lint error
+
+* Check if next block client is defined
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Jul 2024, 11:12:33</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -911,27 +1282,6 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@58634 602fd350-edb4-49c9-b59
                                     </div>
                                 </div>
                                 <div class="timestamp">9 Jul 2024, 08:23:17</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">getdokan/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/pro-2652-max-min-revamp</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6600d6d</div>
-                                        <div class="message">refactor: standardize action naming in product list table</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Jul 2024, 07:39:58</div>
                             </section>
                         </div>
                     </section>
@@ -1580,7 +1930,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@58634 602fd350-edb4-49c9-b59
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2024, 15:19:18 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 16:15:38 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
