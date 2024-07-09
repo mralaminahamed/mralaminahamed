@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2171" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1638" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audit.text{min-width:42px}.audit svg{margin:0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    348k added, 178k removed
+                                    118k added, 40.8k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 906kb of code in 764 edited files across 160 commits over last 13 days</small>
+                <small>estimation from 913kb of code in 770 edited files across 169 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.27056728520773" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="339.27056728520773" y="0" width="260.9611160234271" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="600.2316833086348" y="0" width="173.87203810451012" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="774.103721413145" y="0" width="116.46929425936824" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="890.5730156725133" y="0" width="17.70806054574975" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="908.281076218263" y="0" width="4.9290623912058935" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="913.2101386094689" y="0" width="3.8080479140799985" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="917.0181865235489" y="0" width="2.981813476451179" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="340.132558715451" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="340.132558715451" y="0" width="260.5737648182586" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="600.7063235337096" y="0" width="173.61395542717037" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="774.3202789608799" y="0" width="116.29641593104118" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="890.616694891921" y="0" width="17.68177602222335" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="908.2984709141444" y="0" width="4.9217460588469635" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="913.2202169729914" y="0" width="3.802395531949911" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="917.0226125049413" y="0" width="2.977387495058658" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -536,6 +536,90 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/phpunit-wordpress-tests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8d641c9</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Jul 2024, 05:02:47</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/phpunit-wordpress-tests</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#447a975</div>
+                                        <div class="message">update files updater action</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Jul 2024, 04:57:53</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/phpstan-wpforms-lite-stubs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d9daf8f</div>
+                                        <div class="message">improve: release action</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Jul 2024, 04:47:47</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/phpstan-fluent-forms-stubs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e9d0e19</div>
+                                        <div class="message">fix: tags not found in ti action</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Jul 2024, 04:44:47</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -552,519 +636,6 @@ We strive to maintain the highest quality in our releases, which is why we have 
 Thank you for your patience and continued support of Dokan Pro. If you have any further questions or concerns, please don't hesitate to reach out.</div>
                                 </div>
                                 <div class="timestamp">8 Jul 2024, 19:48:08</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7a70796</div>
-                                        <div class="message">Refactor seller registration to enable bypassing nonce verification (#2301)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b5893c</div>
-                                        <div class="message">🎯 fix: Fatal error in block editor on adding and editing page with customer-migration shortcode (#2308)
-
-* fix: Fetal error in block editor on adding and editing page with customer migration shortcode
-
-* refactor: Simplified error handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#348ebcb</div>
-                                        <div class="message">fix: rawurlencode_deep function added for active menu detection after translation with dokan-wpml plugin (#2299)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bead83</div>
-                                        <div class="message">🚀 enhance: Direct links to the relevant settings from vendor progress bar (#2297)
-
-* enhance: Direct links to the relevant settings from vendor progress bar
-
-* fix: Missing navigation link for add address link on profile progress bar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42c5839</div>
-                                        <div class="message">fix: Shop url rendered double slash when using WPML on vendor registration form. (#2291)
-
-* fix: Shop url rendered double slash when using WPML on vendor registration form.
-
-* fix: phpcs issue.
-
-* add: Used escaping function before shop url redered.
-
-* add: Used escaping function before shop url rendered on seller registration form.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64fcc7d</div>
-                                        <div class="message">refactor: `WordPress.Security.EscapeOutput.OutputNotEscaped`, `WordPress.Security.EscapeOutput.ExceptionNotEscaped`  escaping (#2270)
-
-* refactor: page view scripts load from template
-
-* refactor: escaping tooltip text
-
-* refactor: escaping dokan withdraw method title
-
-* refactor: escaping installed error message
-
-* style: ignore scaping wc_esc_json function
-
-* refactor: escaping note and ship info
-
-* refactor: heading control description
-
-* style: ignore escaping the svg label image from radio image control
-
-* refactor: shop order custom columns data
-
-* refactor: escaping some text
-
-* style: ignore escaping for back trace message
-
-* refactor: escaping some variables
-
-* style: ignore escaping for back trace message
-
-* reactor: escaping some variables and some are ignored
-
-* style: ignore escaping for some variables
-
-* style: ignore escaping some variables
-
-* update: add phpcs rule for exception output
-
-* style: ignore escaping for dynamic content
-
-* style: ignore escaping for dynamic content
-
-* update: php method doc
-
-* update: php method doc
-
-* style: ignore escaping for dynamic content
-
-* update: php method doc
-
-* style: ignore escaping for dynamic content
-
-* style: ignore escaping for dynamic content
-
-* refactor: escpaing php variables
-
-* refactor: escaping some variables
-
-* refactor: escaping variables
-
-* refactor: title text
-
-* refactor: ecaping some text
-
-* refactor: escaping localize text
-
-* refactor: ecaping some text
-
-* refactor: dynamic time format data
-
-* update: phpcs rule set for capabilities
-
-* update: phpcs config
-
-* update: phpcs rule as per woocommerce
-
-* refactor: phpcs issues
-
-* added: Available roles in the phpcs for PHPCS check
-
-* refactor: fix wp data sanitization errors for SetupWizard.php
-
-* refactor: fix wp data sanitization errors for SetupWizardNoWC.php
-
-* refactor: fix wp data sanitization errors for SetupWizard.php
-
-* added: rules for custom sanitizing functions
-
-* refactor: html markup escaping
-
-* fix: template load issue for Page view
-
-* refactor: docblock for return type `dokan_get_product_types`
-
-* Update includes/Ajax.php
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* Update templates/settings/store-form.php
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;
-
-* refactor: WordPress coding standards and security issues
-
-* refactor: WordPress coding standards and security issues
-
-* refactor: WordPress coding standards and security issues skip for non required code
-
-* update: enqueue script instead of template `templates/page-views.php`
-
-* update: using escaping `wp_kses_post($this-&gt;description);` instead of `wp_kses( $this-&gt;description, wp_kses_allowed_html( 'user_description' ) );`
-
-* delete: old tempalte for `page-views.php`
-
----------
-
-Co-authored-by: coderabbitai[bot] &lt;136622811+coderabbitai[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7778a06</div>
-                                        <div class="message">Update readme.txt (#2307)
-
-Updated description according to wp org team</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">8 Jul 2024, 12:03:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 64 commits in
-                                        <span class="repo">mralaminahamed/wordpress-develop</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3f9e450</div>
-                                        <div class="message">Build/Test Tools: Update npm `devDependencies` 6.6.
-
-This updates the npm `devDependencies` for Core to their latest versions, with one exception. The latest version of `sinon` causes some test failures and requires more investigation.
-
-Fixes #61498.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58563 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2575c5</div>
-                                        <div class="message">Build/Test Tools: Update npm dependencies for Bundled Themes.
-
-This updates the npm dependencies for the Twenty Nineteen, Twenty Twenty, and Twenty Twenty-One themes. `npm audit fix` has also been run.
-
-See #61498.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58562 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b84310</div>
-                                        <div class="message">Docs: Correct DocBlock formatting in `wp-includes/blocks.php`.
-
-Follow-up to [58471].
-
-Props david.binda, narenin, sabernhardt, shital-patel, SergeyBiryukov.
-Fixes #61493.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58561 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56b20ea</div>
-                                        <div class="message">Docs: Fix apostrophe usage in `wp-admin/includes/class-wp-list-table.php`.
-
-Props truptikanzariya, mukesh27.
-Fixes 61490.
-See 60699.
-
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58560 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#551bddc</div>
-                                        <div class="message">HTML API: Remove unused `$tag_name` variable in `WP_HTML_Tag_Processor::set_attribute`.
-
-Follow-up to [58472], [58473].
-
-Props davidbinda.
-Fixes #61494.
-
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58559 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5655fb0</div>
-                                        <div class="message">HTML API: Add missing subclass methods to HTML Processor and add token provenance.
-
-This patch introduces two related changes:
-
- - It adds missing subclass methods on the HTML Processor which needed
-   to be implemented since it started visiting virtual nodes. These
-   methods need to account for the fact that not all tokens truly exist.
-
- - It adds a new concept and internal method, `is_virtual()`, indicating
-   if the currently-matched token comes from the raw text in the input
-   HTML document or if it was the byproduct of semantic parsing rules.
-   This internal method and new vocabulary around token provenance
-   considerably simplifies the logic spread throughout the rest of the
-   class and its subclass methods.
-
-Developed in https://github.com/WordPress/wordpress-develop/pull/6860
-Discussed in https://core.trac.wordpress.org/ticket/61348
-
-Follow-up to [58304].
-
-Props dmsnell, jonsurrell, gziolo.
-See #61348.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58558 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2e7ab3</div>
-                                        <div class="message">Twenty Twenty and Twenty Twenty-One: Fixes code tag showing outside of section area.
-
-The code tag had a formatting issue where it was showing outside of the section area. This resolves it in both themes.
-
-Props ravipatel, SergeyBiryukov, poena, sabernhardt, peterwilsoncc.
-Fixes #52780.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58557 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3aa011</div>
-                                        <div class="message">Twenty Nineteen: Fixes button block padding within the editor.
-
-The button block padding was not the same in the editor and front. This resolves that issue with the font size having being resolved in a previous ticket.
-
-Props pitamdey, sabernhardt.
-Fixes #61235.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58556 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4e5209</div>
-                                        <div class="message">Post WordPress 6.6 Beta 4.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58555 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#02879a1</div>
-                                        <div class="message">WordPress 6.6 Beta 4.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58554 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14efb0d</div>
-                                        <div class="message">Update packages to include latest changes.
-
-Props desrosj.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58553 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8afc34a</div>
-                                        <div class="message">Tests: Use `assertSame()` in `WP_Theme_JSON` tests.
-
-This ensures that not only the return values match the expected results, but also that their type is the same.
-
-Going forward, stricter type checking by using `assertSame()` should generally be preferred to `assertEquals()` where appropriate, to make the tests more reliable.
-
-Follow-up to [55959], [55986], [57547], [57716], [58244], [58422].
-
-See #60706.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58478 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e94297</div>
-                                        <div class="message">HTML API: Code improvements following [58472].
-
-Props xknown, jorbin.
-Unprops audrasjb.
-
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58473 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0479ab3</div>
-                                        <div class="message">HTML API: Run URL attributes through `esc_url()`.
-
-Props dmsnell, xknown, jorbin, gziolo.
-
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58472 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f269d3</div>
-                                        <div class="message">Editor: Sanitize Template Part HTML tag on save.
-
-Props xknown, peterwilsoncc, jorbin, bernhard-reiter, azaozz.
-
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58471 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ee7211</div>
-                                        <div class="message">Editor: Fix Path Traversal issue on Windows in Template-Part Block.
-
-Props xknown.
-
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58470 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c02226</div>
-                                        <div class="message">Twenty Seventeen: Resolves default border style visibility for pullquote block.
-
-When a border color and width was added to the pullquote block but no border style was chosen the border was not visible. The expectation is that the border has a solid style by default when a color is selected.
-
-Props pranitdugad, poena, sabernhardt.
-Fixes #61362.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58469 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5e0951</div>
-                                        <div class="message">Format: fix spaces for @param.
-
-Props oandregal, mukesh27.
-
-See #61451.
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58468 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3e226f</div>
-                                        <div class="message">Twenty Twenty-Three: Resolves aubergine variation background implementation height impact on header.
-
-The aubergine header causes issues when a block can change the page height. This resolves that swapping to clamp.
-
-Props annezazu, sabernhardt, mikachan.
-Fixes #58475.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58467 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b1057c</div>
-                                        <div class="message">Section styles: improve performance and conceptual consistency.
-
-These changes involve:
-
-- Move shared variation definitions from styles.blocks.variations to styles.variations
-- Remove blockTypes from styles.variations.
-- Do not register shared variations from theme style variation or primary theme.json files.
-- Move the merging of theme.json data into the WP_Theme_JSON_Resolver and WP_Theme_JSON classes.
-
-These changes improve performance and are more future-proof API wise.
-See conversation at https://github.com/WordPress/gutenberg/issues/62686
-
-Props aaronrobertshaw, oandregal, andrewserong, joemcgill, talldanwp, andrewserong, ramonopoly, richtabor, youknowriad.
-
-See #61312, #61451.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58466 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Jul 2024, 12:30:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">mralaminahamed/phpstan-wpforms-lite-stubs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">create-pull-request/patch</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4212e9</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.8.9.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#579dd3c</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.7.9.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47d353a</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.6.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c0f1a2</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.5.9.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18eedbe</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.4.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7f904f</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.3.9.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31cb686</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.2.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0bc13aa</div>
-                                        <div class="message">Generate stubs for WPForms Lite 1.1.8.4</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Jul 2024, 12:21:10</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">stubs/phpstan-woocommerce-stubs</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f801165</div>
-                                        <div class="message">added: WooCommerce stubs for PHPStan anyalyser</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">3 Jul 2024, 08:41:09</div>
                             </section>
                         </div>
                     </section>
@@ -1713,7 +1284,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@58466 602fd350-edb4-49c9-b59
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2024, 09:20:37 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2024, 10:20:15 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
