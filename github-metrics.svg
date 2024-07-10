@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2297" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2014" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.post{align-items:flex-start}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    57.2k added, 40.2k removed
+                                    434k added, 13.8k removed
                                 </div>
                             </section>
                             <section>
@@ -293,33 +293,33 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.03mb of code in 612 edited files across 205 commits over last 14 days</small>
+                <small>estimation from 1.23mb of code in 797 edited files across 255 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.9066750633069" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="341.9066750633069" y="0" width="312.7255866355247" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="654.6322616988316" y="0" width="157.57103265389634" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="812.203294352728" y="0" width="79.88313789887363" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="892.0864322516015" y="0" width="15.27258523519893" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="907.3590174868006" y="0" width="8.389837939528247" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="915.7488554263288" y="0" width="2.779500506189865" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="918.5283559325187" y="0" width="1.4716440674813533" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.51770597353044" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="330.51770597353044" y="0" width="319.37682777458616" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="649.8945337481166" y="0" width="168.28689421940882" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="818.1814279675255" y="0" width="70.03735217923844" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="888.218780146764" y="0" width="15.78590242474826" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="904.0046825715121" y="0" width="12.460192722503441" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="916.4648752940157" y="0" width="2.2676653262083097" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="918.732540620224" y="0" width="1.2674593797760605" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Hack
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PHP
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Hack
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -335,15 +335,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         SCSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -540,17 +540,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">getdokan/dokan</span>
+                                        <span class="repo">mralaminahamed/phpunit-wordpress-tests</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/pro-2329-product-category-include-exclude-vendor-coupon</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c19d8f</div>
-                                        <div class="message">style: phpstan validation warnings</div>
+                                        <div class="sha">#7e58b91</div>
+                                        <div class="message">Update pr.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">10 Jul 2024, 04:40:50</div>
+                                <div class="timestamp">10 Jul 2024, 05:59:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -560,38 +560,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">mralaminahamed/phpstan-ninja-forms-stubs</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/phpunit-wordpress-tests</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">create-pull-request/patch</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4643c03</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.8.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#209b877</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.7.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b81f24f</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.6.34</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff1aa18</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.2.28</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13daa65</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.1.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2701ddb</div>
-                                        <div class="message">Generate stubs for Ninja Forms 2.9.58</div>
+                                        <div class="sha">#555a5d9</div>
+                                        <div class="message">Update pr.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Jul 2024, 20:18:24</div>
+                                <div class="timestamp">10 Jul 2024, 05:56:17</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -601,707 +581,463 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 365 commits in
-                                        <span class="repo">mralaminahamed/woocommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/dynamic-property-WooCommerce</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#af2946a</div>
-                                        <div class="message">CYS: Refactor routing approach (#48312)
-
-* CYS: Refactor routing approach
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* remove focus logic
-
-* remove routekey prop
-
-* pass onNavigateBackClick callback as prop
-
-* create dedicated CSS class
-
-* lint css
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4921018</div>
-                                        <div class="message">Product Block Editor: disable the `product-editor-template-system` flag even for the dev-env (#48378)
-
-* disable `product-editor-template-system` as default
-
-* changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#665d45b</div>
-                                        <div class="message">[e2e tests] Disable task list reminder bar in analytics-data spec - fixed flaky tests (#48357)
-
-* Disable task list reminder bar
-
-* Remove unused product fixture
-
-* Disable tour via the api</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#deb15d2</div>
-                                        <div class="message">Sync #319 with trunk (#48348)
-
-* Use DOM API to create Order Attribution inputs
-
-* Add changelog entry
-
-* Delete unnecessary changelog
-
----------
-
-Co-authored-by: Tomek Wytrębowicz &lt;tomalecpub@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1badbf</div>
-                                        <div class="message">Add global ErrorBoundary component for handling errors in react admin (#48250)
-
-* feat: Add ErrorBoundary component for handling errors in WooCommerce admin client
-
-* Add changelog
-
-* Add tests for error-boundary
-
-* Update plugins/woocommerce-admin/client/error-boundary/index.tsx
-
-Co-authored-by: RJ &lt;27843274+rjchow@users.noreply.github.com&gt;
-
-* Wrap text in __()
-
-* Address feedback
-
-* Fix tests
-
-* Improve mobile view
-
-* Update button
-
----------
-
-Co-authored-by: RJ &lt;27843274+rjchow@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#545e48e</div>
-                                        <div class="message">Expand block templates documentation (#48247)
-
-* Expand block templates documentation
-
-* Add changelog file
-
-* New manifest
-
-* Minor changes
-
-* Add Page: Coming soon template</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0139bd1</div>
-                                        <div class="message">Delete changelog files based on PR 48201 (#48332)
-
-Delete changelog files for 48201
-
-Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50d6d0a</div>
-                                        <div class="message">Fix getOption() not catch error properly (#48246)
-
-* Improve batch fetching of options error handling and code
-
-* Add changelog
-
-* Catch promise error
-
-* Catch options fetch error
-
-* Fix lint
-
-* Use debounce fetch
-
-* Change debounce wait time to 100ms
-
-* Fix debounce</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bca269d</div>
-                                        <div class="message">Reduce redundant LYS option API Calls  (#48303)
-
-* Update useLaunchYourStore hook to accept enabled parameter and only enable it in homescreen
-
-* Add changelog
-
-* Fix type
-
-* Change isHomescreen function to variable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb71b8b</div>
-                                        <div class="message">Add CLI tools for the product attributes lookup table (#47311)
-
-* Add the ProductAttributesLookup\CLIRunner class
-
-* Fix the restoring of the lookup table usage option
-
-* Improve the progress bar of the regeneration command
-
-* Add changelog file
-
-* Fix existing unit tests
-
-* Add linter exception for TODO comment
-
-* Fix example in CLI runner
-
-* Fix: get_lookup_table_info was returning data as strings.
-
-* Show count of lookup table rows after the "regenerate" command finishes.
-
-* Improve error message</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1533afd</div>
-                                        <div class="message">[e2e tests] Fix e2e test results path and report name (#48320)
-
-* Fix the report name sent to woocommerce-test-reports workflow
-
-* Add test type
-
-* Test change
-
-* Remove test type
-
-* Merge artifacts to keep allure-results
-
-* Overwrite artifacts if one already exists with the same name
-
-* Test changes to trigger tests
-
-* Fix allure-results and .state paths
-
-* Filter tests for faster feedback
-
-* Debug artifacts content
-
-* Use name instead of pattern
-
-* Use name instead of pattern
-
-* Don't use an intermediate path
-
-* Use artifact name and path instead of only pattern
-
-* Use artifact name and path instead of only pattern
-
-* Use artifact name and path instead of only pattern
-
-* Remove testMatch filter to run all tests
-
-* Revert test change
-
-* Add changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd0884a</div>
-                                        <div class="message">[ci] Fetch all pages when evaluating jobs conclusions (#48315)
-
-Use pagination to get all workflow jobs when evaluating the jobs conclusions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5992b3</div>
-                                        <div class="message">Run possibly_add_template_id function in woocommerce_rest_prepare_product_variation_object hook (#48325)
-
-* Add template ID for variations
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Update 48325-fix-prepare-variation-boejct
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Update 48325-fix-prepare-variation-boejct
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#114a0e5</div>
-                                        <div class="message">PFT: update CPT product_form posts when plugin updates (#48265)
-
-* edit the CPT post when plugin updates
-
-* minor jsdoc improvement
-
-* changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d461fa</div>
-                                        <div class="message">Add unit tests for some tracks in product editor (#48245)
-
-* Add tests for ProductPage
-
-* Add tests for ProductVariationPage
-
-* Add test for product_tab_click event
-
-* Add test for product_editor_feedback_bar_turnoff_editor_click event
-
-* Add test for product_dropdown_option_click event
-
-* Add test for product_add_view track
-
-* Changelogs
-
-* Changelog
-
-* Lint
-
-* Add product_edit_view test and falsey test
-
-* Fix test name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1167b54</div>
-                                        <div class="message">Display return to cart link on mobile devices (#48103)
-
-* Display return to cart link on mobile devices
-
-* Add changelog entry</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b06493</div>
-                                        <div class="message">Fix tax table ajax save (#48201)
-
-* Ensure onsubmit event that triggers ajax save on tax table is bind to the correct button
-Unblock the button busy state after saving
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Update changelog
-
-* Update changelog entry
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;
-Co-authored-by: André Kallehauge &lt;3846700+kallehauge@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b3879f</div>
-                                        <div class="message">Add "(Experimental)" suffix to experimental blocks (#48071)
-
-* Add (Experimental) suffix to experimental blocks
-
-* Add comments reminding to update feature flags doc
-
-* Update feature flag doc
-
-* Add changelog
-
-* Provide links to all feature flags
-
-* Add JS flag for Product Filter: Rating (Experimental)
-
-* Bring back linting in PHP file
-
-* Update block references
-
-* Update variation names
-
-* Update tests
-
-* Update test
-
-* Add notification that block is not available in inserter to block references doc
-
-* Add missing feature flag
-
-* Remove information about block not being exposed in inserter from block references
-
-* Update block references</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fdba93</div>
-                                        <div class="message">Add a step to install patterns when during the CYS flow (#48274)
-
-* Add a step to install patterns when during the CYS flow
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Add feature flag to the install patterns function
-
-* Fix changelog
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d114c6</div>
-                                        <div class="message">[CYS - Full Composability] Select the next block after deleting the selected one (#48316)
-
-* Select the next block after deleting one
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Fix lint error
-
-* Check if next block client is defined
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">9 Jul 2024, 11:12:33</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 24 commits in
+                                        Pushed 5 commits in
                                         <span class="repo">mralaminahamed/wordpress-develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">trunk</span></div>
                                     <div class="commit">
-                                        <div class="sha">#87d24de</div>
-                                        <div class="message">Editor: fix root padding for alignwide blocks.
+                                        <div class="sha">#aec4f0b</div>
+                                        <div class="message">HTML API: Correct node name in `generate_implied_end_tags()`.
 
-Updates the root padding CSS selectors so wide width container blocks with constrained layout don’t receive padding.
+The `generate_implied_end_tags()` algorithm has been comparing the
+current node to a list of node names, which means that it won't ever
+pop any elements from the stack of open elements.
 
-Props isabel_brison, mukesh27, aaronrobertshaw.
-Fixes #61587.
+This patch corrects the mistake by comparing node name against the
+list, thus fixing the algorithm. This was noted in development work
+for the 6.7 release.
 
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58685 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3e7fdb</div>
-                                        <div class="message">Code Modernization: Replace `substr( PHP_OS, 0, 3 )` calls with `PHP_OS_FAMILY`.
-
-The `PHP_OS_FAMILY` constant indicates the operating system family PHP was built for, and is available as of PHP 7.2.0.
-
-Reference: [https://www.php.net/manual/en/reserved.constants.php#constant.php-os-family PHP Manual: Predefined Constants: PHP_OS_FAMILY].
-
-Follow-up to [23255], [57753], [57985], [58678].
-
-Props ayeshrajans, jrf.
-See #61574.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58684 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#55e0faf</div>
-                                        <div class="message">Code Modernization: Simplify a conditional in `wp_is_ini_value_changeable()`.
-
-This commit reverts the code to the code from before the bug fix related to PHP 5.2.6–5.2.17.
-
-As support for PHP 5.2 has been dropped, the workaround for the PHP 5.2 bug is no longer needed.
-
-Follow-up to [38015], [38017], [44950], [45058], [57985], [58678], [58682].
-
-Props jrf, ayeshrajans.
-See #61574.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58683 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9de2177</div>
-                                        <div class="message">Code Modernization: Remove obsolete comments about older PHP versions.
-
-This commit:
-* Removes various comments referencing PHP versions which are no longer supported.
-* Removes various comments containing “hints” of things to do after a particular PHP version drop. These hints are incorrect/not actionable for various reasons, so have no value:
- * Even though a function could be turned into a closure, removing the function would be a backward compatibility break which is not acceptable, so this suggestion is not actionable.
- * Short ternaries are forbidden by the coding standard exactly to prevent the faulty code suggested in the comment from getting into the codebase.
-
-Follow-up to [1243/tests], [6543], [11816], [29861], [29864], [34928], [35369], [36698], [38694], [50786], [58678].
-
-Props jrf, ayeshrajans.
-See #61574.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58682 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f90c8bf</div>
-                                        <div class="message">HTML API: Respect `tag_name` query arg in `HTML_Processor::next_tag()`
-
-Previously the HTML Processor was ignoring the `tag_name` argument in
-the `next_tag()` query if it existed. This was wrong adn would lead to
-calling code finding the very next tag, regardless of tag name, instead
-of the requested taag.
-
-This patch adds the tag name detection code into `next_tag()` to fix
-the bug and ensure that `next_tag()` always returns only when finding
-a tag of the given name.
-
-Developed in https://github.com/WordPress/wordpress-develop/pull/6980
-Discussed in https://core.trac.wordpress.org/ticket/61581
-
-Follow-up to [56274].
-
-Fixes #61581.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58681 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce10b4c</div>
-                                        <div class="message">HTML API: Fix wrong @since tag.
-
-When the remaining insertion modes were stubbed in the HTML Processor,
-a `@since` tag was mistakenly copied with 6.4.0 instead of 6.7.0.
-
-This patch fixes the invalid tag.
-
-Discussed in https://core.trac.wordpress.org/ticket/61576
-
-Follow-up to [58679].
-
-Props tobiasbg.
-See #61576.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58680 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6763e5d</div>
-                                        <div class="message">HTML API: Stub out remaining insertion modes in the HTML Processor.
-
-As part of work to add more spec support to the HTML API, this patch adds
-stubs for all of the remaining parser insertion modes in the HTML Processor.
-These modes are not all supported yet, but they will be necessary to continue
-adding support for other tags and markup.
-
-Developed in https://github.com/WordPress/wordpress-develop/pull/6973
+Developed in https://github.com/WordPress/wordpress-develop/pull/6988
 Discussed in https://core.trac.wordpress.org/ticket/61576
 
 Props dmsnell, jonsurrell.
 See #61576.
 
 
-git-svn-id: https://develop.svn.wordpress.org/trunk@58679 602fd350-edb4-49c9-b593-d223f7449a82</div>
+git-svn-id: https://develop.svn.wordpress.org/trunk@58702 602fd350-edb4-49c9-b593-d223f7449a82</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aa11864</div>
-                                        <div class="message">Code Modernization: Remove obsolete code targeting PHP &lt; 7.2.24.
+                                        <div class="sha">#80112f2</div>
+                                        <div class="message">REST API: Remove a few unused variables in `foreach` loops.
 
-Follow-up to [44488], [45262], [53426], [57985].
+Follow-up to [38832], [48173], [49132], [49925].
 
-Props ayeshrajans, jrf.
-See #61574.
+Props antonvlasenko.
+See #61593.
 
-git-svn-id: https://develop.svn.wordpress.org/trunk@58678 602fd350-edb4-49c9-b593-d223f7449a82</div>
+git-svn-id: https://develop.svn.wordpress.org/trunk@58694 602fd350-edb4-49c9-b593-d223f7449a82</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c1154f9</div>
-                                        <div class="message">HTML API: Support SELECT insertion  mode.
+                                        <div class="sha">#3b90d94</div>
+                                        <div class="message">Editor: Update packages for 6.6 RC 3.
 
-As part of work to add more spec support to the HTML API, this patch adds
-support for the SELECT, OPTION, and OPTGROUP elements, including the
-requisite support for the IN SELECT insertion mode.
+Fixes #61603.
+Fixes https://github.com/WordPress/wordpress-develop/pull/6998.
+See https://make.wordpress.org/core/handbook/about/release-cycle/block-editor-release-process-for-major-releases/#package-updates-and-core-patches.
 
-Developed in https://github.com/WordPress/wordpress-develop/pull/5908
-Discussed in https://core.trac.wordpress.org/ticket/61576
-
-Props dmsnell, jonsurrell.
-See #61576.
+Props ellatrix, youknowriad.
 
 
-git-svn-id: https://develop.svn.wordpress.org/trunk@58677 602fd350-edb4-49c9-b593-d223f7449a82</div>
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@58693 602fd350-edb4-49c9-b593-d223f7449a82</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#fee822d</div>
-                                        <div class="message">HTML API: Add `current_node_is()` helper method to stack of open elements.
+                                        <div class="sha">#4a2c9c5</div>
+                                        <div class="message">Section Styles: Fix ref values within block style variations.
 
-As part of work to add more spec support to the HTML API, this new method
-will make it easier to implement the logic when in the SELECT and TABLE
-insertion modes.
+Fixes #61589.
+Fixes https://github.com/WordPress/wordpress-develop/pull/6989.
+See https://github.com/WordPress/gutenberg/pull/63172.
 
-Developed in https://github.com/WordPress/wordpress-develop/pull/6968
-Discussed in https://core.trac.wordpress.org/ticket/51576
-
-Props dmsnell, jonsurrell.
-See #61576.
+Props aaronrobertshaw, andrewserong, ramonopoly.
 
 
-git-svn-id: https://develop.svn.wordpress.org/trunk@58676 602fd350-edb4-49c9-b593-d223f7449a82</div>
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@58691 602fd350-edb4-49c9-b593-d223f7449a82</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#82deed3</div>
-                                        <div class="message">Users: Avoid ambiguous password reset URLs for usernames ending in a period.
+                                        <div class="sha">#5c45439</div>
+                                        <div class="message">Section Styles: Prevent flash of variation style updates.
 
-When WordPress sends out a password-reset or new-user email, it generates
-a link for someone to follow in order to take them to the reset page. If
-the user login name ends in a period, however, that generated URL will
-end in a period and many email clients will confuse it with a
-sentence-ending period instead of being part of the query arguments.
+This is fixed by preloading the styles.
 
-In this patch, the generated URL's query argument are rearranged so that
-the link will never end in a period. Alternative ideas were explored to
-create a new function to escape URL-ending periods, but this patch resolves
-the reported problem without raising any further architectural questions.
+Fixes #61589.
+Fixes https://github.com/WordPress/wordpress-develop/pull/6989.
+See https://github.com/WordPress/gutenberg/pull/63172.
 
-Developed in https://github.com/WordPress/wordpress-develop/pull/6834
-Discussed in https://core.trac.wordpress.org/ticket/42957
-
-Props audrasjb, costdev, daveagp, dmsnell, hellofromTonya, markparnell, mukesh27, nhrrob, obrienlabs, paulcline.
-Fixes #42957.
+Props aaronrobertshaw, andrewserong, ramonopoly.
 
 
-git-svn-id: https://develop.svn.wordpress.org/trunk@58674 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70bad67</div>
-                                        <div class="message">Tests: Use `assertSame()` in `WP_REST_Global_Styles_Revisions_Controller` tests.
 
-This ensures that not only the return values match the expected results, but also that their type is the same.
-
-Going forward, stricter type checking by using `assertSame()` should generally be preferred to `assertEquals()` where appropriate, to make the tests more reliable.
-
-Follow-up to [56082].
-
-See #61573.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58673 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#922949f</div>
-                                        <div class="message">Docs: Update AJAX in Plugins HelpHub link to avoid unnecessary redirection.
-
-Follow-up to [17045], [20713], [41065], [45674], [55412], [57854], [58131], [58132].
-
-Props shailu25.
-See #60732, #60699.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58672 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80b7747</div>
-                                        <div class="message">Help/About: Update performance improvements string.
-
-Updates the performance improvements string with the finalized percentage improvement in the editor and to improve styling and language consistency.
-
-Props ryelle, annezazu, peterwilsoncc.
-Fixes #61320.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58671 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28930fc</div>
-                                        <div class="message">HTML API: Implement the _reset insertion mode appropriately_ algorithm.
-
-In order to add support for the SELECT and TABLE tags in the HTML Processor, it
-needs to implement the HTML algorithm named "reset the insertion mode
-appropriately".
-
-This patch implements that algorithm to unblock the additional tag support. The
-algorithm resets the parsing mode after specific state changes in complicated
-situations where alternative rules are in effect (such as rules governing how
-the parser handles tags found within a TABLE element).
-
-Developed in https://github.com/WordPress/wordpress-develop/pull/6020
-Discussed in https://core.trac.wordpress.org/ticket/61549
-
-Props dmsnell, jonsurrell.
-Fixes #61549.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58656 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e65f0f2</div>
-                                        <div class="message">Build/Test Tools: Fix workflow names in test old branches workflow.
-
-After the changes in [58165] and [58645] and all associated backports, the workflow that dispatches regular testing in older branches needed to be updated.
-- The `test-npm.yml` workflow no longer exists.
-- The `test-build-processes.yml` has taken the place of `test-npm.yml` in all branches.
-
-Also, the workflow will now run whenever an old version of the reusable PHPUnit workflow is updated (v1 or v2). This is to ensure the changes don’t cause any compatibility problems in older branches.
-
-See #61213.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58654 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5466b9c</div>
-                                        <div class="message">Users: Pass the previous state of the user as context to the `wp_set_password` hook.
-
-Follow-up to [55056], [55250].
-
-Props dd32.
-Fixes #61541.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58653 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4454f4a</div>
-                                        <div class="message">Build/Test Tools: Rename current reusable PHPUnit workflow.
-
-This adds a ` -v3` suffix to the current reusable PHPUnit workflow name. This avoids having to update older branches in the future when the workflow’s logic drastically changes and a `v4` is needed.
-
-See #61213.
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58645 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d40ef3</div>
-                                        <div class="message">Twenty Sixteen: Fixes editor styles for table and calendar blocks and captions.
-
-The table and calendar block font sizes were not as expected on front end within editor. This includes changes for header cells (th), removes redundant font size rules, corrects font-weight and updates figcaption selector along with editing text alignment and adding RTL font selection.
-
-Props nidhidhandhukiya, sabernhardt, sheulyshila, iamfarhan09, bijit027, jannathsyeda, pooja1210, shailu25, hmbashar.
-Fixes #58355.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58635 602fd350-edb4-49c9-b593-d223f7449a82</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a285228</div>
-                                        <div class="message">Twenty Seventeen and Twenty Ten: Fixes gallery captions being at the bottom of images.
-
-The margin specified in this theme caused issues when the gallery was placed in another block. This fix covers both themes as the selector is used within both.
-
-Props pevogam, sabernhardt.
-Fixes #58362.
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@58634 602fd350-edb4-49c9-b593-d223f7449a82</div>
+git-svn-id: https://develop.svn.wordpress.org/trunk@58690 602fd350-edb4-49c9-b593-d223f7449a82</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Jul 2024, 10:05:38</div>
+                                <div class="timestamp">10 Jul 2024, 05:52:05</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Forked
-                                        <span class="repo">ediamin/wp-console</span>
-                                        to
-                                        <span class="repo">mralaminahamed/wp-console</span>
+                                        Pushed 111 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">9 Jul 2024, 08:42:37</div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#94b93d4</div>
+                                        <div class="message">[testing workflows] Removed deprecated reporting CI steps (#49025)
+
+* Removed deprecated reporting steps
+
+* Test change
+
+* Revert test change</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37280df</div>
+                                        <div class="message">Add daily checks for core e2e with PHP 8.1, WP latest-1 and HPOS disabled (#48929)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a032d4f</div>
+                                        <div class="message">Allow blocks with parents in the `woocommerce` namespace to be rendered as inner blocks (#48543)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2241a4f</div>
+                                        <div class="message">Update Fiverr CTA to Reflect the Latest Copy in Figma (#48987)
+
+* Update Fiverr CTA to reflect latest update in Figma.
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5cf982</div>
+                                        <div class="message">Update WCPay Tracks events props (#48901)
+
+* Add path and source props to incentive CTA clicked Tracks event
+
+* Minor inline docs fixes
+
+* Fix wording mistake
+
+* Add from param to Payments settings CTA URL
+
+* Add from param to incentive CTA URL
+
+* refact: Clearer logic for incentive page tracking
+
+* Add changelog
+
+* Fix incentives page tests</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4438a8</div>
+                                        <div class="message">CYS: Add default patterns (#48839)
+
+* remove not necessary patterns
+
+* use always template1 for AI flow
+
+* show default patterns homepage
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* remove not used images
+
+* restore changes
+
+* fix e2e test
+
+* fix e2e test
+
+* restore necessary patterns
+
+* add necessary patterns
+
+* add default patterns
+
+* add default pattern
+
+* update tests
+
+* fix logic
+
+* rename images
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* restore deleted patterns
+
+* exclude tt4 patterns
+
+* update image
+
+* update default intro pattern
+
+* not use i18n function
+
+* fix how patterns label are translated
+
+* order patterns in the sidebar
+
+* fix unit test
+
+* simplify function
+
+* Fetch patterns from the private dotcom patterns
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* exclude some default patterns
+
+* fix lint error
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+Co-authored-by: Alba Rincón &lt;alba.rincon@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e086ba7</div>
+                                        <div class="message">[Accessibility] Add required indicator to form login (#48743)
+
+* Add accessibility attributes to form login
+
+* Add accessibility attributes to lost password form
+
+* Add accessibility attributes to reset password form
+
+* Bump form login templates
+
+* Add accessibility attributes to register form
+
+* Update login forms with aria-required attribute
+
+* Hide asterisk for screen readers in the register form
+
+* Add changelog file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d4b177</div>
+                                        <div class="message">Fixing incorrect case causing erorrs with case-sensitive environments (#48992)
+
+* Fixing incorrect case causing erorrs with case-sensitive environments
+
+* Adding changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d37c92</div>
+                                        <div class="message">Fix for tags overlapping divider line issue in "Filter by product category" (#48756)
+
+* Fix for tags overlapping divider line issue in "Filter by product category"
+
+Issue fixed where tags are overlapping divider line in "Filter by product category".
+
+* Fix for tags overlapping divider line issue in "Filter by product category"
+
+Issue fixed where tags are overlapping divider line in "Filter by product category".
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72c1084</div>
+                                        <div class="message">CYS - Fetch patterns from the private dotcom patterns category (#49007)
+
+* Fetch patterns from the private dotcom patterns
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e842d4b</div>
+                                        <div class="message">[CYS] Avoid the intro cards to get smaller on large screens (#48983)
+
+* Avoid the intro cards to get smaller on large screens
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add flex wrap
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12ec2b7</div>
+                                        <div class="message">CI: bug-fix for linting missing strict types directive in new php files. (#49015)
+
+CI: buffix for linting missing strict types directive.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#130edc9</div>
+                                        <div class="message">CYS: open Intro panel when user clicks on Design your homepage (#49005)
+
+* CYS: open Intro panel when user clicks on Design your homepage
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dabc29c</div>
+                                        <div class="message">Enhancement: Update account creation settings wording (#48556)
+
+* Reword and reorganise existing account settings
+
+* Disable account creation options if toggled off
+
+* Toggle disabled state of related options
+
+* Update settings crud tests
+
+* changelog
+
+* Hide based on subscriptions checkbox also</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fae23f0</div>
+                                        <div class="message">Product Editor: disable Add button when no terms or options when creating variations (#48928)
+
+* fix doc. improve doc
+
+* disabe `Add` button when not terms nor options
+
+* variant="primary" &gt; isPrimary
+
+* move helpers to utils file. improve jsdoc
+
+* add tests for hasTermsOrOptions helper
+
+* add isAttributeFilledOut unit tests
+
+* changelog
+
+* allow any type in unit tests
+
+* show a toolip with not possible to add attributes
+
+* fix wrong inline code comment
+
+* expect the Add button is initially disabled
+
+* check the `Add attributes` button is enabled
+
+* changelog
+
+* remove obvios jsdoc
+
+* check all terms are accepted
+
+* minor changes
+
+* update tests
+
+* remove console.log to dev purpose
+
+* improve E2E testing remviing attr row</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe4141f</div>
+                                        <div class="message">CYS: Remove iframe animation (#48941)
+
+* CYS: Remove animation
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* lint CSS
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb1c2b9</div>
+                                        <div class="message">CYS: Revisit sidebar layout (#48803)
+
+* WIP
+
+* improve layout
+
+* improve CSS
+
+* fix import
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* lint scss
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dee838e</div>
+                                        <div class="message">Fix product editor block template dependency conflict (#48922)
+
+* Add ajv-keywords dependency to fix version conflct
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dcaca7</div>
+                                        <div class="message">Add a new icon style to the Customer Account block (#48979)
+
+* Add a new icon style to the Customer Account block
+
+* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
+
+* Fix lint errors
+
+* Improve svg margins
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbbf452</div>
+                                        <div class="message">Delete changelog files based on PR 48664 (#49000)
+
+Delete changelog files for 48664
+
+Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jul 2024, 05:50:48</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">mralaminahamed/phpstan-wpforms-lite-stubs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#20c6af7</div>
+                                        <div class="message">Generate stubs for WPForms 1.8.9.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee64b58</div>
+                                        <div class="message">Generate stubs for WPForms 1.8.9.5</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">10 Jul 2024, 05:49:50</div>
                             </section>
                         </div>
                     </section>
@@ -1950,7 +1686,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@58634 602fd350-edb4-49c9-b59
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jul 2024, 11:18:00 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 12:19:36 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
