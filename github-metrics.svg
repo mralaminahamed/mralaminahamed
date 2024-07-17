@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2088" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2094" class="large">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    845k added, 440k removed
+                                    222k added, 93.1k removed
                                 </div>
                             </section>
                             <section>
@@ -538,6 +538,28 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#640 Fix PHP 8.2 and Other Related Issues</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mralaminahamed in <span class="repo">Mangopay/mangopay2-php-sdk</span></div>
+                                    <div class="comment">Hi @iulian03,
+I hope this message finds you well. I wanted to follow up on the status of my pull request (#640) that addresses the PHP 8.2 compatibility issues and other related problems in the Mangopay PHP SDK.
+It's been over a month since I submitted the pull request, and I've been actively working on incorporating the valuable feedback provided by @williamdes and making the necessary changes. The latest updates have been reviewed and approved by @williamdes, indicating that the pull request is ready for final review and merging.
+I understand that you and the team might have a busy schedule, but I kindly request an update on the timeline for reviewing and merging these changes. As a developer relying on this SDK, it's crucial to have it compatible with the latest PHP versions, and I believe many others in the community would also benefit from these fixes.
+Additionally, I wanted to inquire about your plans for the next release of the Mangopay PHP SDK. It would be great if you could share any information on when we can expect a new version that includes these compatibility enhancements.</div>
+                                </div>
+                                <div class="timestamp">17 Jul 2024, 06:13:30</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#2315 Stripe Express - Payment element triggered twice</span>
                                     </div>
                                 </div>
@@ -718,31 +740,6 @@ CC: @mrabbani @shams-sadek1981</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">17 Jul 2024, 02:19:09</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">mralaminahamed/phpstan-forminator-stubs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cc085d2</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7656a70</div>
-                                        <div class="message">Generate stubs for Fluent Form 1.6.0.2</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">16 Jul 2024, 18:03:03</div>
                             </section>
                         </div>
                     </section>
@@ -1391,7 +1388,7 @@ CC: @mrabbani @shams-sadek1981</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jul 2024, 09:17:03 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2024, 10:21:39 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
