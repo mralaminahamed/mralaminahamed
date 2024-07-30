@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2564" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2547" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.post{align-items:flex-start}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    623k added, 171k removed
+                                    177k added, 103k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 789kb of code in 680 edited files across 180 commits over last 14 days</small>
+                <small>estimation from 946kb of code in 1064 edited files across 200 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.6472671206096" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="421.6472671206096" y="0" width="400.8124940060345" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="822.4597611266441" y="0" width="36.53584944634202" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="858.9956105729862" y="0" width="33.39889194632357" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="892.3945025193098" y="0" width="20.230728939971822" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="912.6252314592815" y="0" width="6.195185646942524" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="918.8204171062241" y="0" width="0.9406800292136654" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="919.7610971354378" y="0" width="0.23890286456220078" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="381.11235586164725" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="381.11235586164725" y="0" width="350.1881411196239" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="731.3004969812711" y="0" width="124.91888654140632" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="856.2193835226774" y="0" width="33.17228433443857" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="889.391667857116" y="0" width="17.182168823259627" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="906.5738366803756" y="0" width="7.061244232586232" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="913.6350809129619" y="0" width="5.261635702452827" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="918.8967166154147" y="0" width="1.10328338458531" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -323,15 +323,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PHP
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PHP
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -341,21 +341,21 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         SCSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TSX
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
+                        Other
                     </div>
                 </div>
             </section>
@@ -530,6 +530,245 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e750ba5</div>
+                                        <div class="message">Delete changelog files based on PR 49929 (#50095)
+
+Delete changelog files for 49929
+
+Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ced27dd</div>
+                                        <div class="message">[Experimental] Product Filters Redesign &gt; Overlay: Replace Product Filters Block with Template Part (#49999)
+
+* Modify Product Filters Overlay template part
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add E2E tests for the Product Filters Overlay template part
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26a6c9a</div>
+                                        <div class="message">Enhance Customer Email Password Reset include Login Username in Reset Password Link (#49737)
+
+* Add login username in reset password links
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Move login param as final query param
+
+* Bump template versions to 9.3.0
+
+* `phpcs:ignore` should be specific
+
+* `phpcs:ignore` should be specific
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;
+Co-authored-by: Barry Hughes &lt;3594411+barryhughes@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#853c722</div>
+                                        <div class="message">Delete changelog files based on PR 50076 (#50097)
+
+Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f61a9bf</div>
+                                        <div class="message">Allow rendering the quantity in cart when the quantity is not editable (#49450)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77318c4</div>
+                                        <div class="message">Cherry pick #351 and #363 into trunk (#50075)
+
+* XSS vulnerability on various unescaped attributes
+
+* escape Product Filter Stock status
+
+* escape more blocks
+
+* escape more blocks
+
+* escape more blocks
+
+* add changelog
+
+* update changelog
+
+* Fix misplaced json encode flags
+
+* Add escaping to the block names
+
+* Update changelog message
+
+---------
+
+Co-authored-by: Luigi Teschio &lt;gigitux@gmail.com&gt;
+Co-authored-by: roykho &lt;roykho77@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61d9b63</div>
+                                        <div class="message">Add admin_install_timestamp in WC_Tracker (#50076)
+
+* Add admin_install_timestamp in WC_Tracker
+
+* Lint
+
+* Tweak tests
+
+* Tweak tests
+
+* Lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#191c8ed</div>
+                                        <div class="message">Update changelog.txt from release 9.1.4 (#50039)
+
+* Prep trunk post release 9.1.4
+
+* Satisfy changelog requirement.
+
+---------
+
+Co-authored-by: WooCommerce Bot &lt;no-reply@woocommerce.com&gt;
+Co-authored-by: Barry Hughes &lt;3594411+barryhughes@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a92fbca</div>
+                                        <div class="message"> fix: wcadmin react18 createroot shipping settings, payment method, wc beta tester (#48835)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31c4ae8</div>
+                                        <div class="message">Adds concurrency limit to workflow run (#50034)
+
+Co-authored-by: Jon Lane &lt;jon.lane@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07a7110</div>
+                                        <div class="message">Monorepo: actualize loaders paths filtering for better Webpack performance. (#49714)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8b560a</div>
+                                        <div class="message">Prepare Packages for Release (#50073)
+
+* Automated change: Prep @woocommerce/onboarding for release.
+
+---------
+
+Co-authored-by: mordeth &lt;mordeth@users.noreply.github.com&gt;
+Co-authored-by: mordeth &lt;cvetan.cvetanov@automattic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#edc268a</div>
+                                        <div class="message">Product Collection: sync with current query doesnt display the correct products in the specific category templates (#49889)
+
+* Recognize custom category templates as archive ones
+
+* Disable the preview label if termId is recognized
+
+* Fetch the product category template ID
+
+* Prepare util to properly parse product taxonomies
+
+* Utilise the taxonomies util and update the query accordingly
+
+* Add tests
+
+* Update tests to be more specific
+
+* Improve selectors in E2E test
+
+* Add changelog
+
+* Update selectors
+
+* Fix the order of expected products
+
+* Remove unneceessery entries from array that are covered by another entries
+
+* Rename the variable to beytter depict its purpose</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63c77ca</div>
+                                        <div class="message">CI: improve monorepo setup time in PHPUnit and API tests. (#50032)
+
+In this PR we introduce a new installation logic aiming only PHPUnit and API test jobs as part of monorepo setup.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c12cb6c</div>
+                                        <div class="message">[tests] Move API core tests as a suite in e2e-pw (#50024)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#640312d</div>
+                                        <div class="message">CYS: Insert Add Patterns button for no blocks placeholder (#49981)
+
+* Add uninteractive button
+
+* insertPatternByName
+
+* Add comment explaining the event listener
+
+* Add E2E test coverage
+
+* Vertical align content
+
+* Hide popover for interactive elements
+
+* Replace not.toBeVisible with toBeHidden</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d731edc</div>
+                                        <div class="message">Product Collection: Fix max price filter query value inclusion (#49917)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df4bd38</div>
+                                        <div class="message">CYS - Run appropriate tests depending on the WordPress version (#50016)
+
+* WIP
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add missing code in before all
+
+* Fix lint
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#11c8567</div>
+                                        <div class="message">Hide main payment settings save changes button (#50064)
+
+* Hide save changes button for main payment settings screen
+
+* Changelog
+
+* Moved logic</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">30 Jul 2024, 07:01:03</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1042,143 +1281,6 @@ Co-authored-by: Karol Manijak &lt;20098064+kmanijak@users.noreply.github.com&gt;
                                     </div>
                                 </div>
                                 <div class="timestamp">29 Jul 2024, 06:13:32</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1181 commits in
-                                        <span class="repo">mralaminahamed/ohmyzsh</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#068feca</div>
-                                        <div class="message">feat(zsh-navigation-tools)!: update to zdharma-continuum fork (#10402)
-
-BREAKING CHANGE: the `zsh-navigation-tools` plugin now bundles the version from the
-zdharma-continuum project, which republished the projects that psprint deleted (we
-don't yet know yet why). In theory this change doesn't break anything, but be aware
-of the change and that the upstream repository now lives somewhere else.
-
-Source: https://github.com/zdharma-continuum/zsh-navigation-tools/commit/67b24e1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f90849</div>
-                                        <div class="message">feat(lpass): add plugin for LastPass CLI completion (#9323)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7546ded</div>
-                                        <div class="message">fix(symfony2): silence debug lines in command completion (#10528)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98a916b</div>
-                                        <div class="message">feat(yarn): upgrade completion to latest version (#10516)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6babcbd</div>
-                                        <div class="message">feat(asdf): add support for archlinux/AUR package (#9893)
-
-Closes #9893</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd0b4b6</div>
-                                        <div class="message">fix(asdf): fix path to Homebrew installation of `asdf` (#10481)
-
-Fixes #10484
-Closes #10481</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ae3731</div>
-                                        <div class="message">fix(cli): respect `ZDOTDIR` in plugin/theme change commands (#10520)
-
-Fixes #10520</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1ec96d</div>
-                                        <div class="message">fix(af-magic): add space before git and hg information (#9396)
-
-Closes #9396</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#904f868</div>
-                                        <div class="message">feat(brew): improve `brews` list layout (#10135)
-
-This is an improvement (in my opinion) to the `brews` command that prints each leaf formula (in white), followed by its dependencies (in blue), on each line. Compared to the existing flat list of formulae, the new layout is both more compact and more informative, by differentiating leaves from dependencies at a glance.
-
-Screenshot:
-&lt;img width="530" src="https://user-images.githubusercontent.com/1753319/130641713-b78535c9-e3f5-4dbb-80f8-22bc00e1129d.png"&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a3a44c</div>
-                                        <div class="message">feat(rvm): add alias `rvms` (#10219)
-
-* feat(rvm): add alias `rvms`
-
-* docs(rvm): new alias `rvms`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d02dab</div>
-                                        <div class="message">docs(README): Document .pre-oh-my-zsh (#10315)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e263e2</div>
-                                        <div class="message">feat(operator-sdk): add plugin for operator-sdk (#10423)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#481b912</div>
-                                        <div class="message">feat(jfrog): Support jf executable auto completion (#10503)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8c76d5</div>
-                                        <div class="message">feat(cnf): Added support for SUSE-derived operation systems (ZYpp) to CNF plugin (#10508)
-
-* Added support for SUSE and derivatives for command-not-found plugin
-
-* Updated command-not-found documentation to list support for SUSE and derivatives</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a150d8a</div>
-                                        <div class="message">feat(istioctl): add plugin for istioctl (#10410)
-
-* Add plugin for istioctl completion. close #10405
-
-* fix typo
-
-* Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08d086a</div>
-                                        <div class="message">feat(volta): add volta plugin (#10441)
-
-For Volta JavaScript toolchain
-https://github.com/volta-cli/volta</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44c6a71</div>
-                                        <div class="message">feat(deno): adding drA alias for --allow-all (#10501)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7fb0a5</div>
-                                        <div class="message">fix(heroku): fix XDG cache directory name and code style (#10436)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52a46ec</div>
-                                        <div class="message">feat(fzf): support fzf in Cygwin (#9463)
-
-Closes #9463</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#010c36d</div>
-                                        <div class="message">refactor(fzf): adopt code style and simplify function naming (#10514)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Jul 2024, 19:34:08</div>
                             </section>
                         </div>
                     </section>
@@ -1827,7 +1929,7 @@ Closes #9463</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2024, 06:20:12 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jul 2024, 07:18:07 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
