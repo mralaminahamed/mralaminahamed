@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    300k added, 171k removed
+                                    1.01m added, 496k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 9.34mb of code in 2626 edited files across 260 commits over last 13 days</small>
+                <small>estimation from 9.34mb of code in 2632 edited files across 263 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.164682564744" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="357.164682564744" y="0" width="243.85675470223882" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="601.0214372669828" y="0" width="155.81294689881818" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="756.834384165801" y="0" width="145.99165750327472" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="902.8260416690757" y="0" width="14.715812690721155" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="917.5418543597968" y="0" width="1.4800593264769042" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="919.0219136862738" y="0" width="0.6481294849992857" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="919.670043171273" y="0" width="0.3299568287269091" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="357.1602348194833" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="357.1602348194833" y="0" width="243.8568276456374" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="601.0170624651207" y="0" width="155.8110065717647" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="756.8280690368854" y="0" width="145.98983948000853" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="902.8179085168939" y="0" width="14.723976454008055" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="917.5418849709021" y="0" width="1.4800408954080548" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="919.0219258663101" y="0" width="0.648121413890954" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="919.6700472802011" y="0" width="0.3299527197990311" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1286,7 +1286,7 @@ Signed-off-by: Al Amin Ahamed &lt;34349365+mralaminahamed@users.noreply.github.c
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2024, 14:33:35 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2024, 15:21:15 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
