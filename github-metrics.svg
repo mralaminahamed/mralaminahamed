@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    156k added, 102k removed
+                                    196k added, 92k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.06mb of code in 3698 edited files across 505 commits over last 14 days</small>
+                <small>estimation from 5.12mb of code in 3706 edited files across 512 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.08067999365295" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="288.08067999365295" y="0" width="204.3829657340645" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="492.46364572771745" y="0" width="165.49055071310045" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="657.9541964408179" y="0" width="128.58219010453786" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="786.5363865453558" y="0" width="69.74778593270526" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="856.284172478061" y="0" width="36.430208134428106" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="892.7143806124891" y="0" width="14.245912749746521" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="906.9602933622357" y="0" width="13.039706637764336" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="282.02057899612805" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="282.02057899612805" y="0" width="200.0835402587102" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="482.1041192548383" y="0" width="162.0092709150956" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="644.113390169934" y="0" width="145.2305535397815" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="789.3439437097154" y="0" width="68.28056283702507" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="857.6245065467406" y="0" width="35.66385774723675" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="893.2883642939773" y="0" width="13.946233958141011" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="907.2345982521183" y="0" width="12.765401747881793" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -532,6 +532,47 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">mralaminahamed/phpstan-ninja-forms-stubs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">create-pull-request/patch</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bdea180</div>
+                                        <div class="message">Generate stubs for Ninja Forms 3.8.15</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f8330e</div>
+                                        <div class="message">Generate stubs for Ninja Forms 3.7.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff598b6</div>
+                                        <div class="message">Generate stubs for Ninja Forms 3.6.34</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7221464</div>
+                                        <div class="message">Generate stubs for Ninja Forms 3.2.28</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96b2f47</div>
+                                        <div class="message">Generate stubs for Ninja Forms 3.1.10</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73657bf</div>
+                                        <div class="message">Generate stubs for Ninja Forms 2.9.58</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">9 Sept 2024, 16:16:22</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -904,47 +945,6 @@ Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">5 Sept 2024, 10:38:03</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">mralaminahamed/phpstan-ninja-forms-stubs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">create-pull-request/patch</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#14b72ed</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.8.14</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2c1658</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.7.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6073be</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.6.34</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f22d24</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.2.28</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcd87b8</div>
-                                        <div class="message">Generate stubs for Ninja Forms 3.1.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a467722</div>
-                                        <div class="message">Generate stubs for Ninja Forms 2.9.58</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Sept 2024, 15:20:06</div>
                             </section>
                         </div>
                     </section>
@@ -1593,7 +1593,7 @@ Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Sept 2024, 17:20:18 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2024, 18:22:33 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
