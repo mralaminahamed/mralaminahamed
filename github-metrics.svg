@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    266k added, 174k removed
+                                    840k added, 411k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.04mb of code in 3528 edited files across 485 commits over last 14 days</small>
+                <small>estimation from 5.04mb of code in 3527 edited files across 483 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="286.1901950638112" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="286.1901950638112" y="0" width="201.94282732317794" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="488.1330223869891" y="0" width="159.0328529057045" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="647.1658752926937" y="0" width="139.64917610357767" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="786.8150513962713" y="0" width="70.03140855115947" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="856.8464599474307" y="0" width="36.578348048602415" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="893.4248079960332" y="0" width="14.303842374641738" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="907.7286503706749" y="0" width="12.271349629325089" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="286.2644046645943" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="286.2644046645943" y="0" width="201.9951914392628" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="488.25959610385706" y="0" width="159.07409039297374" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="647.3336864968309" y="0" width="139.44682981739828" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="786.7805163142291" y="0" width="70.04956781363771" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="856.8300841278667" y="0" width="36.58783287601024" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="893.4179170038769" y="0" width="14.307551385120068" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="907.725468388997" y="0" width="12.2745316110029" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1593,7 +1593,7 @@ Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Sept 2024, 08:25:48 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Sept 2024, 09:18:28 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
