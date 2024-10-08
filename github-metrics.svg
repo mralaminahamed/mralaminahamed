@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1954" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1481" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.06m added, 394k removed
+                                    815k added, 450k removed
                                 </div>
                             </section>
                             <section>
@@ -515,6 +515,62 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">voideditor/void</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Oct 2024, 00:54:17</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">Magentron/laravel-blade-lint</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Oct 2024, 00:50:54</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">flightcontrolhq/superjson</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Oct 2024, 00:47:50</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">pls-rs/pls</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Oct 2024, 00:47:29</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -530,770 +586,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">7 Oct 2024, 12:47:56</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 143 commits in
-                                        <span class="repo">mralaminahamed/woocommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f9cf25e</div>
-                                        <div class="message">Legacy reports: Decouple the dependency between the legacy reports and the WooCommerce Status widget on the dashboard page (#51566)
-
-* Reverse the dependency on drawing sparklines in the legacy reports from the WooCommerce Status widget on the dashboard page.
-
-* Add a new class to simulate the loading plugin for the legacy reports.
-
-* Decouple the dependency between the legacy reports and the WooCommerce Status widget on the dashboard page.
-
-* Break down the method of forming HTML for the sparkline in Dashboard widget to avoid directly outputting HTML via a filtered callback.
-
-* Update PHP unit tests for WC_Tests_Admin_Dashboard.
-
-* Add changelog.
-
-* Ensure the backward compatibility for the `woocommerce_after_dashboard_status_widget ` action.
-
-Address: https://github.com/woocommerce/woocommerce/pull/51566#discussion_r1768751063
-
-* Fix the incorrect indentation of a modified line of codes in the `WC_Admin_Dashboard` class.
-
-Address: https://github.com/woocommerce/woocommerce/pull/51566#discussion_r1768690182
-
-* Fix a PHP 8 deprecation message due to a required parameter after an optional parameter in the `WC_Admin_Dashboard` class.
-
-Address: https://github.com/woocommerce/woocommerce/pull/51566#discussion_r1768776896
-
-* Tweak the inaccurate PHPDoc for the `get_sales_sparkline ` method in the `WC_Admin_Report` class.
-
-Address: https://github.com/woocommerce/woocommerce/pull/51566#discussion_r1768804777</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31d847b</div>
-                                        <div class="message">Allow change remote spec data source base URL via filter (#51532)
-
-* Refactor WooCommerce Helper class
-
-This commit refactors the WooCommerce Helper class in the `class-wc-helper.php` file. The changes include:
-- Updating the comparison operator from `==` to `===` in the `activate_plugin` condition.
-- Renaming the `get_install_base_url` method to `get_woocommerce_com_base_url`.
-- Adding a new `get_install_base_url` method that returns the base URL for the plugin auto installer.
-
-These changes improve the readability and maintainability of the code.
-
-* Refactor data source poller classes for marketing recommendations, payment gateway suggestions, shipping partner suggestions, inbox notifications, remote free extensions, and WooPayments promotion
-
-- Refactor the data source poller classes for marketing recommendations, payment gateway suggestions, shipping partner suggestions, inbox notifications, remote free extensions, and WooPayments promotion to use a dynamic base URL for the data sources.
-- Update the deprecated DATA_SOURCES constant to an empty array in each class.
-- Add a new method get_data_sources() in each class to return the updated data sources with the dynamic base URL.
-- Modify the constructor of each class to use the get_data_sources() method instead of the deprecated DATA_SOURCES constant.
-
-* Add changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4d0123</div>
-                                        <div class="message">Fix taxes totals mismatch at reports table (#51218)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15bcbbd</div>
-                                        <div class="message">Fix Tax Analytics total results &amp; export (#51270)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb7eb58</div>
-                                        <div class="message">Unify currency symbol behavior, decode entities in Currency package (#50726)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03749a0</div>
-                                        <div class="message">Product Collection: Add option for current product as a reference (#51359)
-
-* Introduce RadioControl
-
-* Provide better copy and improve styling of radio button
-
-* Implement the logic of choosing current product as a reference
-
-* Add placeholder state in product chooser
-
-* Add placeholder image to product chooser
-
-* Add changelog
-
-* Refactor file
-
-* Improve the condition choosing the default radio value
-
-* Update E2E tests
-
-* Format SVG icon and optimize it
-
-* Increase a gap in radio control
-
-* Make the labels less spcific to related products
-
-* Rename some variables to more meaningful names
-
-* Show placeholder img if product doesnt have one
-
-* Fix type
-
----------
-
-Co-authored-by: Manish Menaria &lt;the.manish.menaria@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35ba49a</div>
-                                        <div class="message">Product Collection: Implement the Hand-Picked collection (#51141)
-
-* Fixed PHP 7.4 Compatibility
-
-The splat operator does not support associative arrays until PHP 8.1.
-
-* Added Related Products Collection Boilerplate
-
-* Added `woocommerceRelatedTo` Collection Parameter
-
-This parameter allows the block to query for products that are related
-to the given product IDs.
-
-* Added Collection Related Product Filter
-
-Using `woocommerceRelatedTo`, queries may restrict the products returned
-to those that are related to the given product ID(s).
-
-* Removed Unnecessary Tracking
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
-
-* Removing Misunderstood Option
-
-* Linting Fix
-
-* Fixed Test
-
-* Initialize the Hand-Picked collection
-
-* Removed Unnecessary Keyword
-
-* Render the collection-specific control
-
-* try removing for fixing gh syntax hl
-
-* add back
-
-* tweak icon render
-
-* combine conditions for early return
-
-* Remove timeFrame from the query
-
-* Set control label per context
-
-* Use primitives for the icon
-
-* Hide 'order by' control for the Hand-Picked collection
-
-* Support Unlimited `wc_get_related_products()`
-
-This changes related product fetching so that `-1` will return all
-related products. I also removed a second +10 offset that seems
-to have been accidentally added eight years ago.
-
-* Revert "Set control label per context"
-
-This reverts commit cd537befbeaee6a13849592c66d98f1019450721.
-
-* Update titles and description
-
-* Enable sorting by entered order
-
-* Removed `woocommerceRelatedTo` Param
-
-Since we're going to use the collection name, we don't need
-this functionality any longer.
-
-* Simplified `post__in` Filtering
-
-Since `merge_queries` was already using an intersection merge for
-`post__in`, this second function is unnecessary. I've removed it
-as well as refactored the merging logic.
-
-* Pass Collection Name To Final Query
-
-* Improve the query merging logic
-
-* Added Custom Collection Handlers
-
-Developers can register collections along with handlers that implement
-the custom behavior.
-
-* Removed Second Test Query Construction
-
-As it was, `build_query_vars_from_query_block()` was triggering the
-ProductCollection instance hooked into WordPress. After that, we
-called `build_frontend_query()` on our test instance. This caused some
-weird behavior in tests. As a result, however, the tax_query merge
-test couldn't rely on the tax_query transformation done by WordPress.
-
-* Added Related Product Collection Handlers
-
-* Revert "Support Unlimited `wc_get_related_products()`"
-
-This reverts commit 41c837202ebad27031b82f4227cba0b307bc7905.
-
-* Fixed Preview Mode Query
-
-It looks like we were checking the wrong place for the preview
-state.
-
-* Improve the query merging logic
-
-* Fixed Test
-
-* Updated Collection Heading
-
-* Handle collection context / no results state
-
-* Small cleanup
-
-* Better Collection Test Teardown
-
-Passing a callable back means that we can use variables in the
-setUp and then the tearDown without any confusion.
-
-* Removed Unnecessary Test Provider
-
-* Fixed `$post__in` Merging
-
-When the intersection is empty it was returning all products. This
-makes it so that it returns nothing when there's no results.
-
-* Set perPage to 0 and add Pagination block for better discoverability
-
-* Improve empty state in Editor by providing meaningful instruction
-
-* Make code more defensive
-
-* Hide more filters in scope of handpicked through hideFilters API
-
-* Fixed PHPDoc
-
-Co-authored-by: Manish Menaria &lt;the.manish.menaria@gmail.com&gt;
-
-* Hide Empty Related Product Collections
-
-* Removed Duplicate Query Function
-
-* Added Hand-Picked Collection Handler
-
-* Revert changes to pnpm
-
-* Improve comment for empty Hand-Picked collection
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
-
-* Fix: Pagination not working on Frontend
-
-Remove perPage and pages attributes from hand-picked collection
-
-* Remove unused code
-
-* Revert "Improve empty state in Editor by providing meaningful instruction"
-
-This reverts commit 9ac5c20d5e2e23a1cc460a57bcecf19603981754.
-
-* Do not apply layout styles for empty results
-
-* Improve the wording on the empty results message
-
----------
-
-Co-authored-by: Christopher Allford &lt;6451942+ObliviousHarmony@users.noreply.github.com&gt;
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;
-Co-authored-by: Manish Menaria &lt;the.manish.menaria@gmail.com&gt;
-Co-authored-by: Karol Manijak &lt;20098064+kmanijak@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6222124</div>
-                                        <div class="message">Add Upsells collection (#51374)
-
-* Fixed PHP 7.4 Compatibility
-
-The splat operator does not support associative arrays until PHP 8.1.
-
-* Added Related Products Collection Boilerplate
-
-* Added `woocommerceRelatedTo` Collection Parameter
-
-This parameter allows the block to query for products that are related
-to the given product IDs.
-
-* Added Collection Related Product Filter
-
-Using `woocommerceRelatedTo`, queries may restrict the products returned
-to those that are related to the given product ID(s).
-
-* Removed Unnecessary Tracking
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
-
-* Removing Misunderstood Option
-
-* Linting Fix
-
-* Fixed Test
-
-* Removed Unnecessary Keyword
-
-* Support Unlimited `wc_get_related_products()`
-
-This changes related product fetching so that `-1` will return all
-related products. I also removed a second +10 offset that seems
-to have been accidentally added eight years ago.
-
-* Removed `woocommerceRelatedTo` Param
-
-Since we're going to use the collection name, we don't need
-this functionality any longer.
-
-* Simplified `post__in` Filtering
-
-Since `merge_queries` was already using an intersection merge for
-`post__in`, this second function is unnecessary. I've removed it
-as well as refactored the merging logic.
-
-* Pass Collection Name To Final Query
-
-* Added Custom Collection Handlers
-
-Developers can register collections along with handlers that implement
-the custom behavior.
-
-* Removed Second Test Query Construction
-
-As it was, `build_query_vars_from_query_block()` was triggering the
-ProductCollection instance hooked into WordPress. After that, we
-called `build_frontend_query()` on our test instance. This caused some
-weird behavior in tests. As a result, however, the tax_query merge
-test couldn't rely on the tax_query transformation done by WordPress.
-
-* Added Related Product Collection Handlers
-
-* Revert "Support Unlimited `wc_get_related_products()`"
-
-This reverts commit 41c837202ebad27031b82f4227cba0b307bc7905.
-
-* Fixed Preview Mode Query
-
-It looks like we were checking the wrong place for the preview
-state.
-
-* Fixed Test
-
-* Updated Collection Heading
-
-* Add Upsells collection definition
-
-* Register Upsells
-
-* Add collection handlers for Upsells
-
-* Add changelog
-
-* Remove on sale query param
-
-* Better Collection Test Teardown
-
-Passing a callable back means that we can use variables in the
-setUp and then the tearDown without any confusion.
-
-* Removed Unnecessary Test Provider
-
-* Added Upsell Collection Unit Test
-
-* Product ID Confidence Check
-
-* Added Collection Product Reference
-
-* Don't display Upsells collection if there's no upsells
-
-* Change the Upsells collection heading
-
-* Add Upsells supporting cart context
-
-* Consume the cart productIds and display Upsells in there
-
-* Fixed `$post__in` Merging
-
-When the intersection is empty it was returning all products. This
-makes it so that it returns nothing when there's no results.
-
-* Fix lint
-
-* Extract the variable
-
-* Fix lint
-
----------
-
-Co-authored-by: Christopher Allford &lt;6451942+ObliviousHarmony@users.noreply.github.com&gt;
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;
-Co-authored-by: Manish Menaria &lt;the.manish.menaria@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a7b940</div>
-                                        <div class="message">Product Collection: Introduce "Related Products" Collection (#51076)
-
-* Fixed PHP 7.4 Compatibility
-
-The splat operator does not support associative arrays until PHP 8.1.
-
-* Added Related Products Collection Boilerplate
-
-* Added `woocommerceRelatedTo` Collection Parameter
-
-This parameter allows the block to query for products that are related
-to the given product IDs.
-
-* Added Collection Related Product Filter
-
-Using `woocommerceRelatedTo`, queries may restrict the products returned
-to those that are related to the given product ID(s).
-
-* Removed Unnecessary Tracking
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
-
-* Removing Misunderstood Option
-
-* Linting Fix
-
-* Fixed Test
-
-* Removed Unnecessary Keyword
-
-* Support Unlimited `wc_get_related_products()`
-
-This changes related product fetching so that `-1` will return all
-related products. I also removed a second +10 offset that seems
-to have been accidentally added eight years ago.
-
-* Removed `woocommerceRelatedTo` Param
-
-Since we're going to use the collection name, we don't need
-this functionality any longer.
-
-* Simplified `post__in` Filtering
-
-Since `merge_queries` was already using an intersection merge for
-`post__in`, this second function is unnecessary. I've removed it
-as well as refactored the merging logic.
-
-* Pass Collection Name To Final Query
-
-* Added Custom Collection Handlers
-
-Developers can register collections along with handlers that implement
-the custom behavior.
-
-* Removed Second Test Query Construction
-
-As it was, `build_query_vars_from_query_block()` was triggering the
-ProductCollection instance hooked into WordPress. After that, we
-called `build_frontend_query()` on our test instance. This caused some
-weird behavior in tests. As a result, however, the tax_query merge
-test couldn't rely on the tax_query transformation done by WordPress.
-
-* Added Related Product Collection Handlers
-
-* Revert "Support Unlimited `wc_get_related_products()`"
-
-This reverts commit 41c837202ebad27031b82f4227cba0b307bc7905.
-
-* Fixed Preview Mode Query
-
-It looks like we were checking the wrong place for the preview
-state.
-
-* Fixed Test
-
-* Updated Collection Heading
-
-* Better Collection Test Teardown
-
-Passing a callable back means that we can use variables in the
-setUp and then the tearDown without any confusion.
-
-* Removed Unnecessary Test Provider
-
-* Fixed `$post__in` Merging
-
-When the intersection is empty it was returning all products. This
-makes it so that it returns nothing when there's no results.
-
-* Fixed PHPDoc
-
-Co-authored-by: Manish Menaria &lt;the.manish.menaria@gmail.com&gt;
-
-* Hide Empty Related Product Collections
-
-* Fix lint issue
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;
-Co-authored-by: Manish Menaria &lt;the.manish.menaria@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62a2968</div>
-                                        <div class="message">Add screen reader text for ratings data on product cards (#51571)
-
-* Add screen reader text for ratings data on product cards
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa977c2</div>
-                                        <div class="message">Replace flaky Local Pickup e2e test with PHP and JS unit test (#51554)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#017d649</div>
-                                        <div class="message">Show correct decimals on product price and show the sale price of products (#51499)
-
-* add regular price and sale price flag to product apis and types
-
-* add sale price and screen reader text for prices on product cards
-
-* fix typo on sale flag
-
-* add regular price and sale price flag to product apis and types
-
-* add sale price and screen reader text for prices on product cards
-
-* fix typo on sale flag
-
-* Changelog.
-
-* address feedback on sale price VO text
-
----------
-
-Co-authored-by: Herman &lt;KokkieH@users.noreply.github.com&gt;
-Co-authored-by: And Finally &lt;andfinally@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aacae66</div>
-                                        <div class="message">Delayed account creation: Admin settings (#51236)
-
-* Settings first pass
-
-* New Settings UI
-
-* Respect woocommerce_enable_delayed_account_creation at block level
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
-
-* Check input exists
-
-* Add new setting to tests
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ff28fd</div>
-                                        <div class="message">Update Payments menu item display and linking behavior (#51541)
-
-* Minor cleanup
-
-* refact: Rename must_be_visible to is_incentive_visible for clarity
-
-* refact: Rename register_payments_welcome_page to register_menu_and_page for clarity
-
-* Don't show the incentive page if the user can't manage WC
-
-* Introduce menu item when no incentive
-
-* Don't recommend additional gateways when WCPay is present
-
-* Render gateway suggestions on the WCPay task page, also
-
-* Add changelog entry
-
-* Remove short array syntax
-
-* Lint fixes
-
-* Simplify Payments task view logic
-
-* Simplify WooPayments task view logic
-
-* Improve WooPayments task complete logic
-
-* WooPayments can't be connected or onboarded if it is not active
-
-* refact: Rename private static method
-
-* Improve logic to determine the Payments task slug by factoring in the extended task list also
-
-* docs: Add details about our use of the Payments task logic
-
-* Add type hint
-
-* Do not recommend offline methods when WooPayments is supported
-
-* On suggestion enablement redirect to the same task page
-
-* Lint fixes
-
-* test: Fix unit tests
-
-* Maintain deprecated navigation logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad2d182</div>
-                                        <div class="message">Add additional body class for the account dashboard (#30050) (#51147)
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;
-Co-authored-by: Nestor Soriano &lt;konamiman@konamiman.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c58f19</div>
-                                        <div class="message">Ensure `QuantityLimits::limit_to_multiple` receives correct values to prevent fatal errors (#51451)
-
-* Ensure values passed to limit_to_multiple are integers
-
-* changelog
-
-* Type and value enforcing for filters
-
-* fix max value</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d567c6c</div>
-                                        <div class="message">Delayed Account Creation: Support option to send password setup link to customer via email (#51227)
-
-* Update form handling to work with automatically generated passwords
-
-* Keep user logged in after password reset.
-
-* Ignore comments for hooks in changed method
-
-* Add changefile(s) from automation for the following project(s): woocommerce-blocks, woocommerce
-
-* Checkmark list style
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c5ed905</div>
-                                        <div class="message">Fix script tag handling for inner blocks in the cart (#51498)
-
-* Avoid parsing scripts when dealing with inner blocks—return as-is
-
-* changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf549e6</div>
-                                        <div class="message">Defend against missing session in cart functions to prevent fatals (#51442)
-
-* Ensure session is callable in cart functions
-
-* Changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8ca18f0</div>
-                                        <div class="message">Marketplace: hide the scrollbar from the category selector (#51527)
-
-* Marketplace: hide the scrollbar from the category selector
-
-Also fixed some button gradient issues
-
-* Marketplace: change scroll helper button cursor
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Oct 2024, 11:43:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/order-trash-untrash-handling</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2f5141a</div>
-                                        <div class="message">enhance: automatically listen order status events</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6308523</div>
-                                        <div class="message">enhance: load the order event listener out of admin scope</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">7 Oct 2024, 09:55:36</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2392 Implement order trash and untrash handling for Dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by mralaminahamed in <span class="repo">getdokan/dokan</span></div>
-                                    <div class="comment">I created a helper method to make multiple orders without repeating code.</div>
-                                </div>
-                                <div class="timestamp">7 Oct 2024, 09:55:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#2392 Implement order trash and untrash handling for Dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">getdokan/dokan</span></div>
-                                </div>
-                                <div class="timestamp">7 Oct 2024, 09:55:16</div>
                             </section>
                         </div>
                     </section>
@@ -1936,7 +1228,7 @@ Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.40m out of 223m repositories</span>
+                                    <span class="gh">ranked 5.40m out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1988,7 +1280,7 @@ Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2024, 05:26:32 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2024, 06:22:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
