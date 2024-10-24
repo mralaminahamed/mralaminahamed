@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    726k added, 404k removed
+                                    557k added, 265k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.76mb of code in 930 edited files across 140 commits over last 11 days</small>
+                <small>estimation from 1.82mb of code in 949 edited files across 142 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.35877530550835" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="453.35877530550835" y="0" width="380.7490328127239" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="834.1078081182322" y="0" width="51.20599042024031" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="885.3137985384725" y="0" width="15.295120054039671" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="900.6089185925123" y="0" width="12.844605244304342" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="913.4535238368165" y="0" width="4.28545841606452" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="917.7389822528811" y="0" width="1.2382044091458049" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="918.977186662027" y="0" width="1.022813337973103" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="470.4056129121597" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="470.4056129121597" y="0" width="366.33079870139863" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="836.7364116135584" y="0" width="49.89088671087655" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="886.6272983244351" y="0" width="14.715923253273429" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="901.3432215777085" y="0" width="12.358204729740125" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="913.7014263074486" y="0" width="4.123176342067607" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="917.8246026495164" y="0" width="1.1913159878756174" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="919.0159186373919" y="0" width="0.9840813626082808" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -534,6 +534,45 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#2412 feat: REST API endpoints for Orders, Taxes, Shipping and Payment Management</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">getdokan/dokan</span></div>
+                                    <div>19 files changed <span class="code">++2411 --0</span></div>
+                                </div>
+                                <div class="timestamp">24 Oct 2024, 09:07:58</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/orders-api</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#18c57e1</div>
+                                        <div class="message">feat: new rest api for orders, countries, tax, shipping</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Oct 2024, 09:05:57</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -597,48 +636,6 @@ changes made to c56dacbfa747dacb84a72bbec283e6290c06bcdf.</div>
                                     </div>
                                 </div>
                                 <div class="timestamp">24 Oct 2024, 06:24:37</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7b317f1</div>
-                                        <div class="message">Add actions before and after deleting product(s). (#2368)</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Oct 2024, 06:23:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/customer-api</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ef532fb</div>
-                                        <div class="message">Merge branch 'develop' into feat/customer-api</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Oct 2024, 06:16:57</div>
                             </section>
                         </div>
                     </section>
@@ -1281,7 +1278,7 @@ changes made to c56dacbfa747dacb84a72bbec283e6290c06bcdf.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 216m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 223m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1333,7 +1330,7 @@ changes made to c56dacbfa747dacb84a72bbec283e6290c06bcdf.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Oct 2024, 10:24:47 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Oct 2024, 11:20:35 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
