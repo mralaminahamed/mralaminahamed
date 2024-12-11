@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1706" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1689" class="large">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.98m added, 518k removed
+                                    2.12m added, 1.37m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 13.9mb of code in 7346 edited files across 916 commits over last 14 days</small>
+                <small>estimation from 13.9mb of code in 7334 edited files across 916 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.6718232103337" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="219.6718232103337" y="0" width="212.1356879050285" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="431.8075111153622" y="0" width="207.41990619717038" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="639.2274173125327" y="0" width="106.95868127663738" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="746.18609858917" y="0" width="59.94958959032039" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="806.1356881794904" y="0" width="56.84251666703948" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="862.9782048465299" y="0" width="14.043060595552044" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="877.021265442082" y="0" width="42.97873455791811" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="222.64608979734084" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="222.64608979734084" y="0" width="215.33468258165553" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="437.98077237899633" y="0" width="209.6939107908974" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="647.6746831698938" y="0" width="97.34549728605747" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="745.0201804559513" y="0" width="59.88926137810899" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="804.9094418340602" y="0" width="57.46569766441675" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="862.375139498477" y="0" width="14.19701874204699" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="876.572158240524" y="0" width="43.427841759476046" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -536,6 +536,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">feat/pending-product-rejection-integration</span>
+                                        in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Dec 2024, 10:51:51</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -627,24 +644,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">10 Dec 2024, 11:00:09</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#56 Missing Required PHP Header in Conversion Tracking Plugin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">getdokan/woocommerce-conversion-tracking</span></div>
-                                </div>
-                                <div class="timestamp">10 Dec 2024, 07:18:45</div>
                             </section>
                         </div>
                     </section>
@@ -803,7 +802,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 53.9k out of 148m users</span>
+                                    <span class="gh">ranked 53.9k out of 151m users</span>
                                 </div>
                                 <div class="text">Published 203 public repositories</div>
                             </div>
@@ -1204,7 +1203,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.62m out of 148m users</span>
+                                    <span class="gh">ranked 1.62m out of 151m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -1318,7 +1317,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.48m out of 194m repositories</span>
+                                    <span class="gh">ranked 5.48m out of 189m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1370,7 +1369,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2024, 14:30:26 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Dec 2024, 15:20:07 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
