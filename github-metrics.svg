@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.97m added, 693k removed
+                                    2.39m added, 1.41m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 13.4mb of code in 7179 edited files across 878 commits over last 14 days</small>
+                <small>estimation from 13.4mb of code in 7177 edited files across 876 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.5085636656577" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="300.5085636656577" y="0" width="222.96063118599133" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="523.4691948516489" y="0" width="196.13918492714234" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="719.6083797787913" y="0" width="63.30890181175261" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="782.9172815905439" y="0" width="46.65392227061403" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="829.571203861158" y="0" width="35.41196327917492" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="864.9831671403329" y="0" width="15.390068906064897" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="880.3732360463977" y="0" width="39.626763953602214" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.0016321937603" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="301.0016321937603" y="0" width="223.28904140439465" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="524.290673598155" y="0" width="196.46100623577857" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="720.7516798339335" y="0" width="63.41277780999819" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="784.1644576439318" y="0" width="46.7304711067057" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="830.8949287506374" y="0" width="35.470066530537544" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="866.3649952811749" y="0" width="15.415320627780737" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="881.7803159089556" y="0" width="38.21968409104432" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1295,7 +1295,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.49m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.49m out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1347,7 +1347,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2024, 21:23:09 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2024, 22:19:37 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
