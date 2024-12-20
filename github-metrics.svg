@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1506" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1856" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;color:#666;font-size:10px;margin-top:4px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.56m added, 1.44m removed
+                                    2.75m added, 1.71m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.35mb of code in 3161 edited files across 298 commits over last 14 days</small>
+                <small>estimation from 5.45mb of code in 3317 edited files across 319 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="273.1300332174764" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="273.1300332174764" y="0" width="226.6012415649159" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="499.73127478239223" y="0" width="203.02360430174457" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="702.7548790841369" y="0" width="131.38701381260972" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="834.1418928967465" y="0" width="40.44901397429626" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="874.5909068710428" y="0" width="24.1340596534997" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="898.7249665245424" y="0" width="17.092473381734443" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="915.8174399062768" y="0" width="4.182560093723003" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.49440175869216" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="276.49440175869216" y="0" width="224.3808403393235" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="500.8752420980157" y="0" width="201.9648017608607" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="702.8400438588764" y="0" width="129.07888498700902" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="831.9189288458854" y="0" width="39.73842978174923" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="871.6573586276346" y="0" width="24.719589168646596" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="896.3769477962812" y="0" width="18.790508809047182" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="915.1674566053283" y="0" width="4.832543394671608" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -534,6 +534,295 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 213 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#80c6e6b</div>
+                                        <div class="message">[e2e-tests] Update URLs across tests for multisite setup compatibility (#53228)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b657a44</div>
+                                        <div class="message">[Accessibility] Associate email field and payment option radio with their descriptions on Checkout (#52949)
+
+* Associate description with email input as guest on Checkout
+
+* Associate payment radio with description on Checkout page
+
+* Add changelog file
+
+---------
+
+Co-authored-by: Niels Lange &lt;info@nielslange.de&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21ae38d</div>
+                                        <div class="message">[e2e tests] Improve shop search browse and sort spec (#53395)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94f146d</div>
+                                        <div class="message">Fix click event on Import from a CSV file box in add products task (#53265)
+
+* Fix click event on Import from a CSV file box in add products task
+
+* Add changelog
+
+* Update product task card to match design
+
+* Update plugins/woocommerce/client/admin/client/task-lists/fills/import-products/cards.scss
+
+Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;
+
+* Address PR feedback
+
+* Update headering letter spacing to 1px
+
+---------
+
+Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7cc80f0</div>
+                                        <div class="message">Introduce opt-in WooCommerce rebranding (#53308)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#87cee2d</div>
+                                        <div class="message">Add `orders/statuses` endpoint to the REST API (#52455)
+
+Adds a REST endpoint for retrieving order status slugs and labels without having to retrieve orders.
+
+* add orders/statuses endpoint
+
+* Move endpoint from store API to REST API
+
+* move endpoint registry to src folder instead of includes
+
+* Update OrderStatusController.php
+
+* Add uni test &amp; rename controller file to include "rest"
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/tests/php/src/Internal/Orders/OrderStatusRestControllerTest.php
+
+* Update plugins/woocommerce/src/Internal/Orders/OrderStatusRestController.php
+
+---------
+
+Co-authored-by: Remi Corson &lt;1649788+corsonr@users.noreply.github.com&gt;
+Co-authored-by: Corey McKrill &lt;916023+coreymckrill@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9239dec</div>
+                                        <div class="message">[e2e tests] Introduce Faker - update checkout login test to use unique and realistic test data (#53385)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d837888</div>
+                                        <div class="message">[e2e tests] Replace utils from the new `@woocommerce/e2e-utils-playwright` package (#53377)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccd5f72</div>
+                                        <div class="message">[e2e tests] Improve my account - create account test by using unique test data (#53383)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d2ea18a</div>
+                                        <div class="message">[Accessibility] Update the checkout page order summary product title to use h3 (#53037)
+
+* Add disabledTagName option
+
+* Add styles for backwards compatibility
+
+* Add changelog
+
+* Fix linting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a3612d3</div>
+                                        <div class="message">Fix typo in method documentation (#51385)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6687d2c</div>
+                                        <div class="message">Render the product type toolbar button only when the product is not defined (#53430)
+
+* dont product type selector when product is defined
+
+* refact -&gt; introduce product type selector component
+
+* changelog
+
+* rename const to currentProductType</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5541ae1</div>
+                                        <div class="message">Product Gallery: disable prev/next buttons on first and last images (#53318)
+
+* Remove unnecessary stuff
+
+* Add default context
+
+* Add disable binding and styling
+
+* Add state management for disabling buttons
+
+* Add changelog
+
+* Rename properties to right case
+
+* Bail early if buttons are off
+
+* Refactor image choice
+
+* Refactor
+
+* Move the code to original place
+
+* Add some comments
+
+* Fix lint
+
+* Update the tests
+
+* Bring back style removed accidentally
+
+* Fix lint
+
+* Adjust the sprintf arguments order</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5037fd</div>
+                                        <div class="message">Product Gallery: add support for Compatibility Layer (#53378)
+
+* Treat Product Gallery as Single Product block in compatibility layer
+
+* Docs cleanup
+
+* Add changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f72a0a</div>
+                                        <div class="message">Cherry pick 53433 into trunk (#53444)
+
+Add new required props to RouterProvider (#53433)
+
+* Add new required props to RouterProvider
+
+* Add changelog file
+
+Co-authored-by: Albert Juhé Lluveras &lt;contact@albertjuhe.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3bb696</div>
+                                        <div class="message">docs: Update payment gateway failure response documentation (#53156)
+
+Updates the payment gateway documentation to show the correct way to handle
+payment failures by returning an array with 'result' =&gt; 'failure' instead
+of returning null or nothing.
+
+This aligns with WooCommerce core gateway implementations and ensures
+proper error handling while keeping customers on the checkout page when
+payments fail, allowing them to retry the payment.
+
+Fixes inconsistency between documentation and actual implementation in
+StoreApi/Legacy.php which expects an array response from payment gateways.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa62132</div>
+                                        <div class="message">Read CUSTOMER_PASSWORD from .env file (#53361)
+
+* Read CUSTOMER_PASSWORD from .env file
+
+* Export env vars from .env file
+
+* Remove echo
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1936a5</div>
+                                        <div class="message">Switch current product type from the Add To Cart with Options block toolbar (#53398)
+
+* switch product type from the block toolbar
+
+* changelog
+
+* export and import `store` like core does
+
+* tweak the default toolbar button text</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d287a6</div>
+                                        <div class="message">[dev] Close the CFE and PRR if the base ref of the PR doesn't originate from release branch (#53093)
+
+* [dev] Close the CFE and PRR if the base ref is not release
+
+* Bug fixes and changes
+
+* Run verify when approved or rejected
+
+* message update
+
+* [dev] CFE eliminate the need of entering release number manually (#53177)
+
+* CFE PRR, remove release question and get release info from base ref
+
+* Don't run verify release step if the above check is true
+
+* message update
+
+* Add comment on GH when the CFE, PRR is created
+
+* Add a check if the branch already exisit with this base_ref
+
+* message updates and bug fixes
+
+* message tweak
+
+* Message update for approval</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ad889d</div>
+                                        <div class="message">Add to Cart with Options Quantity Selector Stepper Layout: trigger change event when stepper buttons are clicked (#53372)
+
+* Add to Cart with Options Quantity Selector Stepper Layout: trigger change event when stepper buttons are clicked
+
+* Add changelog file
+
+* Move frontend script code to the Quantity Selector frontend script</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">20 Dec 2024, 04:36:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -588,22 +877,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">12 Dec 2024, 16:21:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">Automattic/newspack-theme</span>
-                                        to
-                                        <span class="repo">mralaminahamed/newspack-theme</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">12 Dec 2024, 13:10:24</div>
                             </section>
                         </div>
                     </section>
@@ -1278,7 +1551,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.49m out of 219m repositories</span>
+                                    <span class="gh">ranked 5.49m out of 224m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1330,7 +1603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Dec 2024, 04:24:08 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2024, 05:23:01 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
