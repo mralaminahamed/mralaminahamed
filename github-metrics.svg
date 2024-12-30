@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.16m added, 1.52m removed
+                                    2.79m added, 1.46m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.82mb of code in 5333 edited files across 598 commits over last 12 days</small>
+                <small>estimation from 5.75mb of code in 5259 edited files across 598 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.09781529212887" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="346.09781529212887" y="0" width="132.2395197311129" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="478.33733502324174" y="0" width="111.51411497656547" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="589.8514499998072" y="0" width="107.92605604128488" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="697.777506041092" y="0" width="68.88459985579594" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="766.662105896888" y="0" width="52.97663486796627" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="819.6387407648541" y="0" width="38.78681320618259" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="858.4255539710367" y="0" width="61.57444602896309" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="345.2545157655378" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="345.2545157655378" y="0" width="134.99423088601444" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="480.24874665155227" y="0" width="110.7099608869816" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="590.9587075385339" y="0" width="103.25761511800256" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="694.2163226565365" y="0" width="70.31955043645091" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="764.5358730929873" y="0" width="53.231558515459646" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="817.767431608447" y="0" width="39.59479002899177" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="857.3622216374388" y="0" width="62.637778362561264" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -537,6 +537,27 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f815dcb</div>
+                                        <div class="message">Merge branch 'getdokan:develop' into develop</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">30 Dec 2024, 04:10:58</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">mralaminahamed/phpstan-freemius-stubs</span>
                                     </div>
@@ -591,27 +612,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">27 Dec 2024, 22:48:00</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7034f9c</div>
-                                        <div class="message">Merge branch 'getdokan:develop' into develop</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">27 Dec 2024, 07:10:44</div>
                             </section>
                         </div>
                     </section>
@@ -672,7 +672,7 @@
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="14.304347826086957 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="28.608695652173914 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
@@ -771,7 +771,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 48.8k out of 146m users</span>
+                                    <span class="gh">ranked 48.8k out of 152m users</span>
                                 </div>
                                 <div class="text">Published 215 public repositories</div>
                             </div>
@@ -1139,7 +1139,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.38m out of 146m users</span>
+                                    <span class="gh">ranked 1.38m out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 12 users</div>
                             </div>
@@ -1286,7 +1286,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.50m out of 204m repositories</span>
+                                    <span class="gh">ranked 5.50m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1338,7 +1338,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2024, 03:52:43 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2024, 04:25:37 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
