@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1629" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1945" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audit.text{min-width:42px}.audit svg{margin:0}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}.token.property,.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.75m added, 1.44m removed
+                                    2.95m added, 1.53m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.11mb of code in 4839 edited files across 597 commits over last 12 days</small>
+                <small>estimation from 5.49mb of code in 4991 edited files across 637 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.2391408953081" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="390.2391408953081" y="0" width="159.7470346070711" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="549.9861755023792" y="0" width="83.88919015940179" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="633.875365661781" y="0" width="80.22119196193299" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="714.096557623714" y="0" width="62.98105050906231" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="777.0776081327763" y="0" width="50.1726916526003" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="827.2502997853766" y="0" width="36.85595790020393" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="864.1062576855804" y="0" width="55.893742314419484" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="378.854537861009" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="378.854537861009" y="0" width="149.15198322228701" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="528.006521083296" y="0" width="108.49888271568764" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="636.5054037989837" y="0" width="87.92231006089176" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="724.4277138598754" y="0" width="58.80389962765458" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="783.2316134875301" y="0" width="45.40110150249703" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="828.6327149900271" y="0" width="34.41152587210032" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="863.0442408621275" y="0" width="56.955759137872604" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -323,15 +323,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PHP
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PHP
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -536,6 +536,298 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 71 commits in
+                                        <span class="repo">mralaminahamed/wordpress-develop</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#20982b7</div>
+                                        <div class="message">Customize: Remove unnecessary `height: 100%` on accordion button.
+
+Remove CSS that could occasionally trigger the accordion buttons to be 100% the height of the accordion container.
+
+Props dhewercorus, im3dabasia1, sabernhardt, rvoigt, ghinamt, vishy-moghan, frankbiganski, redkite.
+Fixes #62491.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59510 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28f4e37</div>
+                                        <div class="message">Build/Test Tools: Update `devDependencies`.
+
+This updates the following `devDependencies`:
+
+- `dotenv` from `16.4.5` to `16.4.7`
+- `dotenv-expand` from `11.0.6` to `12.0.1`
+- `postcss` from `8.4.47` to `8.4.49`
+- `qunit` from `2.22.0` to `2.23.1`
+- `sass` from `1.79.4` to `1.79.6`
+- `terser-webpack-plugin` from `5.3.10` to `5.3.11`
+- `uglify-js` from `3.17.4` to `3.19.3`
+- `uuid` from `9.0.1` to `11.0.3`
+- `webpack` from `5.90.2` to `5.97.1`
+
+Additionally, `npm audit fix` has been run.
+
+Follow up to [58585].
+
+See #62220.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59509 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff5850e</div>
+                                        <div class="message">Build/Test Tools: Trim down the upgrade testing matrix.
+
+The upgrade testing workflow is currently at ~978 jobs spawned from the strategy matrix. While it's great to test all possible combinations, GitHub's UI cannot keep up with tracking that number of jobs, often taking 30-45 minutes to accurately report the outcome even though the jobs themselves all complete in under 5 minutes.
+
+This is 2x the total number of concurrent jobs allowed for the entire organization (which creates a backlog and slows everything down even more).
+
+This trims down the number of combinations included in the testing matrices to be a bit more thoughtful following the following methodology:
+
+- The last two releases of WordPress are tested against all PHP and MySQL LTS version combinations and the most recent innovation release.
+- The next 6 oldest versions of WordPress are tested against both the oldest and newest releases of PHP currently supported for both PHP 7 &amp; 8 along with the oldest and newest MySQL LTS versions currently supported (no innovation releases).
+- For the remaining versions of WordPress receiving security updates, they are only included if the database version was different that the previous major release.
+- The oldest version of WordPress receiving security updates should always be tested against the same full list of combinations as the last two releases.
+
+When choosing which MySQL versions to test against:
+
+- Only the most recent innovation release should be included in testing.
+- Even though MySQL &gt;= 5.5.5 is currently supported, there are no 5.5.x Docker containers available that work on modern architectures.
+- 5.6.x Docker containers are available and work, but 5.6 only accounts for ~2.3% of installs as of 12/6/2024.defaults:
+- 5.7.x accounts for ~20% of installs, so this is used below instead.
+
+With these changes, the total number of jobs is reduced by ~58%.
+
+Props johnbillion, mukesh27.
+See #62221.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59508 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4969d4</div>
+                                        <div class="message">Build/Test Tools: Remove repository specific logic from callable workflows.
+
+Because reusable workflows could be called from any other repository in a variety of contexts, repository specific `if` conditions should not be present.
+
+Instead, this logic should be included in the calling workflows only.
+
+Props johnbillion.
+See #62221.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59507 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2b0bfd</div>
+                                        <div class="message">Filesystem API: Check `PHP_OS_FAMILY` instead of `php_uname()` in PclZip.
+
+The `php_uname()` function can be disabled on some hosts, in which case the call fails.
+
+The `PHP_OS_FAMILY` constant indicates the operating system family PHP was built for, and is available as of PHP 7.2.0.
+
+Reference: [https://www.php.net/manual/en/reserved.constants.php#constant.php-os-family PHP Manual: Predefined Constants: PHP_OS_FAMILY].
+
+Follow-up to [6779], [57985], [58678], [58684].
+
+Props daymobrew, costdev, desrosj.
+Fixes #57711.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59506 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9104190</div>
+                                        <div class="message">Docs: Correct formatting for script module data filter documentation examples.
+
+Follow-up to [58579].
+
+Props jonsurrell.
+See #62281.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59505 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32880ec</div>
+                                        <div class="message">Twenty Twenty-Two: Fix PHPCS issues in `functions.php`.
+
+* Inline comments must end in full stops, exclamation marks, or question marks.
+* There must be exactly one blank line after the file comment.
+
+Follow-up to [52081].
+
+Props pitamdey, mukesh27.
+Fixes #62648.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59504 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b49715</div>
+                                        <div class="message">HTML API: Remove nullable from get_breadcrumbs return type
+
+Follow-up [58713]
+Props jonsurrell, westonruter, gziolo.
+Fixes #62674.
+
+
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59503 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1467750</div>
+                                        <div class="message">HTML API: Prevent bookmarks from being set on virtual tokens
+
+Fixes the issue when an HTML_Processor bookmark was set at a virtual token (a node in the resulting document that does not correspond to an HTML token present in the input string), seek behavior was unreliable.
+
+Props jonsurrell, gziolo.
+Fixes #62521.
+
+
+
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59502 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6106332</div>
+                                        <div class="message">REST API: Correct description for the `humanized_updated` block directory property.
+
+Follow-up to [48242], [51676].
+
+Props mujuonly, mukesh27.
+Fixes #62667.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59501 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d42819</div>
+                                        <div class="message">HTML API: Step past closing HTML, BODY tags
+
+The HTML specification does not close HTML or BODY tags (pop them off the stack of open elements) when their tag closers are encountered. The HTML processor correctly handled this behavior, however it incorrectly "paused" by returning true from the step functions. 
+
+Props jonsurrell, dmsnell, gziolo.
+Fixes #62583.
+
+
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59500 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1079b6</div>
+                                        <div class="message">Editor: Update docblocks for `wp_get_global_stylesheet` and `WP_Theme_JSON::get_stylesheet`.
+
+Updates docblocks to account for new use of the `custom-css` string in their `$types` parameters and adds information to deprecation of `wp_get_global_styles_custom_css`.
+
+Props justlevine, isabel_brison, ramonopoly.
+Fixes #62665.
+
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59499 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#faff3a2</div>
+                                        <div class="message">Coding Standards: Use strict comparison in `wp-includes/comment-template.php`.
+
+Follow-up to [162], [2685], [4494], [8878], [8961], [55660].
+
+Props aristath, poena, afercia, SergeyBiryukov.
+See #62279.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59498 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#750f743</div>
+                                        <div class="message">Coding Standards: Use strict comparison in `media_upload_form_handler()`.
+
+Follow-up to [10390].
+
+Props deepakrohilla, iflairwebtechnologies, mukesh27, dingguodong, aristath.
+Fixes #62009.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59497 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b1e35d</div>
+                                        <div class="message">Coding Standards: Use correct escaping function for `wp_http_referer`.
+
+Follow-up to [58069].
+
+Props yogeshbhutkar, sainathpoojary, PcTevree, knutsp, siliconforks, stromhalm, shanemuir.
+Fixes #62551.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59496 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d45a119</div>
+                                        <div class="message">Docs: Add missing `@var` tag for `WP_Query::$query_vars_changed`.
+
+Follow-up to [17552].
+
+Props marian1, jigar-bhanushali, martin.krcho, parthvataliya.
+Fixes #62022.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59495 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59a6b5e</div>
+                                        <div class="message">I18N: Add new `WP_Locale::get_month_genitive()` method.
+
+Complements existing helper methods such as `WP_Locale::get_month_abbrev()`.
+
+Props ankitkumarshah, Tkama, SergeyBiryukov.
+Fixes #58658.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59494 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c7d008</div>
+                                        <div class="message">Embeds: ensure correct thumbnail height.
+
+Use height 0 instead of 9999 to avoid unnecessarily using the full size version.
+
+Props colinleroy, swissspidy.
+Fixes #62094.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59493 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29ec312</div>
+                                        <div class="message">Build/Test Tools: Introduce workflow for testing the local Docker environment.
+
+While the PHPUnit workflow currently relies on the local Docker environment and provides some safety checks that the environment works as expected, this may not always be true and does not test all of the available commands related to the environment.
+
+This introduces a basic workflow for testing the related scripts for the various supported combinations of PHP and database software with the environment to confirm everything is working as expected.
+
+Ideally this would also be run on Windows and MacOS to catch platform specific bugs. Unfortunately, Docker is not supported within the GitHub Action runner images, so not all bugs will be caught by this workflow.
+
+Props johnbillion, Clorith.
+See #62221.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59492 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2d8d21f</div>
+                                        <div class="message">Build/Test Tools: Support `trunk` as a version.
+
+`trunk` is used interchangeably with `nightly`, so should be an accepted value when determining which version of WordPress is being tested.
+
+Follow up to [59452], [59483].
+
+Props johnbillion.
+See #62221.
+
+git-svn-id: https://develop.svn.wordpress.org/trunk@59491 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Jan 2025, 04:14:40</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -602,27 +894,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">30 Dec 2024, 07:16:01</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f815dcb</div>
-                                        <div class="message">Merge branch 'getdokan:develop' into develop</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">30 Dec 2024, 04:10:58</div>
                             </section>
                         </div>
                     </section>
@@ -1297,7 +1568,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.50m out of 228m repositories</span>
+                                    <span class="gh">ranked 5.50m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1349,7 +1620,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2025, 03:57:04 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jan 2025, 04:30:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
