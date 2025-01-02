@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            281 issue comments
+                            282 issue comments
                         </div>
                     </section>
                     <section>
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 45 repositories
+                            Starred 46 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.06m added, 1.69m removed
+                                    2.71m added, 1.47m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.28mb of code in 4702 edited files across 615 commits over last 11 days</small>
+                <small>estimation from 5.28mb of code in 4701 edited files across 613 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.83822879017873" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="376.83822879017873" y="0" width="154.64903211382972" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="531.4872609040084" y="0" width="113.38061441209967" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="644.8678753161081" y="0" width="82.83909388552553" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="727.7069692016336" y="0" width="64.65738174195211" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="792.3643509435857" y="0" width="43.56009739612781" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="835.9244483397135" y="0" width="35.959816807150155" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="871.8842651468636" y="0" width="48.115734853136296" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.66130370524024" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="376.66130370524024" y="0" width="154.69940622812248" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="531.3607099333627" y="0" width="113.41754608862499" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="644.7782560219877" y="0" width="82.86607721627297" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="727.6443332382606" y="0" width="64.67844271008893" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="792.3227759483495" y="0" width="43.574286306946355" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="835.8970622552959" y="0" width="35.97153006456297" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="871.8685923198589" y="0" width="48.13140768014105" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -532,6 +532,20 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">tweakphp/tweakphp</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">2 Jan 2025, 03:53:28</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -887,22 +901,6 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@59491 602fd350-edb4-49c9-b59
                                     </div>
                                 </div>
                                 <div class="timestamp">1 Jan 2025, 04:14:40</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">Pay-Station/pgw-wp-plugin</span>
-                                        to
-                                        <span class="repo">mralaminahamed/pgw-wp-plugin</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">31 Dec 2024, 04:00:25</div>
                             </section>
                         </div>
                     </section>
@@ -1285,7 +1283,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@59491 602fd350-edb4-49c9-b59
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="34.2713567839196 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.050251256281406 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1304,7 +1302,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@59491 602fd350-edb4-49c9-b59
                                     <span class="prefix"></span>
                                     Stargazer
                                 </div>
-                                <div class="text">Starred 45 repositories</div>
+                                <div class="text">Starred 46 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1577,7 +1575,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@59491 602fd350-edb4-49c9-b59
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.51m out of 209m repositories</span>
+                                    <span class="gh">ranked 5.51m out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1629,7 +1627,7 @@ git-svn-id: https://develop.svn.wordpress.org/trunk@59491 602fd350-edb4-49c9-b59
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2025, 03:48:55 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2025, 04:22:32 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
