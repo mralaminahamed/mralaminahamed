@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2088" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1669" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.post{align-items:flex-start}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.boolean,.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -153,13 +153,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    No license preference
+                                    Prefers MIT license
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    0 Releases
+                                    10 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    0 added, 0 removed
+                                    2.53m added, 1.45m removed
                                 </div>
                             </section>
                             <section>
@@ -191,25 +191,25 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    0 Stargazers
+                                    2 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    0 Forkers
+                                    1 Forker
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    0 Watchers
+                                    77 Watchers
                                 </div>
-                                <div class="field error">
+                                <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    Insufficient token scopes
+                                    24 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -221,30 +221,92 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    10 Languages
+                    17 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <div class="field center horizontal-wrap fill-width">
-                </div>
-            </section>
-            <section class="column">
-                <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.16mb of code in 4431 edited files across 629 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.9008481058456" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="386.9008481058456" y="0" width="120.08520947913468" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="506.9860575849803" y="0" width="107.54855491693546" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="614.5346125019158" y="0" width="88.01153855036114" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="702.546151052277" y="0" width="67.11153442145242" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="769.6576854737293" y="0" width="47.04239269561055" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="816.7000781693399" y="0" width="38.834528034240556" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="855.5346062035804" y="0" width="64.4653937964196" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="650.3079350307438" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="650.3079350307438" y="0" width="157.41247873007444" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="807.7204137608182" y="0" width="37.722138058476766" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="845.4425518192951" y="0" width="22.071690207237534" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="867.5142420265325" y="0" width="18.563987440967896" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="886.0782294675005" y="0" width="14.2214043414823" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="900.2996338089828" y="0" width="7.744937380614379" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="908.0445711895971" y="0" width="11.955428810402802" height="8" fill="#ededed"/>
+                </svg>
+                <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PHP
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Smarty
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        SCSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f7523f" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Blade
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Other
+                    </div>
+                </div>
+            </section>
+            <section class="column">
+                <h3 class="field">Recently used languages</h3>
+                <small>estimation from 4.36mb of code in 3868 edited files across 631 commits over last 11 days</small>
+                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
+                    <mask id="languages-bar">
+                        <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
+                    </mask>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.28897054581756" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="385.28897054581756" y="0" width="119.42706204625193" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="504.71603259206944" y="0" width="110.96334703281757" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="615.6793796248869" y="0" width="88.86241370810833" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="704.5417933329953" y="0" width="67.0574032280903" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="771.5991965610856" y="0" width="47.00444898180375" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="818.6036455428894" y="0" width="38.80320466539985" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="857.4068502082891" y="0" width="62.59314979171074" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -309,7 +371,7 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value"></span>
+                                <span class="value">2</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 21
                                 <div class="bottom">Dec.</div>
@@ -474,32 +536,56 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Forked
-                                        <span class="repo">google-pay/google-pay-button</span>
-                                        to
-                                        <span class="repo">mralaminahamed/google-pay-button</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/dokan</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Jan 2025, 04:30:46</div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/pending-product-rejection-integration</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#10a6d1a</div>
+                                        <div class="message">update: doc block for `ProductStatusRollback` class</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">3 Jan 2025, 12:33:02</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Forked
-                                        <span class="repo">google-pay/shop-paydemo</span>
-                                        to
-                                        <span class="repo">mralaminahamed/googlepay-shop-demo</span>
+                                        Commented on
+                                        <span class="issue">#2476 feat: Rollback product statuses on dokan pro deactivation (integration)</span>
                                     </div>
                                 </div>
-                                <div class="timestamp">3 Jan 2025, 04:28:55</div>
+                                <div class="details">
+                                    <div>opened by mralaminahamed in <span class="repo">getdokan/dokan</span></div>
+                                    <div class="comment">vai, done</div>
+                                </div>
+                                <div class="timestamp">3 Jan 2025, 12:25:32</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#2476 feat: Rollback product statuses on dokan pro deactivation (integration)</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">getdokan/dokan</span></div>
+                                </div>
+                                <div class="timestamp">3 Jan 2025, 12:25:33</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -510,610 +596,35 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/wordpress-develop</span>
+                                        <span class="repo">mralaminahamed/dokan</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div>on branch <span class="code">feat/pending-product-rejection-integration</span></div>
                                     <div class="commit">
-                                        <div class="sha">#238f865</div>
-                                        <div class="message">Happy New Year Twenty Twenty-Five! 🎄
-
-Update copyright year to 2025 in the Twenty Twenty-Five bundled theme's `readme.txt`.
-
-Follow-up to [18201], [23306], [28064], [36855], [36856], [39659], [40241], [42424], [46719], [46720], [47025], [47026], [49915], [52427], [55024], [57235], [59568].
-
-
-
-git-svn-id: https://develop.svn.wordpress.org/trunk@59569 602fd350-edb4-49c9-b593-d223f7449a82</div>
+                                        <div class="sha">#99697ce</div>
+                                        <div class="message">update: implement `WeDevs\Dokan\Contracts\Hookable`</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Jan 2025, 13:49:07</div>
+                                <div class="timestamp">3 Jan 2025, 12:25:22</div>
                             </section>
                         </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 32 commits in
-                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                        Commented on
+                                        <span class="issue">#2476 feat: Rollback product statuses on dokan pro deactivation (integration)</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#95fe430</div>
-                                        <div class="message">Fix: Multiple block compatibility layer for search results are executed (#54060)
-
-* fix: Prevent duplicate hook injection on product search results
-
-When using a block-based theme, both ProductSearchResultsTemplate and ProductCatalogTemplate were injecting template hooks into search results, causing duplicate hook content. This adds a check to ensure ProductCatalogTemplate's compatibility layer is not initialized during search requests.
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8abd6e9</div>
-                                        <div class="message">Add `@automattic/color-studio` to syncpack (#53123)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7ae8e1</div>
-                                        <div class="message">Fix lint warning in the Stock Indicator (#54008)
-
-* Fix lint
-
-* Fix block.tsx
-
-* Add changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f3f68c</div>
-                                        <div class="message">Cherry pick 53888 into trunk (#53995)
-
-CFE/ Revert #53544 and #53548 (#53888)
-
-* Revert "Add editable headings for cart and checkout order summary subtotal (#53544)"
-
-This reverts commit 5c114e5c965b437293f33118966a9f30b309895e.
-
-* Revert "Add editable headings for cart and checkout 'Total' heading (#53548)"
-
-This reverts commit bb26f72080a2d02f0a51745caa02290fb0b1647f.
-
-* Added changelog.
-
-Co-authored-by: Paulo Arromba &lt;17236129+wavvves@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6229aa</div>
-                                        <div class="message">[Accessibility] Fix the headings hierarchy on the Order Confirmation page (#49317)
-
-* Change sug-headings on order confirmation from h3 to h2
-
-* Add heading level 2 to order details
-
-* Add heading level 1 to order confirmation block on editor
-
-* Add heading level 1 to order confirmation page
-
-* Add chengelog file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfa0b1e</div>
-                                        <div class="message">[WIP][Accessibility] Add filter type to the remove filter label in the active-filters block (#53857)
-
-* Add filter type to the remove filter label in the active-filters block
-
-* Add changelog file
-
----------
-
-Co-authored-by: Seghir Nadir &lt;nadir.seghir@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48ccca3</div>
-                                        <div class="message">[Experimental]: Create Variation Selector Block in editor (#53945)
-
-* Add Variation Selector inner block
-
-* fix block
-
-* add frontend.ts
-
-* Fix comment
-
-* Add changelog
-
-* Remove useless check
-
-* Fix classname
-
-* Add i18n to string
-
-* Remove styles</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1523e53</div>
-                                        <div class="message">Cherry pick 53974 into trunk (#54056)
-
-Fix undefined array key issue in class-wc-tracks.php for role handling (#53974)
-
-* fix: improve role retrieval for users with non-sequential roles
-
-* Add changelog
-
-Co-authored-by: Chi-Hsuan Huang &lt;chihsuan.tw@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad07839</div>
-                                        <div class="message">dev: removed unnecessary @ts-expect-errors (#54042)
-
-* dev: removed unnecessary @ts-expect-errors
-
-* removed some accidental changes
-
-* Update plugins/woocommerce/client/admin/client/customize-store/assembler-hub/sidebar/pattern-screen/sidebar-pattern-screen.tsx
-
-Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;
-
-* Update plugins/woocommerce/client/admin/client/task-lists/fills/steps/location.tsx
-
-Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;
-
----------
-
-Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23c8913</div>
-                                        <div class="message">dev: added env vars to allow disabling and or hiding typescript warnings (#54017)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4adb9be</div>
-                                        <div class="message">Update e2e test util for filling page title to close expanded block inserter if present (#54031)
-
-* Update e2e editor util and fill page title inside
-
-* Add changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41bae30</div>
-                                        <div class="message">Add coming soon image gallery pattern (#53910)
-
-* Add coming soon image gallery pattern
-
-* Align heading to the left side
-
-* Update border radius
-
-* Improve spacing to match design
-
-* Removed a couple of 1px white pixel lines from images, ran images under filesize optimizer
-
-* Use in-built editor styles for border radius
-
-* Add changelog
-
-* Remove stray bracket
-
-* Lint
-
-* Removed unnecessary ID, class, and align images to center
-
-* Add tracks ID
-
-* Set heading padding to 100px
-
----------
-
-Co-authored-by: Chi-Hsuan Huang &lt;chihsuan.tw@gmail.com&gt;
-Co-authored-by: Ilyas Foo &lt;foo.ilyas@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85c2281</div>
-                                        <div class="message">[settings-editor] Fix react-18-upgrade type errors (#54027)
-
-* Fix react 18 upgrade types for settings editor
-
-* Fix types
-
-* Add changefile(s) from automation for the following project(s): @woocommerce/settings-editor
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c202a6</div>
-                                        <div class="message">FlexSlider now uses CSS transitions for height changes instead of jQuery .animate() (#52004)
-
-* FlexSlider now uses CSS transitions for height changes instead of jQuery .animate()
-
-* Add non-smooth height changes
-
-* Changelog
-
-* Rebuild changelog
-
-* Correct changelog directory</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31e6c87</div>
-                                        <div class="message">Cherry pick 53760 into trunk (#54026)
-
-[dev] Add a label to indicate if picked PR failed (#53760)
-
-Add a label to indicate if cherry-pick failed
-
-Co-authored-by: Naman Malhotra &lt;naman03malhotra@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d30fc3f</div>
-                                        <div class="message">Add document about removing checkout fields and add FAQ doc (#53999)
-
-Co-authored-by: Seghir Nadir &lt;nadir.seghir@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#468f8f5</div>
-                                        <div class="message">Move hook-alternatives doc back to GitHub (#53893)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4fbef35</div>
-                                        <div class="message">[WC_Tracker] Track woocommerce_allow_tracking_toggled  (#53715)
-
-* Add woocommerce_allow_tracking_toggle track logic
-
-* Refactor how do we track allow_tracking
-
-* Lint
-
-* Changelog
-
-* Track Allow Tracking Opt In inside Core Profiler
-
-* Lint
-
-* Fix bug with WC_TRacks class check when toggling woocommerce_allow_tracking
-
-* Add since parameter
-
-* Adding "yes" and "no" to the boolean value in JS to be consistent with their PHP equivalent
-
-* Check the value for $_POST['woocommerce_allow_tracking']
-
-* Record Allow Tracking Option Tracking on Core Profiler
-
-* Be sure we get yes or not when getting woocommerce_allow_tracking
-
-* Add actioned text for Note</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e45d6b6</div>
-                                        <div class="message">[Accessibility] Add filter by attribute, stock and rating screen reader labels (#53694)
-
-* Add attribute filter screen reader label
-
-* Add rating filter screen reader label
-
-* Add stock filter screen reader label
-
-* Add changelog
-
-* Fix test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85eba4d</div>
-                                        <div class="message">Add coming soon template tracks and update block attributes (#53976)
-
-* Update coming soon template version, remove storeOnly attribute, add coming soon pattern ID and tracks
-
-* Changelog
-
-* Revert some changes and preserve storeOnly
-
-* Enable background color for coming soon block
-
-* Replaced custom color attribute from new templates with site editor's background color style settings
-
-* Add comment
-
-* Update changelog
-
-* Update comment
-
-* Fix default pattern change to be under feature flag
-
-* Lint
-
-* Lint
-
-* Update plugins/woocommerce/src/Admin/Features/LaunchYourStore.php
-
-Co-authored-by: Chi-Hsuan Huang &lt;chihsuan.tw@gmail.com&gt;
-
-* Better checks and remove unused dependencies
-
----------
-
-Co-authored-by: Chi-Hsuan Huang &lt;chihsuan.tw@gmail.com&gt;</div>
-                                    </div>
+                                    <div>opened by mralaminahamed in <span class="repo">getdokan/dokan</span></div>
+                                    <div class="comment">vai, done</div>
                                 </div>
-                                <div class="timestamp">2 Jan 2025, 13:48:22</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 454 commits in
-                                        <span class="repo">mralaminahamed/gutenberg</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#232d14f</div>
-                                        <div class="message">DropdownMenu: Increase option height to 40px (#67435)
-
-* DropdownMenu: Increase option height to 40px
-
-* Add changelog
-
-Co-authored-by: mirka &lt;0mirka00@git.wordpress.org&gt;
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8a457b</div>
-                                        <div class="message">Block Editor: Animate useScaleCanvas() only when toggling zoomed out mode (#67481)
-
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
-Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d06b35</div>
-                                        <div class="message">Site Editor: Pages: Preload template lookup (#66654)
-
-Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: jorgefilipecosta &lt;jorgefilipecosta@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6561108</div>
-                                        <div class="message">Correctly apply current-menu-ancestor class to &lt;li&gt; in Nav block #67169
-
-Co-authored-by: getdave &lt;get_dave@git.wordpress.org&gt;
-Co-authored-by: MaggieCabrera &lt;onemaggie@git.wordpress.org&gt;
-Co-authored-by: carolinan &lt;poena@git.wordpress.org&gt;
-Co-authored-by: mrwweb &lt;mrwweb@git.wordpress.org&gt;
-Co-authored-by: juanfra &lt;juanfra@git.wordpress.org&gt;
-Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;
-Co-authored-by: bph &lt;bph@git.wordpress.org&gt;
-Co-authored-by: jordesign &lt;jordesign@git.wordpress.org&gt;
-Co-authored-by: webmandesign &lt;webmandesign@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa10d2f</div>
-                                        <div class="message">Fix EntitiesSavedStates panel dialog props. (#67351)
-
-* Fix EntitiesSavedStates panel dialog props.
-
-* Remove renderDialog default value.
-
-Co-authored-by: afercia &lt;afercia@git.wordpress.org&gt;
-Co-authored-by: ntsekouras &lt;ntsekouras@git.wordpress.org&gt;
-Co-authored-by: Mayank-Tripathi32 &lt;mayanktripathi32@git.wordpress.org&gt;
-Co-authored-by: jameskoster &lt;jameskoster@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6689c77</div>
-                                        <div class="message">SlotFill: remove explicit rerender from portal version (#67471)
-
-* SlotFill: remove explicit rerender from portal version
-
-* Add changelog entry
-
-Co-authored-by: jsnajdr &lt;jsnajdr@git.wordpress.org&gt;
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15d63ce</div>
-                                        <div class="message">useEditorTitle: fix wrong request without ID (#67475)
-
-Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;
-Co-authored-by: youknowriad &lt;youknowriad@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65fa4f3</div>
-                                        <div class="message">NumberControl: Deprecate 36px default size (#66730)
-
-* Add the deprecation for 36px default size to number control
-
-* Add the changelog for the deprecation
-
-* Update unit test and supress warning for 40px default size warning from child component
-
-* Add the deperection changelog to unreleased section and updated the component to use __next40pxDefaultSize for NumberControl
-
-* Refactor the test for NumberControl component to reduce changes
-
-* Update box control files to use supress warning prop before default 40px prop
-
-* Supress the console warning for deprecation message from child component
-
-* Addressed the feedbacks on the PR and updated the component based on that
-
----------
-
-Co-authored-by: hbhalodia &lt;hbhalodia@git.wordpress.org&gt;
-Co-authored-by: mirka &lt;0mirka00@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0c372c</div>
-                                        <div class="message">Fix write mode persisting after disabling the experiment
-
-Co-authored-by: SantosGuillamot &lt;santosguillamot@git.wordpress.org&gt;
-Co-authored-by: getdave &lt;get_dave@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd26001</div>
-                                        <div class="message">Fix Meta boxes saving when they’re not present (#67254)
-
-* Initialize meta boxes whether or not they’re visible
-
-* Add hook for initialization of meta boxes
-
-* Minimize hook for meta boxes initialization
-
-* Name the export
-
-Co-authored-by: stokesman &lt;presstoke@git.wordpress.org&gt;
-Co-authored-by: afercia &lt;afercia@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: enricobattocchi &lt;lopo@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3f344f</div>
-                                        <div class="message">Prefer exact matches in Link Search results sorting (#67367)
-
-* Weight towards exact matches
-
-* Add additional test coverage
-
-Co-authored-by: getdave &lt;get_dave@git.wordpress.org&gt;
-Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;
-Co-authored-by: talldan &lt;talldanwp@git.wordpress.org&gt;
-Co-authored-by: jasmussen &lt;joen@git.wordpress.org&gt;
-Co-authored-by: kevin940726 &lt;kevin940726@git.wordpress.org&gt;
-Co-authored-by: ironprogrammer &lt;ironprogrammer@git.wordpress.org&gt;
-Co-authored-by: annezazu &lt;annezazu@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c517e41</div>
-                                        <div class="message">Extensibility: Make Block Bindings work with `editor.BlockEdit` hook (#67370)
-
-* Block Bindings: Move the place when the attributes get overriden
-
-* Fix failing unit tests
-
-* Wrap Edit with bindings logic only when the block supports it
-
-* Extend the test plugin with `editor.BlockEdit` filter
-
-* Add a new test covering the extensibility inside inspector controls
-
-* Fix the issue with missing context established by sources
-
-Co-authored-by: gziolo &lt;gziolo@git.wordpress.org&gt;
-Co-authored-by: SantosGuillamot &lt;santosguillamot@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#340d617</div>
-                                        <div class="message">[mini] drag and drop: fix misplaced drop indicator (#67434)
-
-Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;
-Co-authored-by: youknowriad &lt;youknowriad@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: ntsekouras &lt;ntsekouras@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39a4d1c</div>
-                                        <div class="message">DataViews: Better handling of missing onClickItem prop (#67402)
-
-Co-authored-by: youknowriad &lt;youknowriad@git.wordpress.org&gt;
-Co-authored-by: jsnajdr &lt;jsnajdr@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e07fe5c</div>
-                                        <div class="message">Preload: parse post ID from p (path) (#67465)
-
-Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;
-Co-authored-by: youknowriad &lt;youknowriad@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#141e9cd</div>
-                                        <div class="message">Site editor: Allow access to quick edit (#67469)
-
-Co-authored-by: youknowriad &lt;youknowriad@git.wordpress.org&gt;
-Co-authored-by: jsnajdr &lt;jsnajdr@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d343d1</div>
-                                        <div class="message">Site Editor: Fix focus mode navigation (#67458)
-
-Co-authored-by: youknowriad &lt;youknowriad@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: carolinan &lt;poena@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aef323a</div>
-                                        <div class="message">PR template: add before/after table (#62739)
-
-Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e92d577</div>
-                                        <div class="message">Remove one occurrence of incorrect usage of ItemGroup. (#67427)
-
-* Remove one occurrence of incorret usage of ItemGroup.
-
-* Fix toggling visibility of the help text.
-
-Co-authored-by: afercia &lt;afercia@git.wordpress.org&gt;
-Co-authored-by: gziolo &lt;gziolo@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: SantosGuillamot &lt;santosguillamot@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22c43ff</div>
-                                        <div class="message">Disable Zoom Out if no section root to allow for Theme opt in (#67232)
-
-* Disable toolbar and auto inserter behaviour if no section root
-
-* Remove useless coercion
-
-Co-authored-by: Ramon &lt;ramonjd@users.noreply.github.com&gt;
-
-* Remove more coercion copy/paste
-
-Co-authored-by: Ramon &lt;ramonjd@users.noreply.github.com&gt;
-
-* Add section root to Zoom Out e2e test
-
-* Add test coverage
-
-* Add some test coverage
-
-* Try e2e test fix by reverting all template part changes in Theme
-
-* Remove need to exit Zoom Out
-
-* Ensure a main tag
-
-* Update tests to expect the click-through behavior
-
-* Simplify selection
-
----------
-
-Co-authored-by: getdave &lt;get_dave@git.wordpress.org&gt;
-Co-authored-by: talldan &lt;talldanwp@git.wordpress.org&gt;
-Co-authored-by: jeryj &lt;jeryj@git.wordpress.org&gt;
-Co-authored-by: ramonjd &lt;ramonopoly@git.wordpress.org&gt;
-Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Jan 2025, 13:47:15</div>
+                                <div class="timestamp">3 Jan 2025, 12:23:22</div>
                             </section>
                         </div>
                     </section>
@@ -1276,6 +787,38 @@ Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;</div>
                                     <span class="gh">ranked 47.3k out of 152m users</span>
                                 </div>
                                 <div class="text">Published 219 public repositories</div>
+                            </div>
+                        </div>
+                        <div class="achievement s largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.6875 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <path d="M17.135 7.988l-3.303.669a2 2 0 00-1.586 2.223l4.708 35.392a1.498 1.498 0 01-1.162 1.66 1.523 1.523 0 01-1.775-1.01L4.951 19.497a2 2 0 011.215-2.507l2.946-1.072" stroke="#731237" stroke-linejoin="round"/>
+                                            <path d="M36.8 48H23a2 2 0 01-2-2V7a2 2 0 012-2h26a2 2 0 012 2v32.766" stroke="#EB355E"/>
+                                            <path d="M29 20.955l-3.399 3.399a.85.85 0 000 1.202l3.399 3.4M43.014 20.955l3.399 3.399a.85.85 0 010 1.202l-3.4 3.4" stroke="#EB355E" stroke-linejoin="round"/>
+                                            <path stroke="#EB355E" d="M38.526 18l-5.053 14.016"/>
+                                            <path d="M44 36a8 8 0 110 16 8 8 0 010-16z" stroke="#EB355E" stroke-linejoin="round"/>
+                                            <path d="M43.068 40.749l3.846 2.396a1 1 0 01-.006 1.7l-3.846 2.36a1 1 0 01-1.523-.853v-4.755a1 1 0 011.529-.848z" stroke="#EB355E" stroke-linejoin="round"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix">Master</span>
+                                    polyglot
+                                </div>
+                                <div class="text">Using 17 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1537,6 +1080,41 @@ Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.577889447236181 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <g stroke="#79B8FF">
+                                                <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
+                                                <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
+                                            </g>
+                                            <g stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round">
+                                                <path d="M47.01 41.009h-4M45.016 39v4"/>
+                                            </g>
+                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#2088FF" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path stroke="#79B8FF" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Deployer
+                                </div>
+                                <div class="text">Repositories have been deployed 21 times</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.346733668341708 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
@@ -1574,7 +1152,7 @@ Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.27m out of 152m users</span>
+                                    <span class="gh">ranked 1.28m out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 13 users</div>
                             </div>
@@ -1680,6 +1258,52 @@ Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;</div>
                                 <div class="text">Maintaining a repository with 1 star</div>
                             </div>
                         </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
+                                            <path d="M20.065 47.122c.44-.525.58-1.448.58-1.889 0-2.204-1.483-3.967-3.633-4.187.447-1.537.58-2.64.397-3.31-.25-.92-.745-1.646-1.409-2.235m-5.97-7.157c.371-.254.911-.748 1.62-1.48a8.662 8.662 0 001.432-2.366M47 22h-7c-1.538 0-2.749-.357-4-1h-5c-1.789.001-3-1.3-3-2.955 0-1.656 1.211-3.04 3-3.045h2c.027-1.129.513-2.17 1-3m3.082 32.004C34.545 43.028 34.02 40.569 34 39v-1h-1c-2.603-.318-5-2.913-5-5.997S30.397 26 33 26h9c2.384 0 4.326 1.024 5.27 3" stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+                                            <g transform="translate(36)" stroke="#2088FF" stroke-width="2">
+                                                <path fill="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M5.395 5.352L6.009 4l.598 1.348L8 5.408l-1.067 1.12.425 1.47-1.356-.908-1.35.91.404-1.469L4 5.41z"/>
+                                                <circle cx="6" cy="6" r="6"/>
+                                            </g>
+                                            <g transform="translate(0 31)" stroke="#2088FF" stroke-width="2">
+                                                <circle cx="6" cy="6" r="6"/>
+                                                <g stroke-linecap="round">
+                                                    <path d="M6 4v4M4 6h4"/>
+                                                </g>
+                                            </g>
+                                            <circle stroke="#2088FF" stroke-width="2" cx="10.5" cy="10.5" r="10.5"/>
+                                            <g stroke-linecap="round">
+                                                <path d="M32.01 1.37A23.96 23.96 0 0024 0c-.999 0-1.983.061-2.95.18M.32 20.072a24.21 24.21 0 00.015 7.948M12.42 45.025A23.892 23.892 0 0024 48c13.255 0 24-10.745 24-24 0-2.811-.483-5.51-1.371-8.016" stroke="#79B8FF" stroke-width="2"/>
+                                                <path stroke="#2088FF" stroke-width="2" d="M8.999 7.151v5.865"/>
+                                                <path d="M9 3a2 2 0 110 4 2 2 0 010-4zm0 10.8a2 2 0 11-.001 4 2 2 0 01.001-4z" stroke="#2088FF" stroke-width="1.8"/>
+                                                <path d="M9.622 11.838c.138-.007.989.119 1.595-.05.607-.169 1.584-.539 1.829-1.337" stroke="#2088FF" stroke-width="2"/>
+                                                <path d="M14.8 7.202a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-width="1.8"/>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Inspirer
+                                    <span class="gh">ranked 5.51m out of 221m repositories</span>
+                                </div>
+                                <div class="text">Maintaining or created a repository which has been forked 1 time</div>
+                            </div>
+                        </div>
                         <div class="achievement secret largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
@@ -1727,7 +1351,7 @@ Co-authored-by: draganescu &lt;andraganescu@git.wordpress.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2025, 12:15:47 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2025, 13:36:28 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
