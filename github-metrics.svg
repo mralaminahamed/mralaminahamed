@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.54m added, 1.46m removed
+                                    3.40m added, 1.65m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.49mb of code in 2460 edited files across 486 commits over last 14 days</small>
+                <small>estimation from 3.48mb of code in 2444 edited files across 482 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.9939595348625" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="327.9939595348625" y="0" width="274.3568757170674" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="602.3508352519299" y="0" width="87.3138183793019" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="689.6646536312319" y="0" width="67.74600876809569" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="757.4106623993275" y="0" width="61.0590834128628" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="818.4697458121904" y="0" width="42.098835163152806" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="860.5685809753431" y="0" width="36.66286948364803" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="897.2314504589913" y="0" width="22.7685495410089" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.7173720944776" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="327.7173720944776" y="0" width="274.48505627743293" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="602.2024283719104" y="0" width="87.35461172241844" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="689.5570400943288" y="0" width="67.7776599572402" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="757.334700051569" y="0" width="61.08761044542508" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="818.4223104969941" y="0" width="42.1185038966877" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="860.5408143936818" y="0" width="36.679998513648606" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="897.2208129073304" y="0" width="22.779187092669478" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1301,7 +1301,7 @@ Adds PaymentRef to PayOut BankWire</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.52m out of 221m repositories</span>
+                                    <span class="gh">ranked 5.52m out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1353,7 +1353,7 @@ Adds PaymentRef to PayOut BankWire</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2025, 03:55:58 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2025, 04:28:22 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
