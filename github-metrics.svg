@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2638" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2288" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.73m added, 4.67m removed
+                                    1.30m added, 608k removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.43mb of code in 3241 edited files across 372 commits over last 13 days</small>
+                <small>estimation from 5.40mb of code in 3203 edited files across 366 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.2072776768749" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="219.2072776768749" y="0" width="152.0857267032774" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="371.2930043801523" y="0" width="145.5911295743431" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="516.8841339544954" y="0" width="134.59580599134776" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="651.4799399458432" y="0" width="120.1188692191702" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="771.5988091650132" y="0" width="64.00357008266995" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="835.6023792476832" y="0" width="30.051198823885084" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="865.6535780715683" y="0" width="54.34642192843158" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.22253658314688" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="220.22253658314688" y="0" width="147.7604644788178" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="367.98300106196467" y="0" width="146.57161742916387" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="514.5546184911285" y="0" width="135.50224550775346" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="650.0568639988819" y="0" width="120.54253286896707" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="770.599396867849" y="0" width="64.43460405647522" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="835.0340009243241" y="0" width="30.253579529054196" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="865.2875804533784" y="0" width="54.71241954662152" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -530,6 +530,38 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">woocommerce/woocommerce-blocks</span>
+                                        to
+                                        <span class="repo">mralaminahamed/woocommerce-blocks</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Jan 2025, 05:59:01</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">woocommerce/woocommerce-blocks-hydration-experiments</span>
+                                        to
+                                        <span class="repo">mralaminahamed/woocommerce-blocks-hydration-experiments</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">23 Jan 2025, 05:28:28</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1228,362 +1260,6 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 <div class="timestamp">22 Jan 2025, 10:11:16</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">dunglas/frankenphp</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 15:24:51</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 108 commits in
-                                        <span class="repo">mralaminahamed/woocommerce</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#776a7b1</div>
-                                        <div class="message">Revert #51185 - trunk version (#54405)
-
-Revert #51185 (#54390)
-
-There are some concerns about de-encapsulating the objects in the
-meta-boxes-order.js script and making them globally available. In the PR
-that made this change, the goal was to be able to re-initialize elements
-in the UI that had been replaced and had their event listeners deleted.
-There are other ways to accomplish this without exposing the script
-objects, so we should go back to the drawing board and try something
-different.
-
-Co-authored-by: Corey McKrill &lt;916023+coreymckrill@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9161697</div>
-                                        <div class="message">Client Payments Settings: fix TS errors (#54348)
-
-* Fix TypeScript errors on `client/settings-payments`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a19457</div>
-                                        <div class="message">[Payments NOX] Add missing code comments for client part (#54263)
-
-* Add docs to button components
-
-* Add docs to country selector component
-
-* Add changefile(s) from automation for the following project(s): woocommerce, woocommerce/client/admin
-
-* Add docs to ellipsis components
-
-* Fix complete setup button docs
-
-* Add docs to grid item placeholder and incentive banner components
-
-* small doc tweak
-
-* add docs to incentive modal component
-
-* add docs to list placeholder component
-
-* lint fix
-
-* Add docs to modals components
-
-* Add more comments
-
-* remove changelog
-
-* Add changefile(s) from automation for the following project(s): woocommerce, woocommerce/client/admin
-
-* remove changelog
-
-* tweak comment
-
-* docs to PaymentGateways component
-
-* Lint fix
-
-* Lint fix
-
-* Address PR feedback
-
-* Address PR feedback 2
-
-* Add changefile(s) from automation for the following project(s): woocommerce, woocommerce/client/admin
-
-* Address PR feedback 2
-
-* Add changefile(s) from automation for the following project(s): woocommerce, woocommerce/client/admin
-
-* Address PR feedback 2
-
-* Add changefile(s) from automation for the following project(s): woocommerce, woocommerce/client/admin
-
-* tweak
-
----------
-
-Co-authored-by: oaratovskyi &lt;oleksandr.aratovskyi@automattic.com&gt;
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2dbee16</div>
-                                        <div class="message">Address PHP notices from `WC_Tracker` (#54353)
-
-* Better handling for empty/NULL origin and payment method values in tracker
-
-* Harden type check in tracking of template overrides
-
-* Add changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58b2ef6</div>
-                                        <div class="message">[dev] Bump pnpm version to 9.15.0 (#54189)
-
-This PR bumps the pnpm version requirements and adds automatic corepack enablement in git-hooks to enable out-of-the-box pnpm version migration.
-
----------
-
-Co-authored-by: rjchow &lt;me@rjchow.com&gt;
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f0d100</div>
-                                        <div class="message">Cherry pick 53705 into trunk (#54401)
-
-[dev] Remove trunk branch restriction from the old pick flow (#53705)
-
-Romove trunk branch restriction
-
-Co-authored-by: Naman Malhotra &lt;naman03malhotra@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#062b833</div>
-                                        <div class="message">Cherry pick 53775 into trunk (#54400)
-
-[dev] Create PR instead of committing directly for version bump (#53775)
-
-Create PR instead of commiting directly for version bump
-
-Co-authored-by: Naman Malhotra &lt;naman03malhotra@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#785f1a4</div>
-                                        <div class="message">[Settings] Register and render internal slotFill (#53909)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f5f691</div>
-                                        <div class="message">Connect theme to WCCOM after auto-install step (#54138)
-
-* duplicate plugin activation into theme activation
-
-* call connect theme after move product step
-
-* update connect_theme to accept product id
-
-* extract call to wccom activate api to separate method
-
-* extract logic to find available subscription to a new function
-
-* add changelog
-
-* clean theme cache before activating
-
-* add comment
-
-* add comments
-
-* only connect theme if not error
-
-* fix lint
-
-* fix lint
-
-* fix lint
-
-* fix missing body parameter
-
-* fix lint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfd502a</div>
-                                        <div class="message">Enhancement: Improve UX by showing price validation warnings before bulk updates for variations (#54266)
-
-* Improves user experience by warning about sale price constraints during bulk price adjustments.
-
-- Adds warning message to price adjustment prompt explaining sale price validation rules
-- Helps prevent user confusion when sale prices are automatically removed
-- Displays warning before price changes are made rather than after
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Enhance price adjustment prompt by conditionally displaying sale price warning. This change improves user experience by alerting users to potential sale price constraints when adjusting prices, helping to prevent confusion during bulk updates.
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a5e683</div>
-                                        <div class="message">Add new `include_status` and `exclude_status` filter on the products variations endpoint (#54246)
-
-* Add new include_status filter on the products variations endpoint
-
-* Add new exclude_status filter on the products variations endpoint
-
-* Add changefile(s) from automation for the following project(s): woocommerce
-
-* Rename exclude function
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dd0359</div>
-                                        <div class="message">Add event tracking to blockified Add to Cart experience type selector (#54347)
-
-* Add event tracking to type selector
-
-* Add changelog
-
-* Add event recording to toolbar
-
-* Fix onchange behavior</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f9b530</div>
-                                        <div class="message">Disable the Store Notice when switching to a block theme (#54288)
-
-* Disable the Store Notice when switching to a block theme
-
-* Add changelog file
-
-* Typos
-
-* Use wc_bool_to_string() and wc_string_to_bool() functions when manipulating options</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f08cbd7</div>
-                                        <div class="message">Decode error messages caused by the Add to Cart button block (#54317)
-
-* Decode error messages caused by the Add to Cart button
-
-* Add changelog file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b898415</div>
-                                        <div class="message">Cherry pick 54324 into trunk (#54360)
-
-Product Summary: Sanitize HTML (#54324)
-
-* Kses the final summary in Product Summary
-
-* Sanitize HTML in Summary component
-
-* Add changelog
-
-* Remove console log
-
-Co-authored-by: Karol Manijak &lt;20098064+kmanijak@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c193d1</div>
-                                        <div class="message">Fix TS errors in `plugins/woocommerce/client/admin/client/products/` (#54129)
-
-* Fix TS errors in plugins/woocommerce/client/admin/client/products/fills/more-menu-items/classic-editor-menu-item.tsx
-
-* Fix TS errors in plugins/woocommerce/client/admin/client/products/fills/more-menu-items/delete-variation-menu-item.tsx
-
-* Fix TS errors in plugins/woocommerce/client/admin/client/products/fills/product-block-editor-fills.tsx
-
-* Update some fix to be more generics
-
-* Fix TS errors in plugins/woocommerce/client/admin/client/products/hooks/use-product-entity-record.ts
-
-* Fix TS errors in plugins/woocommerce/client/admin/client/products/hooks/use-product-variation-entity-record.ts
-
-* Fix plugins/woocommerce/client/admin/client/products/tour/block-editor/use-published-products-count.tsx
-
-* Fix plugins/woocommerce/client/admin/client/products/tour/block-editor/use-block-editor-tour-options.ts
-
-* Add TODOs to useSelect related fixes
-
-* Update todo to remove error expect
-
-* Cover the type problems regarding Slot Fills
-
-* Add changelog
-
-* Expect TS error and mark two places for further investigation
-
-* Update the TS error expect
-
-* Fix function as a children problem in two Slot Fill places
-
-* Add missing changelog files</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49f1f20</div>
-                                        <div class="message">[dev] Monorepo: live branches build jobs tweaks (#54308)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6146dad</div>
-                                        <div class="message">Remove legacy Puppeteer e2e tests (#54344)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9e1fad</div>
-                                        <div class="message">Improve the copy of the snack bar when one plugin is installed/activated (#54313)
-
-* Use i18n plural to decide notice message
-
-* Add changefile(s) from automation for the following project(s): @woocommerce/data
-
-* Expose plugin details when installed/activated
-
-* Add plugin_details to types
-
-* Add logic to display the plugin name when installed individually
-
-* Add changefile(s) from automation for the following project(s): @woocommerce/data, woocommerce
-
----------
-
-Co-authored-by: github-actions &lt;github-actions@github.com&gt;
-Co-authored-by: Vlad Olaru &lt;vlad.olaru@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#327e3c2</div>
-                                        <div class="message">CFE cherry pick: Fix "Go to the Editor" CYS button (#54260) (#54316)
-
-* Fix "Go to the Editor" CYS button (#54260)
-
-* Improve the redirection logic
-
-* Update tests
-
-* Add changelog
-
-* Fix merge</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Jan 2025, 15:23:07</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2256,7 +1932,7 @@ Co-authored-by: Vlad Olaru &lt;vlad.olaru@automattic.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.53m out of 206m repositories</span>
+                                    <span class="gh">ranked 5.53m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2308,7 +1984,7 @@ Co-authored-by: Vlad Olaru &lt;vlad.olaru@automattic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2025, 14:24:06 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jan 2025, 15:17:45 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
