@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.33m added, 970k removed
+                                    5.67m added, 4.61m removed
                                 </div>
                             </section>
                             <section>
@@ -293,20 +293,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.74mb of code in 5231 edited files across 314 commits over last 14 days</small>
+                <small>estimation from 8.74mb of code in 5232 edited files across 316 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.54444399222115" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="285.54444399222115" y="0" width="222.96249128923165" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="508.50693528145285" y="0" width="214.43906298755323" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="722.945998269006" y="0" width="75.74697145347913" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="798.6929697224853" y="0" width="74.730478579132" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="873.4234483016172" y="0" width="29.95634294920468" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="903.3797912508219" y="0" width="16.045529255125548" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="919.4253205059474" y="0" width="0.5746794940526075" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.5378210346045" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="285.5378210346045" y="0" width="222.957319866145" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="508.4951409007495" y="0" width="214.4340892580501" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="722.9292301587996" y="0" width="75.7665531758466" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="798.6957833346462" y="0" width="74.7287452700002" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="873.4245286046463" y="0" width="29.955648137612723" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="903.3801767422591" y="0" width="16.045157092884505" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="919.4253338351436" y="0" width="0.5746661648563568" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1737,7 +1737,7 @@ Adds GB Banking Alias Option</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.55m out of 234m repositories</span>
+                                    <span class="gh">ranked 5.55m out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -1789,7 +1789,7 @@ Adds GB Banking Alias Option</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2025, 04:23:30 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2025, 05:22:54 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
