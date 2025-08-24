@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.property{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.post{align-items:flex-start}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 6.09mb of code in 2084 edited files across 443 commits over last 14 days</small>
+                <small>estimation from 6.04mb of code in 2081 edited files across 474 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.86111731122287" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="430.86111731122287" y="0" width="190.71147294883957" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="621.5725902600624" y="0" width="182.93280558405488" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="804.5053958441173" y="0" width="57.381204601385484" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="861.8866004455027" y="0" width="18.756551109552678" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="880.6431515550554" y="0" width="16.38749171322309" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="897.0306432682785" y="0" width="16.13897058876076" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="913.1696138570393" y="0" width="6.830386142960629" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.05900011100226" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.05900011100226" y="0" width="191.61231256304205" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="608.6713126740443" y="0" width="190.8515031153024" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="799.5228157893467" y="0" width="59.504534200759636" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="859.0273499901065" y="0" width="19.216044169244654" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="878.2433941593512" y="0" width="16.60060906454057" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="894.8440032238917" y="0" width="16.348855952857825" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="911.1928591767496" y="0" width="8.807140823250629" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -472,6 +472,213 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 374 commits in
+                                        <span class="repo">mralaminahamed/woocommerce</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#55d9ea6</div>
+                                        <div class="message">Prevent required select fields choosing 'next' option during autofill (#59638)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a254369</div>
+                                        <div class="message">Remove changelog entries from intermediate branches (#59562)
+
+* Remove changelog entries from intermediate branches
+
+* Fix lint errors
+
+* Refactor branches loop
+
+* Update loop to get intermediate branches
+
+* Fix normalize version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23efa1f</div>
+                                        <div class="message">Add workflow to bump Action Scheduler version requirement (#59675)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f823e8</div>
+                                        <div class="message">Consistently display shortcodes with square brackets in WooCommerce system status report (#59687)
+
+* Fix: Consistently display shortcodes with square brackets in WooCommerce Status 'WooCommerce pages' box\n\n- Cart and Checkout shortcodes now display as [woocommerce_cart] and [woocommerce_checkout] to match My Account.\n- Resolves #59673: https://github.com/woocommerce/woocommerce/issues/59673
+
+* Add changefile(s) from automation for the following project(s): woocommerce
+
+* Update cursor PR description rules
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a5c068</div>
+                                        <div class="message">Make the emogrifier package a production dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68e5895</div>
+                                        <div class="message">Add to Cart + Options: avoid JS error when removing items from the Mini-Cart block due to missing context (#59671)
+
+* Add to Cart + Options: avoid JS error when removing items from the Mini-Cart block due to missing context
+
+* Add changelog file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#650ef28</div>
+                                        <div class="message">Add documentation for post-release monitoring (#59605)
+
+* Add documentation for post-release monitoring
+
+* Fix link to plugin repo
+
+* Removing references to internal staging monitoring
+
+* Addressing feedback
+
+* fix wording in monitoring doc</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e7e0dc1</div>
+                                        <div class="message">Fix console error on email listing page when custom email classes are registered (#59646)
+
+Update getItemId function in ListView to include email_key for unique identification of EmailType items</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb7b8f1</div>
+                                        <div class="message"> Product Details: prevent the default template to be auto applied for existing blocks (#59691)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ece7dbf</div>
+                                        <div class="message">Add documentation for building and publishing a WooCommerce Core Release (#59573)
+
+* Add documentation for building and publishing a WooCommerce Core Release
+
+* Add point out to building and publishing in main content.
+Removing pending note for some of the workflow
+
+* Add link to internal staging doc
+
+* Add the release-update-stable step
+
+* Removing notification steps as they're already included within current workflows
+
+* Removing direct reference to staging in light of https://a8c.slack.com/archives/C02NVV8LQLW/p1750673261093809 so we can keep this more focused on the view an outside contributor would see.
+We will reference the documentation for the staging portion in the p2 post kicking off the release internally.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00acaf5</div>
+                                        <div class="message">Make `version` mandatory to run the `release-commits-and-contributors.yml` workflow (#59660)
+
+* Make the input version mandatory to run the workflow
+
+* Avoid unfurling Slack links
+
+* Revert uses update
+
+* Remove unused step</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2398bc</div>
+                                        <div class="message">Add workflow to bump WC core version (#59563)
+
+Add bump-version workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e2f529</div>
+                                        <div class="message">Order-pay can also use the session choosen gateway (#47100)
+
+* Order-pay can also use the session choosen gateway
+
+* Add changelog file
+
+---------
+
+Co-authored-by: Alexis Urien &lt;alexis@smiile.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0eb2703</div>
+                                        <div class="message">Bump Action Scheduler version to 3.9.3 (#59672)
+
+Update Action Scheduler to '3.9.3'.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a5c8d6</div>
+                                        <div class="message">[Blueprints]: Skip steps that set the Site Visibility to Live (#59579)
+
+* [Blueprints]: Skip steps that set the Site Visibility to Live
+
+* Add changefile(s) from automation for the following project(s): woocommerce, woocommerce/client/admin
+
+* Lint fixes
+
+* Lint fixes
+
+---------
+
+Co-authored-by: github-actions &lt;github-actions@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79a9c78</div>
+                                        <div class="message">Update Product Filters blocks handlebars templates in e2e tests (#59498)
+
+* Update Product Filters blocks handlebars templates in e2e tests
+
+* Add changelog file
+
+* Fix selectors
+
+* Remove generic selectors from add-to-cart-form
+
+* Fix incorrect since versions in doc blocks
+
+* Remove unused CSS styles</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60d7f03</div>
+                                        <div class="message">Update stable tag in all branches higher than the input version (#59445)
+
+* Update stable tag in all branches higher than the input version
+
+* Calculate branches up until trunk version
+
+* remove checkout
+
+* finish job if branch does not exists, fix message
+
+* bring back condition
+
+* Refactor computing branches
+
+* Fix duplicate line
+
+* Update get target branches loop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55fb345</div>
+                                        <div class="message">new images to fix logos (#59643)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a4f08e</div>
+                                        <div class="message">Ensure validation error does not show when copy-pasting valid passwords into the create-password component (#59577)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7510391</div>
+                                        <div class="message">Ensure quantity inputs update if receiving new props from server (#59537)</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">24 Aug 2025, 08:02:50</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -536,117 +743,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">21 Aug 2025, 18:56:12</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 649 commits in
-                                        <span class="repo">mralaminahamed/langchain-js</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cde9d32</div>
-                                        <div class="message">fix(langchain-anthropic): update built-in tools integration to use the correct 'str_replace_editor' name, enhance test cases for server tools</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a4e1bf8</div>
-                                        <div class="message">refactor(langchain-anthropic): add AnthropicBuiltInToolUnion type and simplify isBuiltinTool</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f0dc27</div>
-                                        <div class="message">Revisit the implementation for custom metadata labels
-
-Signed-off-by: Yu Ishikawa &lt;yu-iskw@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5f3267</div>
-                                        <div class="message">Merge remote-tracking branch 'upstream/main' into support-vertexai-labels</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db8ac55</div>
-                                        <div class="message">Improve the unit tests
-
-Signed-off-by: Yu Ishikawa &lt;yu-iskw@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce00f90</div>
-                                        <div class="message">refactor(langchain-anthropic): change parameter type in isBuiltinTool function from 'any' to 'unknown' for improved type safety</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38ada7a</div>
-                                        <div class="message">feat(langchain-anthropic): add support for web search result blocks and enhance server tool integration tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#127e153</div>
-                                        <div class="message">feat(langchain-anthropic): Update types and utilities with built-in server tools and web search tool</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2ef55f</div>
-                                        <div class="message">feat(langchain-anthropic): add isBuiltinTool function to validate built-in Anthropic tools</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a99c49</div>
-                                        <div class="message">chore(langchain-anthropic): update @anthropic-ai/sdk to version 0.52.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#764b418</div>
-                                        <div class="message">feat(google-genai): Add baseUrl property to embeddings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56623fc</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/support-vertexai-labels' into support-vertexai-labels
-
-Signed-off-by: Yu Ishikawa &lt;yu-iskw@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fe8d0e</div>
-                                        <div class="message">Fix unit tests
-
-Signed-off-by: Yu Ishikawa &lt;yu-iskw@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e54054</div>
-                                        <div class="message">feat: Support Custom Metadata Labels on Vertex AI
-
-Signed-off-by: Yu Ishikawa &lt;yu-iskw@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a5a5c3</div>
-                                        <div class="message">feat: Support Custom Metadata Labels on Vertex AI
-
-Signed-off-by: Yu Ishikawa &lt;yu-iskw@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71e649b</div>
-                                        <div class="message">Update ibm.ipynb</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e4d44e</div>
-                                        <div class="message">Rework notebook</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd8a3dc</div>
-                                        <div class="message">Update ibm.ipynb
-
-Fix brackets</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e86d23</div>
-                                        <div class="message">fix[docs]: Remove outdate information form notebook (#53)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63719c3</div>
-                                        <div class="message">fix[docs]: Fix urls in docs</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">21 Aug 2025, 12:06:58</div>
                             </section>
                         </div>
                     </section>
@@ -742,7 +838,7 @@ Fix brackets</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2025, 07:25:05 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Aug 2025, 08:35:25 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
