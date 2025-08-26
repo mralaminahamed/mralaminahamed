@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1387" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1037" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.83mb of code in 1783 edited files across 487 commits over last 14 days</small>
+                <small>estimation from 4.83mb of code in 1780 edited files across 487 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.4834002188982" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="397.4834002188982" y="0" width="278.1661194211358" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="675.6495196400341" y="0" width="136.47063115651224" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="812.1201507965463" y="0" width="37.85941870363614" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="849.9795695001824" y="0" width="24.62604888726742" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="874.6056183874498" y="0" width="19.732944180955855" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="894.3385625684058" y="0" width="17.911224613887878" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="912.2497871822936" y="0" width="7.750212817706433" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.26463360145937" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="397.26463360145937" y="0" width="277.163921860414" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="674.4285554618734" y="0" width="136.39552055229225" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="810.8240760141656" y="0" width="39.194031278346316" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="850.018107292512" y="0" width="24.61249522084265" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="874.6306025133546" y="0" width="19.72208357785092" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="894.3526860912056" y="0" width="17.901366647439946" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="912.2540527386454" y="0" width="7.745947261354578" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -472,6 +472,20 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">Strategy11/formidable-forms</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">25 Aug 2025, 19:25:20</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -541,368 +555,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">25 Aug 2025, 05:47:47</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 109 commits in
-                                        <span class="repo">mralaminahamed/wc-payment-gateway-stripe</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c6f31c</div>
-                                        <div class="message">[ECE] Fix state mapping for Lithuania (#4501)
-
-* add Lithuania in state mapping
-Cherry-picked from d9160e3159856ceef8f8797c6a8fffcdfd6780b9.
-* add changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3698e0</div>
-                                        <div class="message">Create 9.7.1 headers in readme and changelog</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe5a047</div>
-                                        <div class="message">Fix setup intent webhook fatal (#4518)
-
-* Pass the required order param to the hook
-* Add changelogs
-* Remove unused hook calls to add on-hold status
-* Re-introduce public methods to add on_hold status
-* Re-introduce removed filters
-* Update changelog.txt
-
-Co-authored-by: Diego Curbelo &lt;diego@curbelo.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e3adcd</div>
-                                        <div class="message">Prevent multiple save appearance AJAX calls on Block Checkout (#4506)
-
-* Fix multiple save appearance AJAX calls
-
-- Update global appearance data immediately after generation to prevent subsequent calls from seeing empty data
-- Add concurrency flag to prevent multiple simultaneous save appearance requests
-
-* Add changelog entries</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea2a035</div>
-                                        <div class="message">Fix "undefined array key 'label' warning" (#4519)
-
-* Guard against undefined custom field label
-
-* Add readme and changelog entries
-
-* Update changelog.txt
-
-Co-authored-by: daledupreez &lt;dale.du.preez@automattic.com&gt;
-
-* Update readme.txt
-
----------
-
-Co-authored-by: daledupreez &lt;dale.du.preez@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbd1931</div>
-                                        <div class="message">Adding the subscription detached check bulk action (#4507)
-
-* Adding the subscription detached check bulk action
-
-* Changelog and readme entries
-
-* Unit test
-
-* Unit tests
-
-* Fix tests
-
-* Unit tests
-
-* Unit tests
-
-* Update includes/admin/class-wc-stripe-subscription-detached-bulk-action.php
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-
-* Update includes/admin/class-wc-stripe-subscription-detached-bulk-action.php
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-
-* Update includes/compat/class-wc-stripe-subscriptions-helper.php
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-
-* Update includes/admin/class-wc-stripe-admin-notices.php
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-
-* Fix sanitization order
-
-* Update includes/compat/class-wc-stripe-subscriptions-helper.php
-
-Co-authored-by: Mayisha &lt;33387139+Mayisha@users.noreply.github.com&gt;
-
-* Change called method after renaming
-
-* Adding feedback when there are no detached subscriptions
-
-* Make the bulk notice dismissable
-
-* Fix notice concat
-
-* Moving the redirect call inside the bulk action case
-
----------
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-Co-authored-by: Mayisha &lt;33387139+Mayisha@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbd6987</div>
-                                        <div class="message">Fix failing unit tests on WC 10.0.* (#4517)
-
-* Fix version sorting
-* Add changelog entry
-* Update changelog entry
-* Update changelog entry
-* Update code comment
-* Fix changelogs
-* Compare order ID instead of the entire object
-* Use version_compare
-* Exclude wc=L-1 + WP=L-2 from test matrix
-* Update excluded versions
-* Add changelog entries
-
----------
-Co-authored-by: Wesley Rosa &lt;wesleyjrosa@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0eb61e3</div>
-                                        <div class="message">Fix get-wordpress-plugin-version action (#4511)
-
-* Fix version sorting
-
-* Add changelog entry
-
-* Update changelog entry
-
-Co-authored-by: Wesley Rosa &lt;wesleyjrosa@gmail.com&gt;
-
-* Update changelog entry
-
-Co-authored-by: Wesley Rosa &lt;wesleyjrosa@gmail.com&gt;
-
-* Update code comment
-
-* Fix changelogs
-
----------
-
-Co-authored-by: Wesley Rosa &lt;wesleyjrosa@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc2b4bc</div>
-                                        <div class="message">Merge branch 'trunk' into develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#faea428</div>
-                                        <div class="message">woorelease: Update stable tag to 9.7.0 (#4516)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9cb291b</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/release/9.7.0' into trunk</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0241caf</div>
-                                        <div class="message">Implementing product type constants (#4474)
-
-* Implementing product type constants
-
-* Changelog and readme entries
-
-* Update changelog.txt
-
-Co-authored-by: daledupreez &lt;dale.du.preez@automattic.com&gt;
-
-* Update readme entry
-
----------
-
-Co-authored-by: daledupreez &lt;dale.du.preez@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d6a6eb</div>
-                                        <div class="message">Removing the deprecated order wrapper class (#4496)
-
-* Removing the inclusion of the order wrapper class
-
-* Removing the class
-
-* Fix docblock</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#892f96d</div>
-                                        <div class="message">woorelease: Product version bump update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87eac4c</div>
-                                        <div class="message">Update release notes for 9.7.0 (#4509)
-
-* Update release notes for 9.7.0 release
-
-* Change heading
-
-Co-authored-by: daledupreez &lt;dale.du.preez@automattic.com&gt;
-
-* Change heading
-
-Co-authored-by: daledupreez &lt;dale.du.preez@automattic.com&gt;
-
-* Introduce Other Fixes section
-
-* Reorganize changelog entries
-
-* Move hook deprecation entry to Important Updates
-
-* Rearrange entries based on importance
-
----------
-
-Co-authored-by: daledupreez &lt;dale.du.preez@automattic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26e32de</div>
-                                        <div class="message">Introducing a banner to promote OC (#4495)
-
-* Introducing a banner to promote OC
-
-* Unit tests
-
-* Fix tests
-
-* Correct illustration
-
-* Update client/settings/payment-methods/index.js
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-
-* Changelog and readme entries
-
-* Fix BNPL banner logic
-
-* Checking if OC is available
-
-* Fix tests
-
-* Fix title font weight
-
-* Adding learn more to the intro paragraph + activation button
-
-* Fix tests
-
-* Handling activation flow + OC setting toggle endpoint + oc context
-
-* Fix tests
-
-* Unit tests
-
-* Changing disabled value to 'no' instead of 'disabled'
-
-* Removing unnecessary setting of UPE flag
-
-* Removing unnecessary deregister method
-
-* Removing unnecessary version check
-
-* Update client/settings/payment-settings/promotional-banner/oc-promotion-banner.js
-
-Co-authored-by: Diego Curbelo &lt;diego@curbelo.com&gt;
-
-* Update includes/admin/class-wc-stripe-rest-oc-setting-toggle-controller.php
-
-Co-authored-by: Diego Curbelo &lt;diego@curbelo.com&gt;
-
-* Fix banner dismiss option persistence
-
----------
-
-Co-authored-by: Copilot &lt;175728472+Copilot@users.noreply.github.com&gt;
-Co-authored-by: Diego Curbelo &lt;diego@curbelo.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c227be</div>
-                                        <div class="message">Disabling BNPLs when other official plugins are active (#4492)
-
-* Disabling BNPLs when other official plugins are active
-
-* Simplifying logic
-
-* Changelog and readme entries
-
-* Unit tests
-
-* Checking for specific official plugins instead of any
-
-* Adding constants
-
-* Unit test
-
-* Fix methods availability in the block checkout
-
-* Fix methods availability in the block checkout
-
-* Keeping methods visible in the settings page
-
-* Fix methods availability in the shortcode checkout
-
-* New pill to inform about the conflict
-
-* Unit test
-
-* Disable checkbox when unavailable
-
-* Reverting unit tests removal
-
-* Update index.js
-
-* Update index.test.js
-
-* Update index.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#232fd47</div>
-                                        <div class="message">Increase onboarding notice localstorage expiration time to 1hr (#4499)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4feaa5</div>
-                                        <div class="message">Fix wrong price formatting in Apple/Google Pay (#4480)
-
-* make 'three_decimal_currencies' method public
-
-* use currency decimal supported in Stripe
-
-* add changelog
-
-* remove unnecessary else
-
-* convert currency to lower case
-
-* add test for test_get_stripe_currency_decimals</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#878577a</div>
-                                        <div class="message">Bump min supported versions</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">24 Aug 2025, 10:04:57</div>
                             </section>
                         </div>
                     </section>
@@ -998,7 +650,7 @@ Co-authored-by: Diego Curbelo &lt;diego@curbelo.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2025, 03:58:12 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2025, 05:15:00 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
