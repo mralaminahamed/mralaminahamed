@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -145,7 +145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            394 Repositories
+                            397 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 5.15mb of code in 1607 edited files across 432 commits over last 14 days</small>
+                <small>estimation from 5.20mb of code in 1604 edited files across 428 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.5636491638377" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="329.5636491638377" y="0" width="203.13320724773436" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="532.696856411572" y="0" width="125.18072918841843" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="657.8775855999904" y="0" width="103.79597520449134" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="761.6735608044818" y="0" width="64.55231697203644" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="826.2258777765181" y="0" width="30.673729051195927" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="856.8996068277141" y="0" width="29.41172118775021" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="886.3113280154644" y="0" width="33.68867198453562" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.1106988665253" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="330.1106988665253" y="0" width="201.94326482891265" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="532.0539636954379" y="0" width="125.38851934020998" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="657.4424830356479" y="0" width="103.96826834883494" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="761.4107513844829" y="0" width="64.65946873436503" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="826.0702201188478" y="0" width="30.724645025698422" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="856.7948651445463" y="0" width="29.460542328589348" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="886.2554074731356" y="0" width="33.74459252686435" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -472,6 +472,27 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/wp-dev-toolkit</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2280f04</div>
+                                        <div class="message">update deps</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">27 Aug 2025, 05:02:08</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -534,27 +555,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">25 Aug 2025, 05:47:50</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/easycommerce-fakerpress</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6d99590</div>
-                                        <div class="message">chore(dependencies): update package versions in package.json and yarn.lock</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">25 Aug 2025, 05:47:47</div>
                             </section>
                         </div>
                     </section>
@@ -650,7 +650,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2025, 09:24:16 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2025, 10:33:05 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
