@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1137" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1454" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit,.contributors .label{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 7.23mb of code in 2695 edited files across 479 commits over last 14 days</small>
+                <small>estimation from 7.25mb of code in 2731 edited files across 498 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.35525665142737" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="226.35525665142737" y="0" width="194.23276735787888" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="420.58802400930625" y="0" width="186.22120942555063" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="606.8092334348569" y="0" width="127.85352722221002" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="734.6627606570669" y="0" width="52.05659668471195" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="786.7193573417788" y="0" width="43.50981042770289" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="830.2291677694817" y="0" width="31.82387322425255" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="862.0530409937343" y="0" width="57.946959006265715" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.9939362159144" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="225.9939362159144" y="0" width="193.74022979743089" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="419.7341660133453" y="0" width="185.73876484653556" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="605.4729308598809" y="0" width="127.52229620235691" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="732.9952270622377" y="0" width="53.941233010638925" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="786.9364600728767" y="0" width="43.52527761437589" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="830.4617376872526" y="0" width="31.74142689513857" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="862.2031645823912" y="0" width="57.796835417608875" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -477,6 +477,275 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1220 commits in
+                                        <span class="repo">mralaminahamed/gutenberg</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#aa89fdc</div>
+                                        <div class="message">Editor: Optimize 'PostAuthorCheck' component data selection (#69105)
+
+
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#594a4d8</div>
+                                        <div class="message">Added Missing Global Documentation (#69104)
+
+* Added Missing Global Documentation
+
+* Fix PHP CS Issue
+
+Co-authored-by: shail-mehta &lt;shailu25@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1777430</div>
+                                        <div class="message">Duotone Settings: Add `reset` button and improve toggle rendering in FiltersPanel (#68672)
+
+* Duotone Settings: Add reset button and improve toggle rendering in FiltersPanel
+
+* refactor: revert usage of `clearable` prop
+
+* refactor: hover on button to show `reset`
+
+* refactor: remove the usage of `ItemGroup` and add `css` for border
+
+* refactor: update button label to 'Reset' and adjust border color in filters panel
+
+Co-authored-by: yogeshbhutkar &lt;yogeshbhutkar@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7e8549</div>
+                                        <div class="message">Disable Clear button if there's no shadow. (#69092)
+
+
+Co-authored-by: shimotmk &lt;shimotomoki@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#194462f</div>
+                                        <div class="message">Editor: Don't use selector shortcuts for the taxonomy queries (#68998)
+
+* Editor: Don't use selector shortcuts for the taxonomy queries
+* Update unit tests
+
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9ee64a</div>
+                                        <div class="message">Exclude Iterator helpers from polyfills (#69070)
+
+* Exclude Iterator helpers from polyfills
+* Use assertEqualSets
+* Ignore bundled packages
+
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: swissspidy &lt;swissspidy@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e850c68</div>
+                                        <div class="message">Editor: Add loading state to the 'PostAuthorCombobox' component (#68991)
+
+* Add loading indicator to author selector
+
+* Only show "No items found" when isLoading is false
+
+* Remove unitended change
+
+* Update packages/components/src/combobox-control/types.ts
+
+Co-authored-by: Marco Ciampini &lt;marco.ciampo@gmail.com&gt;
+
+* Revert "Only show "No items found" when isLoading is false"
+
+This reverts commit 76488c1841a4932a3350c927ea739c4da4b5bbfd.
+
+* Only show the suggestion list when the component isn’t loading data
+
+* Document `isLoading` prop in readme
+
+* Add is loading to Combobox storybook
+
+* Match readme description to type.js description
+
+* Revert combobox changes
+
+---------
+
+Co-authored-by: Marco Ciampini &lt;marco.ciampo@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#96b12e5</div>
+                                        <div class="message">Quick Inserter: Restore pattern search and insertion (#69028)
+
+
+Unlinked contributors: xpurichan.
+
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
+Co-authored-by: yogeshbhutkar &lt;yogeshbhutkar@git.wordpress.org&gt;
+Co-authored-by: fabiankaegy &lt;fabiankaegy@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b90569</div>
+                                        <div class="message">Social Links: Fix appender size in non-iframe editor (#68215)
+
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
+Co-authored-by: up1512001 &lt;up1512001@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3b8943</div>
+                                        <div class="message">Fix the background, arrowUpLeft, keyboardReturn and square icons. (#69076)
+
+* Fix the background, arrowUpLeft and square icons.
+
+* Fix keyboardReturn icon.
+
+Co-authored-by: afercia &lt;afercia@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#145eeca</div>
+                                        <div class="message">Update Changelog for 20.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#484ace3</div>
+                                        <div class="message">wp-env: Add lifecycleScripts to the schema (#68724)
+
+* Add lifecycleScripts to the README
+
+* Add lifecycleScripts to the schema/README for @wordpress/env
+
+* Adjust from code review feedback
+
+Co-authored-by: srtfisher &lt;sean212@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#269ebe6</div>
+                                        <div class="message">Relocate changelog file for WP#6910 to 6.9 backports (#69068)
+
+
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d01a09e</div>
+                                        <div class="message">Fix: Prevent Errors in Header Processing and Encode URLs Properly (#67780)
+
+
+Unlinked contributors: mafiayemakhfi.
+
+Co-authored-by: Juzar10 &lt;juzar@git.wordpress.org&gt;
+Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: SainathPoojary &lt;sainathpoojary@git.wordpress.org&gt;
+Co-authored-by: himanshupathak95 &lt;abcd95@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b64cb1</div>
+                                        <div class="message">Fix installing svn during deploys (#69047)
+
+This fixes a permissions error by installing svn into the worker as sudo.
+
+Co-authored-by: joemcgill &lt;joemcgill@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f0a805</div>
+                                        <div class="message">Refactor font variant components to use useId for checkbox IDs (#69050)
+
+
+Co-authored-by: torounit &lt;toro_unit@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
+Co-authored-by: chiilog &lt;mel_cha@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d9d138a</div>
+                                        <div class="message">Bump cross-spawn from 7.0.3 to 7.0.6 in /platform-docs (#68811)
+
+Bumps [cross-spawn](https://github.com/moxystudio/node-cross-spawn) from 7.0.3 to 7.0.6.
+- [Changelog](https://github.com/moxystudio/node-cross-spawn/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/moxystudio/node-cross-spawn/compare/v7.0.3...v7.0.6)
+
+---
+updated-dependencies:
+- dependency-name: cross-spawn
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1405851</div>
+                                        <div class="message">Remove block icon from InstalledBlocksPrePublishPanel. (#69046)
+
+* Remove block icon from InstalledBlocksPrePublishPanel.
+
+* Add inline comment.
+
+Co-authored-by: afercia &lt;afercia@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#30dc889</div>
+                                        <div class="message">Bump http-proxy-middleware from 2.0.6 to 2.0.7 in /platform-docs (#68900)
+
+Bumps [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) from 2.0.6 to 2.0.7.
+- [Release notes](https://github.com/chimurai/http-proxy-middleware/releases)
+- [Changelog](https://github.com/chimurai/http-proxy-middleware/blob/v2.0.7/CHANGELOG.md)
+- [Commits](https://github.com/chimurai/http-proxy-middleware/compare/v2.0.6...v2.0.7)
+
+---
+updated-dependencies:
+- dependency-name: http-proxy-middleware
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e41b9f6</div>
+                                        <div class="message">Bump undici from 5.28.4 to 5.28.5 (#68816)
+
+Bumps [undici](https://github.com/nodejs/undici) from 5.28.4 to 5.28.5.
+- [Release notes](https://github.com/nodejs/undici/releases)
+- [Commits](https://github.com/nodejs/undici/compare/v5.28.4...v5.28.5)
+
+---
+updated-dependencies:
+- dependency-name: undici
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">1 Sept 2025, 05:36:19</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">mralaminahamed/author-profile-blocks</span>
                                     </div>
@@ -549,34 +818,6 @@
                                     <div>37 files changed <span class="code">++3888 --820</span></div>
                                 </div>
                                 <div class="timestamp">31 Aug 2025, 05:19:54</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">mralaminahamed/author-profile-blocks</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">update/block-placeholders</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6e73b01</div>
-                                        <div class="message">Merge branch 'trunk' into update/block-placeholders
-
-# Conflicts:
-#	includes/Common/Author_Renderer.php
-#	src/js/components/AuthorBlockPlaceholder.js
-#	src/js/components/AuthorPicker.js
-#	src/scss/common/_author-picker.scss
-#	src/scss/common/_placeholder.scss</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">31 Aug 2025, 05:16:31</div>
                             </section>
                         </div>
                     </section>
@@ -672,7 +913,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2025, 10:35:43 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Sept 2025, 11:30:14 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
