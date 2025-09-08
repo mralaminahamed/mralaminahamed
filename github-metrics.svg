@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1737" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1770" class="large">
     <defs>
         <style/>
     </defs>
@@ -231,7 +231,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 6.26mb of code in 2143 edited files across 300 commits over last 14 days</small>
+                <small>estimation from 6.26mb of code in 2146 edited files across 304 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -470,6 +470,37 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">mralaminahamed/mcp-php-sdk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b66732</div>
+                                        <div class="message">Remove --no-scripts option from composer install (#30)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f457802</div>
+                                        <div class="message">Updated README.md to clarify grammar in "Important" section (#41)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#952cd24</div>
+                                        <div class="message">Update README for clarity and consistency (#38)
+
+Improved capitalization and wording in the roadmap and credits sections for better readability and consistency.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">8 Sept 2025, 04:59:18</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1005,27 +1036,6 @@ Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
                                 <div class="timestamp">31 Aug 2025, 08:29:34</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/author-profile-blocks</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">update/block-placeholders</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ca535dc</div>
-                                        <div class="message">update files</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">31 Aug 2025, 08:00:55</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1119,7 +1129,7 @@ Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2025, 03:56:47 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2025, 05:12:03 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
