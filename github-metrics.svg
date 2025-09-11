@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.large .project .items .text{width:916px}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .label{padding-left:0;display:flex;align-items:center}.contributors .label img{margin-left:0}.contributors .contributions{display:flex;align-items:center;font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.boolean,.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.64mb of code in 1734 edited files across 281 commits over last 14 days</small>
+                <small>estimation from 5.02mb of code in 1924 edited files across 329 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.94550748916436" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="287.94550748916436" y="0" width="254.080317526795" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="542.0258250159594" y="0" width="127.42650109245788" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="669.4523261084173" y="0" width="91.9998442168028" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="761.4521703252201" y="0" width="74.81124551488323" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="836.2634158401033" y="0" width="70.046356789805" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="906.3097726299084" y="0" width="6.5387400638824" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="912.8485126937907" y="0" width="7.151487306209371" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.41373925747035" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="288.41373925747035" y="0" width="209.70401675573743" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="498.1177560132078" y="0" width="157.43573116283923" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="655.553487176047" y="0" width="102.22865096934326" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="757.7821381453903" y="0" width="93.0501144130647" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="850.832252558455" y="0" width="57.81243711008251" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="908.6446896685376" y="0" width="5.396718916541819" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="914.0414085850794" y="0" width="5.958591414920656" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -470,6 +470,169 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 42 commits in
+                                        <span class="repo">mralaminahamed/dokan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5e5ad07</div>
+                                        <div class="message">Fix/visual spec ts for properly skipping tests (#2868)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a062e8</div>
+                                        <div class="message">fix: skip live chat settings test if credentials are not provided and enhance error handling in setUserMeta (#2869)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c17a1af</div>
+                                        <div class="message">fix: skip live chat tests when credentials are not available (#2870)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10642b3</div>
+                                        <div class="message">Update Product Q&amp;A selector to use href attribute (#2860)
+
+Changed the Product Q&amp;A menu selector to target the anchor by its href attribute instead of link text. This improves selector reliability if the link text changes or contains extra spaces.
+
+Co-authored-by: Mahbub Rabbani &lt;mahbub.rucse@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e689284</div>
+                                        <div class="message">fix:  setup guide not found issue (#2862)
+
+* fix:  setup guide not found issue
+
+* fix: restore setup guide button click functionality in setupGuide.spec.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5c62cb</div>
+                                        <div class="message">refactor: enhance Printful E2E tests with descriptive steps (#2863)
+
+- Updated test descriptions for clarity and added detailed steps for each test case.
+- Improved readability and maintainability of the Printful module functionality tests.
+- Ensured consistent structure across test cases for better understanding of test flows.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#819cfd4</div>
+                                        <div class="message">fix: update plugin test suite for improved state management and status checks (#2865)
+
+- Enabled the 'Plugin functionality test' suite to run by removing the skip.
+- Captured original plugin states before tests and restored them after execution, ensuring proper state management.
+- Enhanced individual test cases to check current plugin statuses before activation or deactivation, preventing unnecessary actions.
+- Updated the plugin list path for dokanLite in test data for consistency.
+
+Closes #XXX (replace with relevant issue number if applicable)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c6438e</div>
+                                        <div class="message">fix: vendor can remove auction product category (multiple) (#2866)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f83903</div>
+                                        <div class="message">refactor: update commission setup wizard and selectors (#2876)
+
+- Enhanced the `setCommissionOnDokanSetupWizard` method to handle success scenarios and streamline the setup process.
+- Updated selectors for the Dokan setup wizard and commission meta box for improved accuracy and maintainability.
+- Added comments and skipped tests for scenarios needing fixes related to the commission meta box visibility.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27520b2</div>
+                                        <div class="message">fix: WooCommerce Booking plugin tests with dokan (#2877)
+
+* cleanup: remove commented-out code in selectors and vendorBookingPage files
+
+* refactor: improve test reliability and performance
+
+- Updated `clickAndWaitForResponseAndLoadState` method to specify 'load' state for better synchronization.
+- Modified `viewBookingProduct` method to directly click without waiting for load state.
+- Enhanced test timeout to 45 seconds for faster execution.
+- Implemented exponential backoff for API product creation retries and added error handling for critical setup operations.
+- Streamlined cleanup operations with error handling to ensure test stability.
+- Organized tests into parallel and sequential categories for improved execution flow.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74fe63c</div>
+                                        <div class="message">refactor: enhance Product Q&amp;A tests and API utility functions (#2879)
+
+- Updated selectors for Product Q&amp;A to improve XPath accuracy.
+- Refactored e2e tests for Product Q&amp;A functionality to include structured test steps for better readability and maintainability.
+- Enhanced `activateModules` and `deactivateModules` methods in `ApiUtils` with error handling and logging for improved debugging.
+- Ensured proper cleanup and resource management in test lifecycle methods.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a4f17c</div>
+                                        <div class="message">Revert "fix: resolve TypeScript compilation errors in emailVerification.spec.ts"
+
+This reverts commit 99ec2ebd4ce4b7fef6cf0bc6e18273a25e1d0064.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99ec2eb</div>
+                                        <div class="message">fix: resolve TypeScript compilation errors in emailVerification.spec.ts
+
+- Fix password type mismatch by adding explicit type annotation and fallback
+- Replace data.user.password with data.customer.password || 'testPassword123'
+- Remove @serial tags to make tests discoverable by Playwright
+- Tests now compile successfully and pass (2/2)
+
+Closes #832</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c36d4dd</div>
+                                        <div class="message">remove: console log from config file</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4058b33</div>
+                                        <div class="message">refactor: further enhance Playwright configuration with boolean parsing
+
+- Continued the refactor of the Playwright configuration by applying the `parseBoolean` utility to additional settings, ensuring consistent handling of environment variables.
+- Improved readability and maintainability of the configuration file while preserving existing functionality.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c094e8</div>
+                                        <div class="message">refactor: streamline Playwright configuration with boolean parsing
+
+- Updated the Playwright configuration to utilize the `parseBoolean` utility for environment variables such as CI, DOKAN_PRO, and NO_SETUP.
+- Enhanced clarity and consistency in the configuration by ensuring all relevant boolean checks are handled through the utility.
+- Maintained existing functionality while improving code readability.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ddedce</div>
+                                        <div class="message">Update .gitignore in tests/pw directory</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79d72ab</div>
+                                        <div class="message">refactor: enhance Playwright configuration with boolean parsing
+
+- Introduced `parseBoolean` utility to handle environment variable parsing for CI, DOKAN_PRO, NON_HEADLESS, and NO_SETUP.
+- Updated Playwright configuration files to utilize `parseBoolean` for improved clarity and consistency.
+- Removed unnecessary console log from `playwright.config.ts`.
+- Adjusted type definitions for CI and DOKAN_PRO to reflect string values instead of boolean.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#710f118</div>
+                                        <div class="message">chore: update Playwright configuration and test setup scripts
+
+- Added console log for BASE_URL in e2e.config.ts and playwright.config.ts.
+- Changed headless mode to false for local testing.
+- Updated dependencies handling in test projects based on NO_SETUP environment variable.
+- Simplified test setup commands in package.json by removing redundant config references.
+- Adjusted timeout and action settings in Playwright configuration for better performance.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffd0366</div>
+                                        <div class="message">fix: correct navigation URL and XPath for adding a new product</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Sept 2025, 06:55:45</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -857,275 +1020,6 @@ Introduces Playwright page object and E2E tests for verifying admin dashboard no
                                 <div class="timestamp">6 Sept 2025, 10:52:45</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1220 commits in
-                                        <span class="repo">mralaminahamed/gutenberg</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aa89fdc</div>
-                                        <div class="message">Editor: Optimize 'PostAuthorCheck' component data selection (#69105)
-
-
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#594a4d8</div>
-                                        <div class="message">Added Missing Global Documentation (#69104)
-
-* Added Missing Global Documentation
-
-* Fix PHP CS Issue
-
-Co-authored-by: shail-mehta &lt;shailu25@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1777430</div>
-                                        <div class="message">Duotone Settings: Add `reset` button and improve toggle rendering in FiltersPanel (#68672)
-
-* Duotone Settings: Add reset button and improve toggle rendering in FiltersPanel
-
-* refactor: revert usage of `clearable` prop
-
-* refactor: hover on button to show `reset`
-
-* refactor: remove the usage of `ItemGroup` and add `css` for border
-
-* refactor: update button label to 'Reset' and adjust border color in filters panel
-
-Co-authored-by: yogeshbhutkar &lt;yogeshbhutkar@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7e8549</div>
-                                        <div class="message">Disable Clear button if there's no shadow. (#69092)
-
-
-Co-authored-by: shimotmk &lt;shimotomoki@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#194462f</div>
-                                        <div class="message">Editor: Don't use selector shortcuts for the taxonomy queries (#68998)
-
-* Editor: Don't use selector shortcuts for the taxonomy queries
-* Update unit tests
-
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9ee64a</div>
-                                        <div class="message">Exclude Iterator helpers from polyfills (#69070)
-
-* Exclude Iterator helpers from polyfills
-* Use assertEqualSets
-* Ignore bundled packages
-
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: swissspidy &lt;swissspidy@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e850c68</div>
-                                        <div class="message">Editor: Add loading state to the 'PostAuthorCombobox' component (#68991)
-
-* Add loading indicator to author selector
-
-* Only show "No items found" when isLoading is false
-
-* Remove unitended change
-
-* Update packages/components/src/combobox-control/types.ts
-
-Co-authored-by: Marco Ciampini &lt;marco.ciampo@gmail.com&gt;
-
-* Revert "Only show "No items found" when isLoading is false"
-
-This reverts commit 76488c1841a4932a3350c927ea739c4da4b5bbfd.
-
-* Only show the suggestion list when the component isn’t loading data
-
-* Document `isLoading` prop in readme
-
-* Add is loading to Combobox storybook
-
-* Match readme description to type.js description
-
-* Revert combobox changes
-
----------
-
-Co-authored-by: Marco Ciampini &lt;marco.ciampo@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96b12e5</div>
-                                        <div class="message">Quick Inserter: Restore pattern search and insertion (#69028)
-
-
-Unlinked contributors: xpurichan.
-
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: yogeshbhutkar &lt;yogeshbhutkar@git.wordpress.org&gt;
-Co-authored-by: fabiankaegy &lt;fabiankaegy@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b90569</div>
-                                        <div class="message">Social Links: Fix appender size in non-iframe editor (#68215)
-
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: up1512001 &lt;up1512001@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3b8943</div>
-                                        <div class="message">Fix the background, arrowUpLeft, keyboardReturn and square icons. (#69076)
-
-* Fix the background, arrowUpLeft and square icons.
-
-* Fix keyboardReturn icon.
-
-Co-authored-by: afercia &lt;afercia@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#145eeca</div>
-                                        <div class="message">Update Changelog for 20.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#484ace3</div>
-                                        <div class="message">wp-env: Add lifecycleScripts to the schema (#68724)
-
-* Add lifecycleScripts to the README
-
-* Add lifecycleScripts to the schema/README for @wordpress/env
-
-* Adjust from code review feedback
-
-Co-authored-by: srtfisher &lt;sean212@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#269ebe6</div>
-                                        <div class="message">Relocate changelog file for WP#6910 to 6.9 backports (#69068)
-
-
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d01a09e</div>
-                                        <div class="message">Fix: Prevent Errors in Header Processing and Encode URLs Properly (#67780)
-
-
-Unlinked contributors: mafiayemakhfi.
-
-Co-authored-by: Juzar10 &lt;juzar@git.wordpress.org&gt;
-Co-authored-by: ellatrix &lt;ellatrix@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: SainathPoojary &lt;sainathpoojary@git.wordpress.org&gt;
-Co-authored-by: himanshupathak95 &lt;abcd95@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b64cb1</div>
-                                        <div class="message">Fix installing svn during deploys (#69047)
-
-This fixes a permissions error by installing svn into the worker as sudo.
-
-Co-authored-by: joemcgill &lt;joemcgill@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f0a805</div>
-                                        <div class="message">Refactor font variant components to use useId for checkbox IDs (#69050)
-
-
-Co-authored-by: torounit &lt;toro_unit@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: chiilog &lt;mel_cha@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9d138a</div>
-                                        <div class="message">Bump cross-spawn from 7.0.3 to 7.0.6 in /platform-docs (#68811)
-
-Bumps [cross-spawn](https://github.com/moxystudio/node-cross-spawn) from 7.0.3 to 7.0.6.
-- [Changelog](https://github.com/moxystudio/node-cross-spawn/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/moxystudio/node-cross-spawn/compare/v7.0.3...v7.0.6)
-
----
-updated-dependencies:
-- dependency-name: cross-spawn
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1405851</div>
-                                        <div class="message">Remove block icon from InstalledBlocksPrePublishPanel. (#69046)
-
-* Remove block icon from InstalledBlocksPrePublishPanel.
-
-* Add inline comment.
-
-Co-authored-by: afercia &lt;afercia@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30dc889</div>
-                                        <div class="message">Bump http-proxy-middleware from 2.0.6 to 2.0.7 in /platform-docs (#68900)
-
-Bumps [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) from 2.0.6 to 2.0.7.
-- [Release notes](https://github.com/chimurai/http-proxy-middleware/releases)
-- [Changelog](https://github.com/chimurai/http-proxy-middleware/blob/v2.0.7/CHANGELOG.md)
-- [Commits](https://github.com/chimurai/http-proxy-middleware/compare/v2.0.6...v2.0.7)
-
----
-updated-dependencies:
-- dependency-name: http-proxy-middleware
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e41b9f6</div>
-                                        <div class="message">Bump undici from 5.28.4 to 5.28.5 (#68816)
-
-Bumps [undici](https://github.com/nodejs/undici) from 5.28.4 to 5.28.5.
-- [Release notes](https://github.com/nodejs/undici/releases)
-- [Commits](https://github.com/nodejs/undici/compare/v5.28.4...v5.28.5)
-
----
-updated-dependencies:
-- dependency-name: undici
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
-Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
-Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">1 Sept 2025, 05:36:19</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1219,7 +1113,7 @@ Co-authored-by: desrosj &lt;desrosj@git.wordpress.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2025, 07:24:24 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Sept 2025, 08:36:15 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
