@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.boolean,.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info,.markdown a{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.boolean,.token.number,.token.string{color:#2777aa}.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.30mb of code in 1624 edited files across 328 commits over last 14 days</small>
+                <small>estimation from 4.41mb of code in 1701 edited files across 351 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="288.43859761100214" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="288.43859761100214" y="0" width="209.72209112556098" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="498.16068873656315" y="0" width="157.44930053395814" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="655.6099892705213" y="0" width="102.15816733234782" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="757.7681566028691" y="0" width="93.05813439382638" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="850.8262909966955" y="0" width="57.817419958694074" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="908.6437109553897" y="0" width="5.397184059246477" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="914.0408950146361" y="0" width="5.959104985364022" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.4510445003709" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="281.4510445003709" y="0" width="213.14381155351245" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="494.5948560538834" y="0" width="165.0545525959762" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="659.6494086498597" y="0" width="99.85816325046189" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="759.5075719003215" y="0" width="92.42860883606582" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="851.9361807363873" y="0" width="56.98264136396037" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="908.9188221003477" y="0" width="5.266434878747763" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="914.1852569790955" y="0" width="5.8147430209045545" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -470,6 +470,286 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Forked
+                                        <span class="repo">the-events-calendar/the-events-calendar</span>
+                                        to
+                                        <span class="repo">mralaminahamed/the-events-calendar</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Sept 2025, 10:15:11</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 93 commits in
+                                        <span class="repo">mralaminahamed/gutenberg</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b46df52</div>
+                                        <div class="message">Accordion Panel: Remove unnecessary wrapper div and simplify save  (#71454)
+
+* Accordion Panel: Remove unnecessary wrapper div and simplify save function
+
+* Accordion Panel: Remove experimental styling and typographical props
+
+* Accordion Panel: Remove wrapper div and pass aria prop in blockprops
+
+Co-authored-by: himanshupathak95 &lt;abcd95@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e69c4a</div>
+                                        <div class="message">DataViews: Support hiding the title in Grid layout, with actions available on hover (#71369)
+
+* DataViews Grid: Try a titleless grid with actions available on hover
+
+* Add an explicity is-hovered state to preserve the visibility of the button when popovers are open
+
+* Add transition so that it doesn't feel quite as heavy
+
+* Update stories so that the padding of the body doesn't jump when opening popovers
+
+* Don't force show actions when grid card is selected
+
+* Add changelog entry
+
+* Update comment to refer to actions instead of checkboxes, ensure opacity is set correctly
+
+* Try removing state and using aria-expanded instead
+
+* Add extra renderedMediaField check
+
+* Add tests
+
+* Remove custom story
+
+* Update classname to be a little more specific
+
+* Tidy up some boolean checks
+
+* Add fields package changelog entry
+
+Co-authored-by: andrewserong &lt;andrewserong@git.wordpress.org&gt;
+Co-authored-by: talldan &lt;talldanwp@git.wordpress.org&gt;
+Co-authored-by: oandregal &lt;oandregal@git.wordpress.org&gt;
+Co-authored-by: tellthemachines &lt;isabel_brison@git.wordpress.org&gt;
+Co-authored-by: ramonjd &lt;ramonopoly@git.wordpress.org&gt;
+Co-authored-by: jameskoster &lt;jameskoster@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2646370</div>
+                                        <div class="message">api-fetch: clean up error handling (#71458)
+
+* api-fetch: add unit tests for nonce refresh, reset apiFetch module on each test
+
+* api-fetch: clean up error handling</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4aa4723</div>
+                                        <div class="message">DataViews: Fix grid padding values on mobile viewports (#71455)
+
+Co-authored-by: talldan &lt;talldanwp@git.wordpress.org&gt;
+Co-authored-by: oandregal &lt;oandregal@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9458bcd</div>
+                                        <div class="message">DataForm: add description support for the combined fields and show the description in the Card layout (#71380)
+
+Co-authored-by: dinhtungdu &lt;dinhtungdu@git.wordpress.org&gt;
+Co-authored-by: oandregal &lt;oandregal@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95b580e</div>
+                                        <div class="message">fix: prevent accordion toggle button overflow at full width (#71446)
+
+* fix: prevent accordion toggle button overflow at full width
+
+* fix: correct overflow handling in accordion heading and toggle styles
+
+Co-authored-by: R1shabh-Gupta &lt;rishabhwp@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dbeaef</div>
+                                        <div class="message">Add permission checks to Command Palette commands (#71267)
+
+* fix: add permission check for 'Add Page' command in Command Palette
+
+* feat: add permission check for 'Add Post' command in Command Palette
+
+* feat: add permission check for 'Patterns' command in Command Palette
+
+* fix: use only canCreatePatterns for patterns command visibility
+
+* fix: add permission check for 'Add Page' command in Command Palette
+
+* feat: add permission check for 'Add Post' command in Command Palette
+
+* feat: add permission check for 'Patterns' command in Command Palette
+
+* fix: use only canCreatePatterns for patterns command visibility
+
+* refactor: convert 'Add Post' command to use useCommandLoader pattern
+
+Co-authored-by: R1shabh-Gupta &lt;rishabhwp@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0a0961</div>
+                                        <div class="message">Set the `DateCalendar` and `DateRangeCalendar` as private in storybook. (#71453)
+
+Co-authored-by: juanfra &lt;juanfra@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6938b0b</div>
+                                        <div class="message">refactor: remove unnecessary fields from accordion block.json files (#71441)
+
+Unlinked contributors: dibyajit1234.
+
+Co-authored-by: R1shabh-Gupta &lt;rishabhwp@git.wordpress.org&gt;
+Co-authored-by: shail-mehta &lt;shailu25@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0270f0f</div>
+                                        <div class="message">Group Block variation:remove variation text color. (#71429)
+
+* fix group-example-text-color-attributes
+
+* remove text color
+
+* remove fontSize
+
+Co-authored-by: shimotmk &lt;shimotomoki@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
+Co-authored-by: jasmussen &lt;joen@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62692fb</div>
+                                        <div class="message">api-fetch: Check navigator.onLine to improve failure notices (#71438)
+
+Check navigator.onLine to improve failure notices
+
+When handling a failed request, let api-fetch infer from the value of
+`navigator.onLine` whether the failure likely stems from the fact that
+the user is disconnected from the network.
+
+This still leaves out other kinds of network error, which right now will
+still trigger the fallback "Could not get a valid response from the server"
+messaging. The spec for `Window.fetch` does not prescribe a
+standard error for network errors, meaning that browsers each implement
+their own messaging.
+
+Co-authored-by: mcsf &lt;mcsf@git.wordpress.org&gt;
+Co-authored-by: jsnajdr &lt;jsnajdr@git.wordpress.org&gt;
+Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: swissspidy &lt;swissspidy@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95bc550</div>
+                                        <div class="message">Fix timezone in Date block (#71430)
+
+Co-authored-by: westonruter &lt;westonruter@git.wordpress.org&gt;
+Co-authored-by: ockham &lt;bernhard-reiter@git.wordpress.org&gt;
+Co-authored-by: carolinan &lt;poena@git.wordpress.org&gt;
+Co-authored-by: ryelle &lt;ryelle@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#983df1f</div>
+                                        <div class="message">Field Types: update storybook (#71440)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a780dd8</div>
+                                        <div class="message">Deps: Bump `framer-motion` to `v11.15.0` (#71442)
+
+* Bump framer-motion to v11.15.0
+
+* Add CHANGELOG entry
+
+* motion() -&gt; motion.create()
+
+* Fix CHANGELOG entry
+
+Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d528cec</div>
+                                        <div class="message">api-fetch: cleanup and improve unit tests (#71439)
+
+Co-authored-by: jsnajdr &lt;jsnajdr@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba75e35</div>
+                                        <div class="message">RN: Remove `react-test-renderer` dependency (#71422)
+
+* RN tests: Replace react-test-renderer types with RNTL types
+
+* Remove react-test-renderer dependency
+
+Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddbcc73</div>
+                                        <div class="message">Fix Zoom out should be disabled when Show Template is toggled off (#71361)
+
+* Fix Zoom out should be disabled when Show Template is toggled off
+
+* Update packages/editor/src/components/preview-dropdown/index.js
+
+Co-authored-by: Aki Hamano &lt;54422211+t-hamano@users.noreply.github.com&gt;
+
+---------
+
+Co-authored-by: lalitkumawat1m &lt;lalitkumawat@git.wordpress.org&gt;
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6e754a</div>
+                                        <div class="message">Edit Post: Check for meta box container before adding constraints (#71423)
+
+Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1821bb</div>
+                                        <div class="message">Fix: Randomization in Gallery Block doesn't work when Lightbox is enabled (#71408)
+
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
+Co-authored-by: ramonjd &lt;ramonopoly@git.wordpress.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c68950b</div>
+                                        <div class="message">Accordion Content, Header, Panel: Remove example field (#71407)
+
+Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
+Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
+Co-authored-by: mikachan &lt;mikachan@git.wordpress.org&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">11 Sept 2025, 10:14:15</div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -775,251 +1055,6 @@ Improved capitalization and wording in the roadmap and credits sections for bett
                                 <div class="timestamp">8 Sept 2025, 04:59:18</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">markfulton/NanoBananaEditor</span>
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Sept 2025, 11:07:25</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">mralaminahamed/dokan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a5a0df9</div>
-                                        <div class="message">Fix: Alert message redirecting to old Subscription Page (#2849)
-
-* Fix: Alert message redirecting to old Subscription Page
-
-* Fix: Alert message redirecting to old Subscription Page
-
-* Fix: Alert message redirecting to old Subscription Page
-
-* add: Test cases for the dokan Url
-
-* feat: Auto generate the React url
-
-* fix: Re-add filter hook
-
-* fix: Remove log from the menu generation
-
----------
-
-Co-authored-by: Md Mahbub Rabbani &lt;mahbub.rucse@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#119e4d4</div>
-                                        <div class="message">Merge branch 'release/4.0.7' into develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8aace0</div>
-                                        <div class="message">chore: Release Version 4.0.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#247ea0d</div>
-                                        <div class="message">chore: Release Version 4.0.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6128e11</div>
-                                        <div class="message">fix: restrict user password update to only the vendor user themselves (#2884)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8415924</div>
-                                        <div class="message">Merge branch 'release/4.0.6' into develop</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cfddbcc</div>
-                                        <div class="message">chore: Release Version 4.0.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97105d7</div>
-                                        <div class="message">feat: add CategoryBasedCommissionPure component with hierarchical cat… (#2841)
-
-* feat: add CategoryBasedCommissionPure component with hierarchical category management and commission input handling
-
-* feat: rename CombineInputPure to FixedCommissionInput for clarity and consistency
-
-* feat: refactor components to use lucide-react icons and improve type definitions
-
-* feat: enhance FixedCommissionInput to conditionally render title and description
-
-* feat: optimize className handling in FixedCommissionInput using twMerge
-
-* feat: export additional components including DokanModal, DataViews, and error layouts
-
-* feat: update defaultCommission flat value to zero for consistency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a59a04f</div>
-                                        <div class="message">enhance: Implement vendor default banner, profile image &amp; controls. (#2275)
-
-* enhance: added-necessary-settings-for-vendor-predefined-profile-banner-image
-
-* enhance: add deafult banner &amp; logo image for vendor dashboard settings.
-
-* update: mystery-person image for default profile image
-
-* update: mystry person img
-
-* update: Introduce `get_default_banner`, `get_default_avatar` method in vendor class &amp; use it.
-
-* update: Introduce `get_default_banner`, `get_default_avatar` method in vendor class &amp; use it.
-
-* enhance: add croppable fields for admin settings.
-
-* revert: store form settings
-
-* enhance: handle reactivity of banner image copping options
-
-* update: vendor profile &amp; banner image
-
-* enhance: update vendor default banner and profile image options.
-
-* enhance: improve default store banner and profile image handling
-
-* enhance: add default store banner image when no vendor banner is set
-
-* enhance: remove unused VendorUtil import from Settings.php
-
-* fix: correct banner display logic in store header
-
-* refactor: remove unnecessary error logging in store header
-
----------
-
-Co-authored-by: devianadim9 &lt;devinadim@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18a7a9c</div>
-                                        <div class="message">enhance: Add documentation for Stripe Express Sandbox Mode and (#2769)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e86624</div>
-                                        <div class="message">fix: conditionally hide commission metabox for advertisement product orders (#2786)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ee7fb4</div>
-                                        <div class="message">Added translation support for dashboard analytics report scripts (#2791)
-
-* Remove React lazy loading from dashboard components
-
-* Refactor lazy loading for Leaderboards component
-
-* fix: restore StorePerformance import in default-sections.js
-
-* Lazy load dashboard components for improved performance
-
-* Add analytics script chunk registration and translation
-
-Introduces get_analytics_chunks() to manage analytics script chunks, registers each chunk as a separate script, and sets up translation support for all analytics-related scripts. This improves modularity and translation handling for analytics assets.
-
-* Move script translations call for analytics chunks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c625510</div>
-                                        <div class="message">Fix: Admin not receiving withdrawal request email notifications (#2844)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2f9410</div>
-                                        <div class="message">Added async search in store category in vendor edit. (#2850)
-
-* enhance: add async search functionality to store category selection
-
-* enhance: add async search functionality to store category selection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7529786</div>
-                                        <div class="message">Add Mixin to AdminNotice component (#2880)
-
-* Add Mixin to AdminNotice component
-
-Imported and applied the Mixin utility to the AdminNotice Vue component to enhance its functionality.
-
-* Add Playwright tests for admin dashboard notices
-
-Introduces Playwright page object and E2E tests for verifying admin dashboard notices. Refactors dashboard root rendering logic for safer DOM access. Tests cover dashboard rendering, notice count, and visible notice titles.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1f1f01</div>
-                                        <div class="message">enhance: Update webpack configuration for Dokan dependency packages external loads. (#2881)
-
-* enhance: Update webpack configuration for Dokan dependency mapping
-
-* enhance: Update webpack configuration for Dokan dependency mapping
-
-* enhance: Update comments for React utilities and hooks registration in Assets.php
-
-* enhance: Refactor import statements and improve code formatting in Bootstrap.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f10ddc1</div>
-                                        <div class="message">enhance: Update README.md for Dokan development setup and guidelines (#2779)
-
-* enhance: Update README and package.json for improved developer setup instructions.
-
-* enhance: Revise README for clarity and improved contribution guidelines
-
-* enhance: Update README to include detailed developer documentation and source file structure</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f754ca0</div>
-                                        <div class="message">fix: remove unnecessary margin from dokan-layout (#2848)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0a9dca</div>
-                                        <div class="message">🧩 enhance: Close button visibility support for DokanModal component (#2792)
-
-* enhance: Close button visibility support for DokanModal component
-
-* refactor: Renamced Dokan modal prop name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3374b95</div>
-                                        <div class="message">Dokan RichText Component (#2833)
-
-* feat: add RichText component with Quill.js integration for rich text editing
-
-* feat: enhance RichText component with TypeScript support and improved prop handling
-
-* feat: add advanced usage section and ref forwarding to RichText component
-
-* feat: add internal change tracking to RichText component for improved value synchronization
-
-* feat: update package.json with new dependencies and versioning adjustments
-
-* feat: update package.json to streamline dependencies and improve project structure
-
-* feat: add Quill as a dependency for enhanced rich text editing capabilities
-
-* feat: enhance video embedding in RichText component with styling attributes
-
-* feat: localize media selection titles in RichText component
-
-* feat: add localization support for media uploader in RichText component
-
-* feat: add HTML sanitization for media embedding in RichText component</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">6 Sept 2025, 10:52:45</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1113,7 +1148,7 @@ Introduces Playwright page object and E2E tests for verifying admin dashboard no
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2025, 13:19:29 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Sept 2025, 14:49:03 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
