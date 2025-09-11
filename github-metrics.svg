@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.35mb of code in 1652 edited files across 345 commits over last 14 days</small>
+                <small>estimation from 4.27mb of code in 1904 edited files across 344 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.148908771738" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="275.148908771738" y="0" width="219.07034052377276" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="494.2192492955108" y="0" width="169.64394499026494" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="663.8631942857758" y="0" width="96.62909546430876" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="760.4922897500845" y="0" width="94.99861461739845" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="855.490904367483" y="0" width="58.567061161955195" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="914.0579655294382" y="0" width="3.2575227677000735" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="917.3154882971382" y="0" width="2.684511702861831" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.08283687366446" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="285.08283687366446" y="0" width="199.81688843963042" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="484.8997253132949" y="0" width="175.7687403237566" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="660.6684656370516" y="0" width="98.28055998520546" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="758.949025622257" y="0" width="94.2640729735199" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="853.2130985957768" y="0" width="60.63033675989748" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="913.8434353556743" y="0" width="3.3751318002387656" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="917.2185671559131" y="0" width="2.781432844086974" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -267,15 +267,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Hack
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Hack
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1148,7 +1148,7 @@ Improved capitalization and wording in the roadmap and credits sections for bett
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2025, 17:23:09 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Sept 2025, 18:30:02 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
