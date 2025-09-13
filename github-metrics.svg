@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.35mb of code in 1414 edited files across 296 commits over last 14 days</small>
+                <small>estimation from 4.19mb of code in 1731 edited files across 298 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.9537087000375" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="295.9537087000375" y="0" width="234.00166855614935" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="529.9553772561868" y="0" width="173.2434277506186" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="703.1988050068054" y="0" width="87.20401249379977" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="790.4028175006051" y="0" width="79.29939591824359" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="869.7022134188487" y="0" width="44.2730008001679" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="913.9752142190166" y="0" width="3.302888421347854" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="917.2781026403645" y="0" width="2.721897359635438" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.3652632259204" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="433.3652632259204" y="0" width="225.20533706152148" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="658.5706002874418" y="0" width="101.47318043757059" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="760.0437807250124" y="0" width="76.08949836027077" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="836.1332790852831" y="0" width="44.33414614388294" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="880.4674252291661" y="0" width="33.74498137271232" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="914.2124066018785" y="0" width="3.17285558641141" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="917.3852621882899" y="0" width="2.614737811710115" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -258,12 +258,6 @@
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TSX
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -282,6 +276,12 @@
                             <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         SCSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TSX
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1148,7 +1148,7 @@ Improved capitalization and wording in the roadmap and credits sections for bett
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2025, 17:20:30 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2025, 18:25:33 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
