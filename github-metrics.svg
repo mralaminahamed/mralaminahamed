@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1137" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1767" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.string{color:#2777aa}.token.property,.token.tag{color:#48428a}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.78mb of code in 1291 edited files across 348 commits over last 11 days</small>
+                <small>estimation from 4.15mb of code in 1489 edited files across 383 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.6360750996312" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="438.6360750996312" y="0" width="191.84612264057998" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="630.4821977402113" y="0" width="122.81950859542673" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="753.301706335638" y="0" width="64.59561989649558" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="817.8973262321335" y="0" width="53.89135318810259" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="871.7886794202361" y="0" width="43.436254368223096" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="915.2249337884591" y="0" width="2.6935724096364595" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="917.9185061980955" y="0" width="2.0814938019043425" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="392.973044445029" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="392.973044445029" y="0" width="252.4948529829162" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="645.4678974279452" y="0" width="111.26449783527607" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="756.7323952632213" y="0" width="59.34641536393253" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="816.0788106271538" y="0" width="56.42788014892082" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="872.5066907760746" y="0" width="39.977404352708085" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="912.4840951287827" y="0" width="4.624755802249319" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="917.108850931032" y="0" width="2.891149068967952" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,9 +285,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Vue
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -475,6 +475,1464 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 301 commits in
+                                        <span class="repo">mralaminahamed/elementor</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#930461f</div>
+                                        <div class="message">Internal: Use Logical Properties in Elementor Editor [ED-20292] (#32123)
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+
+Purpose: Replace directional CSS properties with logical properties
+throughout the Elementor editor for better RTL language support and
+layout flexibility.
+
+Main changes:
+- Replaced physical positioning properties (top/bottom/left/right) with
+logical equivalents (inset-block-start/end, inset-inline-start/end)
+- Updated the absolute-center mixin to use logical properties with
+direction multiplier for RTL support
+- Converted margin/padding directional properties to their logical
+counterparts (margin-block-end instead of margin-bottom)
+- Migrated border positioning (border-top-color →
+border-block-start-color) for consistent bidirectional rendering
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3592147</div>
+                                        <div class="message">Internal: Use Logical Properties in Kit Library [ED-20304] (#32127)
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Update Kit Library components to use CSS logical properties for
+better RTL language support and more consistent directionality handling.
+Main changes:
+- Replaced 'top/left' with 'inset-block-start/inset-inline-start' in
+kit-list-item component
+- Updated transform translateX to use 'direction-multiplier' variable
+for proper RTL support
+- Replaced 'top' with 'inset-block-start' in index layout sticky
+positioning
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7efd5d3</div>
+                                        <div class="message">Internal: Use Logical Properties in Elementor Preview [ED-20302] (#32124)
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Replace traditional directional properties with logical
+properties in Elementor preview to improve RTL support and layout
+consistency.
+Main changes:
+- Replaced top/bottom/left/right with inset shorthand in element
+overlays and tooltips
+- Used inset-block-start to replace top property for direction-aware
+positioning
+- Applied inset-inline-start for horizontal positioning to improve RTL
+support
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a619cbb</div>
+                                        <div class="message">Tweak: Add templates customization to the import process [ED-20042] (#32099)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d7c6de</div>
+                                        <div class="message">Internal: Use Logical Properties in Elementor Import Export [ED-20303] (#32125)
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Update CSS properties in Import/Export module to use logical
+properties for improved RTL support and better internationalization.
+Main changes:
+- Replaced `margin-top` with `margin-block-start` in export kit error
+container
+- Replaced `top` with `inset-block-start` in wizard step notice for
+sticky positioning
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab89c54</div>
+                                        <div class="message">Revert "Internal: Update top menu with connect link [ED-20191]" (#32116)
+
+This PR automatically reverts commit
+b1d4e618d9c50f1b37d9ad01e19bb6ee1c3e092e due to Playwright test
+failures.
+
+**Reverted commit:** b1d4e618d9c50f1b37d9ad01e19bb6ee1c3e092e
+**Original author:** Nikita (Mykyta)
+**Branch:** main
+**Failed workflow:**
+https://github.com/elementor/elementor/actions/runs/16704768900
+
+**Original commit message:**
+```
+Internal: Update top menu with connect link [ED-20191]
+```
+
+This revert commit was created automatically using `git revert` because
+the Playwright tests failed after the original commit was pushed to
+main.
+
+The 'run-tests' label has been added to trigger tests on this revert PR.
+
+[ED-20191]:
+https://elementor.atlassian.net/browse/ED-20191?atlOrigin=eyJpIjoiNWRkNTljNzYxNjVmNDY3MDlhMDU5Y2ZhYzA5YTRkZjUiLCJwIjoiZ2l0aHViLWNvbS1KU1cifQ
+
+Co-authored-by: Nikita (Mykyta) &lt;134918658+mykytamurzin@users.noreply.github.com&gt;
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a23e94</div>
+                                        <div class="message">Internal: Make publish packages work (#32129)
+
+## PR Checklist
+&lt;!-- 
+Please check if your PR fulfills the following requirements:
+**Filling out the template is required.** Any pull request that does not
+include enough information to be reviewed in a timely manner may be
+closed at the maintainers' discretion.
+ --&gt;
+- [ ] The commit message follows our guidelines:
+https://github.com/elementor/elementor/blob/master/.github/CONTRIBUTING.md
+
+
+## PR Type
+What kind of change does this PR introduce?
+&lt;!-- Please check the one that applies to this PR using "x" with no
+spaces eg: [x]. --&gt;
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, local variables)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] CI related changes
+- [ ] Documentation content changes
+- [ ] Other... Please describe:
+
+## Summary
+
+This PR can be summarized in the following changelog entry:
+
+*
+
+## Description
+An explanation of what is done in this PR
+
+*
+
+## Test instructions
+This PR can be tested by following these steps:
+
+*
+
+## Quality assurance
+
+- [ ] I have tested this code to the best of my abilities
+- [ ] I have added unittests to verify the code works as intended
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+Fixes #
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Fix package publishing workflow by updating npm authentication
+and GitHub Action configurations to properly handle npm token
+authentication.
+Main changes:
+- Replaced NPM_TOKEN with NODE_AUTH_TOKEN to align with
+actions/setup-node best practices
+- Added registry-url to GitHub Actions setup-node configuration for npm
+registry authentication
+- Removed manual npm config setting code that was causing authentication
+failures
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1d4e61</div>
+                                        <div class="message">Internal: Update top menu with connect link [ED-20191]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b850f6</div>
+                                        <div class="message">Fix: Respect reduced motion preferences in entrance/exit Animations [ED-20284] (#32093)
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Fix animation behavior to respect user preference for reduced
+motion to improve accessibility for users with motion sensitivity.
+Main changes:
+- Added !important flag to animation:none rule for consistent behavior
+across all elements
+- Updated comment to better explain the purpose of the reduced motion
+media query
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+---------
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36d21c9</div>
+                                        <div class="message">Internal: Remove wunderwp plugin from plugin tester [ED-20295] (#32110)
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Remove wunderwp plugin from the plugin tester list in
+Playwright sanity tests to streamline test dependencies.
+Main changes:
+- Removed wunderwp entry from pluginList array in
+plugin-tester-generator.ts
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcf9726</div>
+                                        <div class="message">Internal: [V4] Use new repeater for background overlay [ED-20252]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea27fdd</div>
+                                        <div class="message">Internal: Use original value when creating a new variable [ED-19822] (#32084)
+
+## PR Checklist
+&lt;!-- 
+Please check if your PR fulfills the following requirements:
+**Filling out the template is required.** Any pull request that does not
+include enough information to be reviewed in a timely manner may be
+closed at the maintainers' discretion.
+ --&gt;
+- [ ] The commit message follows our guidelines:
+https://github.com/elementor/elementor/blob/master/.github/CONTRIBUTING.md
+
+
+## PR Type
+What kind of change does this PR introduce?
+&lt;!-- Please check the one that applies to this PR using "x" with no
+spaces eg: [x]. --&gt;
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, local variables)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] CI related changes
+- [ ] Documentation content changes
+- [ ] Other... Please describe:
+
+## Summary
+
+This PR can be summarized in the following changelog entry:
+
+*
+
+## Description
+An explanation of what is done in this PR
+
+*
+
+## Test instructions
+This PR can be tested by following these steps:
+
+*
+
+## Quality assurance
+
+- [ ] I have tested this code to the best of my abilities
+- [ ] I have added unittests to verify the code works as intended
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+Fixes #
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Add original property value initialization when creating a new
+variable to improve user experience in the editor.
+Main changes:
+- Created new useInitialValue hook to extract and return current
+property value or variable value
+- Updated VariableCreation component to initialize with current property
+value instead of empty string
+- Added comprehensive test coverage for the useInitialValue hook
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+---------
+
+Co-authored-by: Batsirai Muchareva &lt;162136788+Batsirai-muchareva@users.noreply.github.com&gt;
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41fa2f6</div>
+                                        <div class="message">Fix: Duration field not showing for most transition properties [ED-20285] (#32103)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f73999</div>
+                                        <div class="message">Internal: Trigger packages npm publish (#32096)
+
+## PR Checklist
+&lt;!-- 
+Please check if your PR fulfills the following requirements:
+**Filling out the template is required.** Any pull request that does not
+include enough information to be reviewed in a timely manner may be
+closed at the maintainers' discretion.
+ --&gt;
+- [ ] The commit message follows our guidelines:
+https://github.com/elementor/elementor/blob/master/.github/CONTRIBUTING.md
+
+
+## PR Type
+What kind of change does this PR introduce?
+&lt;!-- Please check the one that applies to this PR using "x" with no
+spaces eg: [x]. --&gt;
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, local variables)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] CI related changes
+- [ ] Documentation content changes
+- [ ] Other... Please describe:
+
+## Summary
+
+This PR can be summarized in the following changelog entry:
+
+*
+
+## Description
+An explanation of what is done in this PR
+
+*
+
+## Test instructions
+This PR can be tested by following these steps:
+
+*
+
+## Quality assurance
+
+- [ ] I have tested this code to the best of my abilities
+- [ ] I have added unittests to verify the code works as intended
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+Fixes #
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Update usePropVariableAction test fixtures to include
+MockStartIcon implementation for variable type objects.
+Main changes:
+- Added MockStartIcon component definition for testing variable type
+configurations
+- Updated variable type mock objects to include startIcon property in
+test cases
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4f1a566</div>
+                                        <div class="message">Internal: Use token if exists for publish (#32092)
+
+## PR Checklist
+&lt;!-- 
+Please check if your PR fulfills the following requirements:
+**Filling out the template is required.** Any pull request that does not
+include enough information to be reviewed in a timely manner may be
+closed at the maintainers' discretion.
+ --&gt;
+- [ ] The commit message follows our guidelines:
+https://github.com/elementor/elementor/blob/master/.github/CONTRIBUTING.md
+
+
+## PR Type
+What kind of change does this PR introduce?
+&lt;!-- Please check the one that applies to this PR using "x" with no
+spaces eg: [x]. --&gt;
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, local variables)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] CI related changes
+- [ ] Documentation content changes
+- [ ] Other... Please describe:
+
+## Summary
+
+This PR can be summarized in the following changelog entry:
+
+*
+
+## Description
+An explanation of what is done in this PR
+
+*
+
+## Test instructions
+This PR can be tested by following these steps:
+
+*
+
+## Quality assurance
+
+- [ ] I have tested this code to the best of my abilities
+- [ ] I have added unittests to verify the code works as intended
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+Fixes #
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Add NPM token authentication support to the package publishing
+process for automated CI/CD deployments.
+Main changes:
+- Added NPM token configuration when environment variable NPM_TOKEN is
+available
+- Fixed syntax errors in execSync usage for npm commands
+- Improved code formatting with consistent whitespace in package
+publishing functions
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+---------
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;
+Co-authored-by: Batsirai Muchareva &lt;batsiraim@elementor.red&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3300c6b</div>
+                                        <div class="message">Internal: Update Playwright to the latest version [ED-18036] (#32074)
+
+## PR Checklist
+&lt;!-- 
+Please check if your PR fulfills the following requirements:
+**Filling out the template is required.** Any pull request that does not
+include enough information to be reviewed in a timely manner may be
+closed at the maintainers' discretion.
+ --&gt;
+- [ ] The commit message follows our guidelines:
+https://github.com/elementor/elementor/blob/master/.github/CONTRIBUTING.md
+
+
+## PR Type
+What kind of change does this PR introduce?
+&lt;!-- Please check the one that applies to this PR using "x" with no
+spaces eg: [x]. --&gt;
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, local variables)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] CI related changes
+- [ ] Documentation content changes
+- [ ] Other... Please describe:
+
+## Summary
+
+This PR can be summarized in the following changelog entry:
+
+*
+
+## Description
+An explanation of what is done in this PR
+
+*
+
+## Test instructions
+This PR can be tested by following these steps:
+
+*
+
+## Quality assurance
+
+- [ ] I have tested this code to the best of my abilities
+- [ ] I have added unittests to verify the code works as intended
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+Fixes #
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Update Playwright testing framework from version 1.49.1 to
+1.54.1 and enhance test stability with improved assertions.
+
+Main changes:
+- Downgraded Playwright from 1.49.1 to 1.54.1 in package.json
+- Added 'await' to expect assertions for proper async handling in widget
+tests
+- Added 'waitForLoadState' calls to ensure stable test execution after
+search operations
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+---------
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ab3f45</div>
+                                        <div class="message">Internal: Create Variables Manager Button and structure [ED-19861] (#32063)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ebe06c</div>
+                                        <div class="message">Fix: Published global classes doesn't work in preview [ED-20272] (#32082)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f7dde1</div>
+                                        <div class="message">Internal: Token usage in publish [ED-19666] (#32081)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b59c80</div>
+                                        <div class="message">Internal: Align packages version [ED-19666] (#32075)
+
+## PR Checklist
+&lt;!-- 
+Please check if your PR fulfills the following requirements:
+**Filling out the template is required.** Any pull request that does not
+include enough information to be reviewed in a timely manner may be
+closed at the maintainers' discretion.
+ --&gt;
+- [ ] The commit message follows our guidelines:
+https://github.com/elementor/elementor/blob/master/.github/CONTRIBUTING.md
+
+
+## PR Type
+What kind of change does this PR introduce?
+&lt;!-- Please check the one that applies to this PR using "x" with no
+spaces eg: [x]. --&gt;
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, local variables)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] CI related changes
+- [ ] Documentation content changes
+- [ ] Other... Please describe:
+
+## Summary
+
+This PR can be summarized in the following changelog entry:
+
+*
+
+## Description
+An explanation of what is done in this PR
+
+*
+
+## Test instructions
+This PR can be tested by following these steps:
+
+*
+
+## Quality assurance
+
+- [ ] I have tested this code to the best of my abilities
+- [ ] I have added unittests to verify the code works as intended
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+Fixes #
+
+&lt;!--start_gitstream_placeholder--&gt;
+### ✨ PR Description
+Purpose: Update package versions to 3.32.0 and modify NPM token
+configuration in the publish workflow for better package management.
+
+Main changes:
+- Standardized all package versions to 3.32.0 across core and library
+packages
+- Updated NPM_TOKEN environment variable name to NPMJS_TOKEN in the
+publish workflow
+- Modified working-directory configuration in GitHub workflow for proper
+dependency installation
+
+_Generated by LinearB AI and added by gitStream._
+&lt;sub&gt;AI-generated content may contain inaccuracies. Please verify before
+using. **[We'd love your feedback!](mailto:product@linearb.io)** 🚀&lt;/sub&gt;
+&lt;!--end_gitstream_placeholder--&gt;
+
+Co-authored-by: ElementorBot &lt;48412871+elementorbot@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Sept 2025, 12:58:26</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">mralaminahamed/divi5-official-example-modules</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#98fa877</div>
+                                        <div class="message">Merge pull request #51 from elegantthemes/44955-add-automated-json-generation-for-conversion-outline
+
+feat(D5): Added automated JSON generation for conversion outline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a73864c</div>
+                                        <div class="message">Merge branch 'main' into 44955-add-automated-json-generation-for-conversion-outline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc2f159</div>
+                                        <div class="message">Merge pull request #50 from elegantthemes/44845-static-module-show-placeholder-content-on-empty
+
+Static Module :: New Summary field that force to show placeholder text on empty</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e22e8bb</div>
+                                        <div class="message">fix(Static Module, Summary Field): Remove placeholder content from initial value.
+
+### What is the problem?
+
+I forgot to remove the placeholder content from the Summary field initial value. It shouldn't be there.
+
+### Why does the problem happen?
+
+The placeholder value on the field and placeholder content are 2 different concept.
+
+**Placeholder value** is the default value that we want to display on the **field setting** when the field is "empty". For example, if you go to Title Text Size field option, the `26px` there is default value and displayed as placeholder of the input field.
+
+**Placeholder content** is basically the initial value that will be used when the module is initially added. For example, if you add Audio module, "Your Title Goes Here" text is automatically used on Title text. Here, the "Your Title Goes Here" text is field value, not placeholder (default) value. User can enable disable this behavior by disabling "Add Placeholder Content To New Modules" on the Builder settings.
+
+So, we just need to define the "default value a.k.a. placeholder value" here, not "placeholder content". So, if I remove this one it should works as I explained below.
+
+Right now the Summary field has "This is a brief summary that provides an overview of the content below. It can span multiple lines to give readers a comprehensive understanding of what to expect in the main content section." text as default value that will be displayed as placeholder text.
+
+### How the fix works
+
+The goal of this PR is to display the placeholder value on the **Summary field on Static Module settings**  when the value is "empty":
+- Visually or user perspective, the "empty" here means there is no value set on the field.
+- Technically, the "empty" here means either:
+  - The value is set as empty string
+  - The value is reset which means we're back to use the default value (not just empty string).
+
+**Illustration of set empty string**
+
+The "value" is just empty string "".
+
+```
+attrs: {
+  "summary": {
+  "innerContent": {
+    "desktop": {
+      "value": ""
+    }
+  }
+},
+```
+
+**Illustration of reset field (remove attribute)**
+
+The "value" is back to default value.
+
+```
+attrs: {
+  "summary": {
+  "innerContent": {
+    "desktop": {
+      "value": "This is a brief summary that provides an overview of the content below. It can span multiple lines to give readers a comprehensive understanding of what to expect in the main content section."
+    }
+  }
+},
+```
+
+Here the latest video:
+
+https://github.com/user-attachments/assets/cca08644-4e0e-41fd-9873-5683a119c225
+
+In the video above, I do some steps:
+
+**Add Static Module**
+
+When I add the Static module, the "default value" is displayed as "placeholder value" on the Text area of Summary field. The rendered module also display the "default value" in the VB layout.
+
+**Reset Field Value (Back to Default)**
+
+Next, I set certain value, then I reset the field. Since reset means back to default value, now the Text area field shows the "default value" as placeholder again and the rendered module also display the "default value" in the VB layout, just like when we add the Static module.
+
+**Delete Field Value (Empty String)**
+
+Finally, I set certain value again, but this time I will delete the value on the field. Since delete means we will set the value as empty string (not reset to use the default value), the Text area field will also show the "default value" as placeholder again, but the rendered module will display the empty string in the VB layout.
+
+Why this happen? Because the `showPlaceholderOnEmpty` is a property of the Text area component to show default value as placeholder when the field is empty. This property doesn't have any correlation with the rendered element. So, this is expected behavior.
+
+How if 3P devs want to change the behavior where they want to display? They can simply modify the module attribute like this:
+
+```
+  // When summary is reset, placeholder is displayed since reset restores default value.
+  // When summary is empty, placeholder is hidden since empty string indicates intentional user action.
+  // To modify this behavior, developers can update the summary attribute with a default value during module render.
+  if ('' === attrs?.summary?.innerContent?.desktop?.value) {
+    elements.attrs = {
+      ...elements.attrs,
+      summary: {
+        ...elements.attrs.summary,
+        innerContent: {
+          desktop: {
+            value: staticMetadata?.attributes?.summary?.default?.innerContent?.desktop?.value ?? '',
+          },
+        },
+      },
+    };
+  }
+```
+
+The code above will make the rendered module layout display the default value when the value is empty.
+
+https://github.com/user-attachments/assets/48a4a9ce-74f2-41cd-9fc4-8e2c2778156e
+
+However, since that is not D5 default behavior on how empty string works, the code will be added only as comment in case 3P devs want to use the same approach.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#019d671</div>
+                                        <div class="message">fix(D5): Addressed GitHub Copilot review comments
+
+Improved webpack plugin implementation based on code review feedback:
+
+Race Condition Fixes:
+- Replaced forEach with Promise.all() and async/await pattern to prevent
+  race conditions when processing multiple conversion outline files
+- Ensured single callback execution to webpack compiler preventing
+  multiple completion signals
+
+Async Operations:
+- Changed from fs.writeFileSync to fs.promises.writeFile for consistency
+  with async pattern and to prevent blocking the event loop
+- Added proper error propagation through Promise.all catch chain
+
+Code Quality Improvements:
+- Replaced fragile element.type.includes('Literal') with explicit array
+  of valid literal types for more robust AST node type checking
+- Extracted firstDefined() utility function to reduce code duplication
+  in extractArrayElements and extractValue functions
+
+All functionality preserved while making the code more robust, performant,
+and maintainable for production use.
+
+Ref: elegantthemes/Divi#44955</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f1e784b</div>
+                                        <div class="message">feat(D5): Added automated JSON generation for conversion outline
+
+Implemented ConversionOutlineJsonPlugin webpack plugin to automatically
+generate conversion-outline.json files from conversion-outline.ts files
+during build processes (npm run start/build/zip). This ensures consistency
+between Divi 5 core modules and extension modules by providing the same
+automated build workflow.
+
+Added glob and jscodeshift dependencies to enable TypeScript AST parsing
+and file discovery. Created webpack/config/plugins directory following
+Divi 5 core patterns with conversion-outline-json-plugin.js and
+extract-static-properties.js helper. Updated webpack.config.js to
+integrate the plugin into the build pipeline.
+
+The generated JSON files include the required header comment and match
+the exact format used by Divi 5 core modules, enabling proper module
+conversion and backward compatibility.
+
+Fixes: elegantthemes/Divi#44955</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dddb40</div>
+                                        <div class="message">feat(Static Module, New Summary Field): force to show placeholder text whenever the value is empty by setting the default value. Part of elegantthemes/Divi#44845.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9783c9c</div>
+                                        <div class="message">feat(Static Module, New Summary Field): introduce new Summary field along with the settings, placeholder content, and style. Part of elegantthemes/Divi#44845.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e706089</div>
+                                        <div class="message">Merge pull request #45 from elegantthemes/42110-d5-placeholder-content-module-utils
+
+D5 :: Example Modules :: Fix fatal error due to missing `placeholderContent`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd1f396</div>
+                                        <div class="message">fix(D5, Example Modules, Placeholder Content): use `@divi/module-utils` to import `placeholderContent`.
+
+Recently, we just move the `placeholderContent` from `module` to `module-utils` package. This causes a fatal error on console log when it's being used by example and third-party modules. This issue happens due to the `divi-types` is not updated yet, so the `placeholderContent` is still in `module` package instead of `module-utils` package.
+
+Despite we can simply update the import, the error still exists on build when we run `npm run start`. So, we need to update our `divi-types` fully to make sure we can fix the issue. For note, I added quick note on readme file to make anyone who use this plugin know the error.
+
+Part of elegantthemes/Divi#42110.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b75f55</div>
+                                        <div class="message">Merge pull request #41 from elegantthemes/41608-d5-dynamic-module-auto-generated-settings
+
+D5 :: Dynamic Module :: Convert the module settings into Auto Generated module settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c340163</div>
+                                        <div class="message">fix(D5, Parent Module, Settings): fix incorrect class names. Part of elegantthemes/Divi#41608.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83bcacf</div>
+                                        <div class="message">fix(D5, Dynamic Module, Settings): update style and scripts bundle to make sure the plugin contains the latest built. Part of elegantthemes/Divi#41608.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27457be</div>
+                                        <div class="message">fix(D5, Dynamic Module, Settings): disable responsive and hover states on Number of Posts field. Part of elegantthemes/Divi#41608.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bab4cc</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into 41608-d5-dynamic-module-auto-generated-settings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91de291</div>
+                                        <div class="message">fix(D5, Dynamic Module, Settings): convert the settings-advanced.tsx file of Dynamic Module into auto generated module settings.
+
+### Convert Advanced Panel Into Auto Generated Module Settings
+
+There are some actions needed to make sure we can properly convert all the module settings inside the `settings-advanced.tsx` file of Dynamic Module into auto generated module settings.
+
+#### Enable Auto Generated Module Settings on Advanced Panel
+
+First, we need to enable auto generated module settings on Advanced panel by defining `advanced: 'auto'` in the `settings` of the `module.json` file.
+
+```
+"settings": {
+  "advanced": "auto"
+}
+```
+
+The code above will make all the module settings inside Advanced panel are generated automatically. Since, we don't do any conversion yet on the `settings-advanced.tsx` file, you will see Advanced panel is empty or throw error now.
+
+#### Converting The `settings-advanced.tsx` File
+
+Now, let's move to the `settings-advanced.tsx` file and convert each settings one by one.
+
+**CSS ID &amp; Classes Group**
+
+Original code:
+
+```
+&lt;IdClassesGroup /&gt;
+```
+
+CSS ID &amp; Classes group including their fields are basically built-in module settings and commonly used. They will be converted by enabling the settings on module level attribute and the definition will be declared in `attributes.module.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "module": {
+    "settings": {
+      "advanced": {
+        "htmlAttributes": {},
+        // ... other `optionAttributes` ...
+      },
+      // ... other `elementPart` ...
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add CSS ID &amp; Classes group and their related fields to the Advanced panel.
+
+**Custom CSS Group**
+
+Original code:
+
+```
+&lt;CssGroup
+  mainSelector=".example_dynamic_module"
+/&gt;
+```
+
+Custom CSS group including their fields are basically built-in module settings and commonly used. They will be converted by enabling the settings on metadata level attribute and the definition will be declared with `customCssFields: {}` of the `module.json` file:
+
+```
+"customCssFields": {},
+// ... other module metadata properties ...
+```
+
+**Visibility, Transition, Position, and Scroll Settings Groups**
+
+Original code:
+
+```
+&lt;VisibilitySettingsGroup /&gt;
+&lt;TransitionGroup /&gt;
+&lt;PositionSettingsGroup /&gt;
+&lt;ScrollSettingsGroup /&gt;
+```
+
+Visibility, transition, position, and scroll settings fields are basically built-in module settings and commonly used. They will be converted by enabling the settings on module level attribute and the definition will be declared in `attributes.module.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "module": {
+    "settings": {
+      "decoration": {
+        "overflow": {},
+        "disabledOn": {},
+        "transition": {},
+        "position": {},
+        "zIndex": {},
+        "scroll": {},
+        "sticky": {},
+        // ... other `optionAttributes` ...
+      },
+      // ... other `elementPart` ...
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add visibility, transition, position, and scroll settings groups and their related fields to the Advanced panel.
+
+#### Remove Unused Code and File
+
+Once we convert all the module settings inside the `settings-advanced.tsx` file, we can safely remove the unused code and file.
+
+In the `d5-extension-example-modules/src/components/dynamic-module/index.ts`:
+- We can remove the `advanced` property of the `dynamicModule.settings`.
+- Then, we can remove the `import { SettingsAdvanced } from './settings-advanced';` as well.
+
+Finally, we can remove the `d5-extension-example-modules/src/components/dynamic-module/settings-advanced.tsx` file since we already convert it.
+
+**Note**: The `&lt;AttributesGroup /&gt;` is related to the button element for handling the `rel` HTML tag value. Meanwhile, the Dynamic Module doesn't have any button element and the `attributes` value is not being uesd here. So, we won't convert `&lt;AttributesGroup /&gt;` and we will remove it.
+
+Part of elegantthemes/Divi#41608.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d31dba7</div>
+                                        <div class="message">fix(D5, Dynamic Module, Settings): convert the settings-design.tsx file of Dynamic Module into auto generated module settings.
+
+Initially, all the module settings inside the `settings-design.tsx` file of Dynamic Module were generated manually with composable approach. In order to simplify the module creation and make sure those module settings are filterable for 3PS, we need to convert them into auto generated module settings.
+
+### Convert Design Panel Into Auto Generated Module Settings
+
+There are some actions needed to make sure we can properly convert all the module settings inside the `settings-design.tsx` file of Dynamic Module into auto generated module settings.
+
+#### Enable Auto Generated Module Settings on Design Panel
+
+First, we need to enable auto generated module settings on Design panel by defining `design: 'auto'` in the `settings` of the `module.json` file.
+
+```
+"settings": {
+  "design": "auto"
+}
+```
+
+The code above will make all the module settings inside Design panel are generated automatically. Since, we don't do any conversion yet on the `settings-design.tsx` file, you will see Design panel is empty or throw error now.
+
+#### Converting The `settings-design.tsx` File
+
+Now, let's move to the `settings-design.tsx` file and convert each settings one by one.
+
+**Text Group**
+
+Original code:
+
+```
+&lt;TextGroup
+  defaultGroupAttr={defaultSettingsAttrs?.module?.advanced?.text}
+/&gt;
+```
+
+Text group including their fields are basically built-in module settings and commonly used. They will be converted by enabling the settings on module level attribute and the definition will be declared in `attributes.module.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "module": {
+    "settings": {
+      "advanced": {
+        "text": {},
+        // ... other `optionAttributes` ...
+      },
+      // ... other `elementPart` ...
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add Text group and fields to the Design panel.
+
+**Title Text Group**
+
+Original code:
+
+```
+&lt;FontGroup
+  groupLabel={__('Title Text', 'd5-extension-example-modules')}
+  attrName="title.decoration.font"
+  fieldLabel={__('Title', 'd5-extension-example-modules')}
+  defaultGroupAttr={defaultSettingsAttrs?.title?.decoration?.font?.asMutable({ deep: true }) ?? {}}
+  fields={{
+    headingLevel: {
+      render: true,
+    },
+  }}
+/&gt;
+```
+
+Title Text group including their fields are basically built-in Font module settings and commonly used. They will be converted by enabling the settings on title level attribute and the definition will be declared in `attributes.title.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "title": {
+    "settings": {
+      "decoration": {
+        "font": {
+          "priority": 10,
+          "component": {
+            "props": {
+              "groupLabel": "Title Text",
+              "fieldLabel": "Title"
+            }
+          }
+        }
+      },
+      // ... other `elementPart` ...
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add Title Text group and fields to the Design panel.
+
+**Post Title Text Group**
+
+Original code:
+
+```
+&lt;FontGroup
+  groupLabel={__('Post Title Text', 'd5-extension-example-modules')}
+  attrName="postTitle.decoration.font"
+  fieldLabel={__('Post Title', 'd5-extension-example-modules')}
+  fields={{
+    headingLevel: {
+      render: true,
+    },
+  }}
+  defaultGroupAttr={defaultSettingsAttrs?.postTitle?.decoration?.font?.asMutable({ deep: true }) ?? {}}
+/&gt;
+```
+
+Post Title Text group including their fields are basically built-in Font module settings and commonly used. They will be converted by enabling the settings on title level attribute and the definition will be declared in `attributes.postTitle.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "postTitle": {
+    "settings": {
+      "decoration": {
+        "font": {
+          "priority": 10,
+          "component": {
+            "props": {
+              "groupLabel": "Post Title Text",
+              "fieldLabel": "Post Title"
+            }
+          }
+        }
+      },
+      // ... other `elementPart` ...
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add Post Title Text group and fields to the Design panel.
+
+**Body Text Group**
+
+Original code:
+
+```
+&lt;FontBodyGroup /&gt;
+```
+
+Body Text group including their fields are basically built-in module settings and commonly used. They will be converted by enabling the settings on module level attribute and the definition will be declared in `attributes.module.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "module": {
+    "settings": {
+      "decoration": {
+        "bodyFont": {}
+      },
+      // ... other `elementPart` ...
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add Body Text group and fields field to the Design panel.
+
+**Sizing, Spacing, Border, Box Shadow, Filters, Transform, and Animation Groups**
+
+Original code:
+
+```
+&lt;SizingGroup /&gt;
+&lt;SpacingGroup
+  defaultGroupAttr={defaultSettingsAttrs?.module?.decoration?.spacing?.asMutable({ deep: true }) ?? {}}
+/&gt;
+&lt;BorderGroup /&gt;
+&lt;BoxShadowGroup /&gt;
+&lt;FiltersGroup /&gt;
+&lt;TransformGroup /&gt;
+&lt;AnimationGroup /&gt;
+```
+
+Sizing, spacing, border, box shadow, filters, transform, and animation groups and their related fields are basically built-in module settings and commonly used. They will be converted by enabling the settings on module level attribute and the definition will be declared in `attributes.module.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "module": {
+    "settings": {
+      "decoration": {
+        "sizing": {},
+        "spacing": {},
+        "border": {},
+        "boxShadow": {},
+        "filters": {},
+        "transform": {},
+        "animation": {},
+        // ... other `optionAttributes` ...
+      },
+      // ... other `elementPart` ...
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add sizing, spacing, border, box shadow, filters, transform, and animation groups and their related felds to the Design panel.
+
+#### Remove Unused Code and File
+
+Once we convert all the module settings inside the `settings-design.tsx` file, we can safely remove the unused code and file.
+
+In the `d5-extension-example-modules/src/components/dynamic-module/index.ts`:
+- We can remove the `design` property of the `dynamicModule.settings`.
+- Then, we can remove the `import { SettingsDesign } from './settings-design';` as well.
+
+Finally, we can remove the `d5-extension-example-modules/src/components/dynamic-module/settings-design.tsx` file since we already convert it.
+
+Part of elegantthemes/Divi#41608.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dca088b</div>
+                                        <div class="message">fix(D5, Dynamic Module, Settings): convert the settings-content.tsx file of Dynamic Module into auto generated module settings.
+
+### Convert Content Panel Into Auto Generated Module Settings
+
+There are some actions needed to make sure we can properly convert all the module settings inside the `settings-content.tsx` file of Dynamic Module into auto generated module settings.
+
+#### Enable Auto Generated Module Settings on Content Panel
+
+First, we need to enable auto generated module settings on Content panel by defining `content: 'auto'` in the `settings` of the `module.json` file.
+
+```
+"settings": {
+  "content": "auto"
+}
+```
+
+The code above will make all the module settings inside Content panel are generated automatically. Since, we don't do any conversion yet on the `settings-content.tsx` file, you will see Content panel is empty or throw error now.
+
+#### Converting The `settings-content.tsx` File
+
+Now, let's move to the `settings-content.tsx` file and convert each settings one by one.
+
+**Posts Group**
+
+Original code:
+
+```
+&lt;GroupContainer
+  id="posts"
+  title={__('Posts', 'd5-extension-example-modules')}
+&gt;
+  {/* ... other code ... */}
+&lt;/GroupContainer&gt;
+```
+
+The Posts group will be converted into a new custom group and the definition will be declared in `settings.groups` of the `module.json` file:
+
+```
+"settings": {
+  "groups": {
+    "contentPosts": {
+      "panel": "content",
+      "priority": 10,
+      "groupName": "contentPosts",
+      "multiElements": true,
+      "component": {
+        "name": "divi/composite",
+        "props": {
+          "groupLabel": "Posts"
+        }
+      }
+    }
+  }
+}
+```
+
+The code above will add Posts group to the Content panel. At this point, the Posts group is still empty and no module settings yet.
+
+**Title Field**
+
+Original code:
+
+```
+&lt;FieldContainer
+  attrName="title.innerContent"
+  label={__('Title', 'd5-extension-example-modules')}
+  description={__('Title to show for module.', 'd5-extension-example-modules')}
+  features={{
+    sticky: false,
+  }}
+&gt;
+  &lt;TextContainer/&gt;
+&lt;/FieldContainer&gt;
+```
+
+The Title field will be converted and the definition will be declared in `attributes.title.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "title": {
+    "settings": {
+      "innerContent": {
+        "groupType": "group-item",
+        "item": {
+          "groupName": "contentPosts",
+          "priority": 10,
+          "render": true,
+          "attrName": "title.innerContent",
+          "label": "Title",
+          "description": "Title to show for module.",
+          "features": {
+            "sticky": false,
+            "dynamicContent": false
+          },
+          "component": {
+            "name": "divi/text",
+            "type": "field"
+          }
+        }
+      }
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add Title field to the Posts group in the Content panel. Please note that since the original code doesn't have dynamic content enabled, we will disable it as well to make sure the result is identical.
+
+**Number of Posts Field**
+
+Original code:
+
+```
+&lt;FieldContainer
+  attrName="postItems.innerContent"
+  subName="postsNumber"
+  label={__('Number of posts', 'd5-extension-example-modules')}
+  description={__('Number of posts you want to show.', 'd5-extension-example-modules')}
+  features={{
+    sticky: false,
+    hover: false,
+    responsive: false,
+  }}
+  defaultAttr={defaultSettingsAttrs?.postItems?.innerContent}
+&gt;
+  &lt;TextContainer /&gt;
+&lt;/FieldContainer&gt;
+```
+
+The Number of Posts field will be converted and the definition will be declared in `attributes.postItems.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "postItems": {
+    "settings": {
+      "innerContent": {
+        "groupType": "group-items",
+        "items": {
+          "src": {
+            "groupSlug": "contentPosts",
+            "priority": 20,
+            "render": true,
+            "subName": "postsNumber",
+            "label": "Number of posts",
+            "description": "Number of posts you want to show.",
+            "features": {
+              "sticky": false,
+              "dynamicContent": false
+            },
+            "component": {
+              "name": "divi/text",
+              "type": "field"
+            }
+          }
+        }
+      }
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add Number of Posts field to the Posts group in the Content panel. Please note that since the original code doesn't have dynamic content enabled, we will disable it as well to make sure the result is identical.
+
+**Link, Background, and Admin Label Groups**
+
+Original code:
+
+```
+&lt;LinkGroup/&gt;
+```
+
+Link, Background, and Admin Label groups including their fields are basically built-in module settings and commonly used. They will be converted by enabling the settings on module level attribute and the definition will be declared in `attributes.module.settings` of the `module.json` file:
+
+```
+"attributes": {
+  "module": {
+    "settings": {
+      "meta": {
+        "adminLabel": {}
+      },
+      "advanced": {
+        "link": {}
+      },
+      "decoration": {
+        "background": {}
+      }
+    },
+    // ... other element properties ...
+  }
+  // ... other `elementAttributes` ...
+}
+// ... other module metadata properties ...
+```
+
+The code above will add Link, Background, and Admin Label groups and their fields to the Content panel.
+
+#### Remove Unused Code and File
+
+Once we convert all the module settings inside the `settings-content.tsx` file, we can safely remove the unused code and file.
+
+In the `d5-extension-example-modules/src/components/dynamic-module/index.ts`:
+- We can remove the `content` property of the `dynamicModule.settings`.
+- Then, we can remove the `import { SettingsContent } from './settings-content';` as well.
+
+Finally, we can remove the `d5-extension-example-modules/src/components/dynamic-module/settings-content.tsx` file since we already convert it.
+
+Part of elegantthemes/Divi#41608.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#425a4af</div>
+                                        <div class="message">feat(D5, Static Module, Settings): introduce some new properties to `module.json` file of Dynamic Module.
+
+### Introduce some new properties to `module.json` file of Dynamic Module.
+
+This is the first step to convert the Manually Generated module settings (composable approach) into Auto Generated module settings in Dynamic Module.
+
+This step will add some new properties:
+- `moduleClassName` to identify current module class name.
+- `moduleOrderClassName` to identify current module order class name.
+- `settings` as a place to set some details for the module settings. This is where we're going to make certain panels into auto generated module settings or adding new groups as needed.
+
+Part of elegantthemes/Divi#41608.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Sept 2025, 12:57:39</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">mralaminahamed/easycommerce-fakerpress</span>
                                     </div>
@@ -529,52 +1987,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">15 Sept 2025, 10:47:17</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/easycommerce-fakerpress</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#621db88</div>
-                                        <div class="message">feat(validation): implement real-time data availability and dependency checks
-
-- Added new REST endpoints for checking data availability and dependencies.
-- Enhanced validation system with user-friendly recommendations and error handling.
-- Updated documentation to reflect new validation features and improved architecture.</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Sept 2025, 07:09:18</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">mralaminahamed/easycommerce-fakerpress</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e094fa8</div>
-                                        <div class="message">feat(validation): add validation endpoints for data availability and dependencies</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">15 Sept 2025, 05:25:26</div>
                             </section>
                         </div>
                     </section>
@@ -670,7 +2082,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2025, 23:22:12 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Sept 2025, 00:22:02 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
