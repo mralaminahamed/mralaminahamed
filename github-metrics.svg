@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1387" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1071" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.boolean{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .chart.largeable{width:458px}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 152 repositories
+                            Contributed to 153 repositories
                         </div>
                     </section>
                 </div>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            143 issue comments
+                            144 issue comments
                         </div>
                     </section>
                     <section>
@@ -231,20 +231,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.73mb of code in 1244 edited files across 340 commits over last 10 days</small>
+                <small>estimation from 3.76mb of code in 1275 edited files across 342 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.786763522136" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="441.786763522136" y="0" width="189.36556788063217" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="631.1523314027681" y="0" width="119.43003435751447" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="750.5823657602826" y="0" width="65.64936487680377" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="816.2317306370863" y="0" width="54.770480023559436" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="871.0022106606458" y="0" width="44.14482772160597" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="915.1470383822518" y="0" width="2.7375125159517033" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="917.8845508982034" y="0" width="2.115449101796407" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.58379582365865" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="439.58379582365865" y="0" width="189.63765372553294" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="629.2214495491916" y="0" width="122.20571647809565" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="751.4271660272873" y="0" width="65.32200461572182" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="816.749170643009" y="0" width="54.49736727260225" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="871.2465379156113" y="0" width="43.92469973780168" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="915.1712376534131" y="0" width="2.72386192217035" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="917.8950995755833" y="0" width="2.1049004244166762" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -482,6 +482,31 @@
                                 <div class="details">
                                     <div>on branch <span class="code">trunk</span></div>
                                     <div class="commit">
+                                        <div class="sha">#621db88</div>
+                                        <div class="message">feat(validation): implement real-time data availability and dependency checks
+
+- Added new REST endpoints for checking data availability and dependencies.
+- Enhanced validation system with user-friendly recommendations and error handling.
+- Updated documentation to reflect new validation features and improved architecture.</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">15 Sept 2025, 07:09:18</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">mralaminahamed/easycommerce-fakerpress</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">trunk</span></div>
+                                    <div class="commit">
                                         <div class="sha">#e094fa8</div>
                                         <div class="message">feat(validation): add validation endpoints for data availability and dependencies</div>
                                     </div>
@@ -540,270 +565,6 @@
                                 <div class="timestamp">11 Sept 2025, 10:15:11</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 93 commits in
-                                        <span class="repo">mralaminahamed/gutenberg</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">trunk</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b46df52</div>
-                                        <div class="message">Accordion Panel: Remove unnecessary wrapper div and simplify save  (#71454)
-
-* Accordion Panel: Remove unnecessary wrapper div and simplify save function
-
-* Accordion Panel: Remove experimental styling and typographical props
-
-* Accordion Panel: Remove wrapper div and pass aria prop in blockprops
-
-Co-authored-by: himanshupathak95 &lt;abcd95@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e69c4a</div>
-                                        <div class="message">DataViews: Support hiding the title in Grid layout, with actions available on hover (#71369)
-
-* DataViews Grid: Try a titleless grid with actions available on hover
-
-* Add an explicity is-hovered state to preserve the visibility of the button when popovers are open
-
-* Add transition so that it doesn't feel quite as heavy
-
-* Update stories so that the padding of the body doesn't jump when opening popovers
-
-* Don't force show actions when grid card is selected
-
-* Add changelog entry
-
-* Update comment to refer to actions instead of checkboxes, ensure opacity is set correctly
-
-* Try removing state and using aria-expanded instead
-
-* Add extra renderedMediaField check
-
-* Add tests
-
-* Remove custom story
-
-* Update classname to be a little more specific
-
-* Tidy up some boolean checks
-
-* Add fields package changelog entry
-
-Co-authored-by: andrewserong &lt;andrewserong@git.wordpress.org&gt;
-Co-authored-by: talldan &lt;talldanwp@git.wordpress.org&gt;
-Co-authored-by: oandregal &lt;oandregal@git.wordpress.org&gt;
-Co-authored-by: tellthemachines &lt;isabel_brison@git.wordpress.org&gt;
-Co-authored-by: ramonjd &lt;ramonopoly@git.wordpress.org&gt;
-Co-authored-by: jameskoster &lt;jameskoster@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2646370</div>
-                                        <div class="message">api-fetch: clean up error handling (#71458)
-
-* api-fetch: add unit tests for nonce refresh, reset apiFetch module on each test
-
-* api-fetch: clean up error handling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4aa4723</div>
-                                        <div class="message">DataViews: Fix grid padding values on mobile viewports (#71455)
-
-Co-authored-by: talldan &lt;talldanwp@git.wordpress.org&gt;
-Co-authored-by: oandregal &lt;oandregal@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9458bcd</div>
-                                        <div class="message">DataForm: add description support for the combined fields and show the description in the Card layout (#71380)
-
-Co-authored-by: dinhtungdu &lt;dinhtungdu@git.wordpress.org&gt;
-Co-authored-by: oandregal &lt;oandregal@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95b580e</div>
-                                        <div class="message">fix: prevent accordion toggle button overflow at full width (#71446)
-
-* fix: prevent accordion toggle button overflow at full width
-
-* fix: correct overflow handling in accordion heading and toggle styles
-
-Co-authored-by: R1shabh-Gupta &lt;rishabhwp@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0dbeaef</div>
-                                        <div class="message">Add permission checks to Command Palette commands (#71267)
-
-* fix: add permission check for 'Add Page' command in Command Palette
-
-* feat: add permission check for 'Add Post' command in Command Palette
-
-* feat: add permission check for 'Patterns' command in Command Palette
-
-* fix: use only canCreatePatterns for patterns command visibility
-
-* fix: add permission check for 'Add Page' command in Command Palette
-
-* feat: add permission check for 'Add Post' command in Command Palette
-
-* feat: add permission check for 'Patterns' command in Command Palette
-
-* fix: use only canCreatePatterns for patterns command visibility
-
-* refactor: convert 'Add Post' command to use useCommandLoader pattern
-
-Co-authored-by: R1shabh-Gupta &lt;rishabhwp@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0a0961</div>
-                                        <div class="message">Set the `DateCalendar` and `DateRangeCalendar` as private in storybook. (#71453)
-
-Co-authored-by: juanfra &lt;juanfra@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6938b0b</div>
-                                        <div class="message">refactor: remove unnecessary fields from accordion block.json files (#71441)
-
-Unlinked contributors: dibyajit1234.
-
-Co-authored-by: R1shabh-Gupta &lt;rishabhwp@git.wordpress.org&gt;
-Co-authored-by: shail-mehta &lt;shailu25@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0270f0f</div>
-                                        <div class="message">Group Block variation:remove variation text color. (#71429)
-
-* fix group-example-text-color-attributes
-
-* remove text color
-
-* remove fontSize
-
-Co-authored-by: shimotmk &lt;shimotomoki@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: jasmussen &lt;joen@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62692fb</div>
-                                        <div class="message">api-fetch: Check navigator.onLine to improve failure notices (#71438)
-
-Check navigator.onLine to improve failure notices
-
-When handling a failed request, let api-fetch infer from the value of
-`navigator.onLine` whether the failure likely stems from the fact that
-the user is disconnected from the network.
-
-This still leaves out other kinds of network error, which right now will
-still trigger the fallback "Could not get a valid response from the server"
-messaging. The spec for `Window.fetch` does not prescribe a
-standard error for network errors, meaning that browsers each implement
-their own messaging.
-
-Co-authored-by: mcsf &lt;mcsf@git.wordpress.org&gt;
-Co-authored-by: jsnajdr &lt;jsnajdr@git.wordpress.org&gt;
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: swissspidy &lt;swissspidy@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95bc550</div>
-                                        <div class="message">Fix timezone in Date block (#71430)
-
-Co-authored-by: westonruter &lt;westonruter@git.wordpress.org&gt;
-Co-authored-by: ockham &lt;bernhard-reiter@git.wordpress.org&gt;
-Co-authored-by: carolinan &lt;poena@git.wordpress.org&gt;
-Co-authored-by: ryelle &lt;ryelle@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#983df1f</div>
-                                        <div class="message">Field Types: update storybook (#71440)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a780dd8</div>
-                                        <div class="message">Deps: Bump `framer-motion` to `v11.15.0` (#71442)
-
-* Bump framer-motion to v11.15.0
-
-* Add CHANGELOG entry
-
-* motion() -&gt; motion.create()
-
-* Fix CHANGELOG entry
-
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d528cec</div>
-                                        <div class="message">api-fetch: cleanup and improve unit tests (#71439)
-
-Co-authored-by: jsnajdr &lt;jsnajdr@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba75e35</div>
-                                        <div class="message">RN: Remove `react-test-renderer` dependency (#71422)
-
-* RN tests: Replace react-test-renderer types with RNTL types
-
-* Remove react-test-renderer dependency
-
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddbcc73</div>
-                                        <div class="message">Fix Zoom out should be disabled when Show Template is toggled off (#71361)
-
-* Fix Zoom out should be disabled when Show Template is toggled off
-
-* Update packages/editor/src/components/preview-dropdown/index.js
-
-Co-authored-by: Aki Hamano &lt;54422211+t-hamano@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: lalitkumawat1m &lt;lalitkumawat@git.wordpress.org&gt;
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6e754a</div>
-                                        <div class="message">Edit Post: Check for meta box container before adding constraints (#71423)
-
-Co-authored-by: tyxla &lt;tyxla@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1821bb</div>
-                                        <div class="message">Fix: Randomization in Gallery Block doesn't work when Lightbox is enabled (#71408)
-
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: ramonjd &lt;ramonopoly@git.wordpress.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c68950b</div>
-                                        <div class="message">Accordion Content, Header, Panel: Remove example field (#71407)
-
-Co-authored-by: t-hamano &lt;wildworks@git.wordpress.org&gt;
-Co-authored-by: Mamaduka &lt;mamaduka@git.wordpress.org&gt;
-Co-authored-by: mikachan &lt;mikachan@git.wordpress.org&gt;</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">11 Sept 2025, 10:14:15</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -812,7 +573,7 @@ Co-authored-by: mikachan &lt;mikachan@git.wordpress.org&gt;</div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v5.5a.25.25 0 01-.25.25h-3.5a.75.75 0 00-.53.22L3.5 11.44V9.25a.75.75 0 00-.75-.75h-1a.25.25 0 01-.25-.25v-5.5zM1.75 1A1.75 1.75 0 000 2.75v5.5C0 9.216.784 10 1.75 10H2v1.543a1.457 1.457 0 002.487 1.03L7.061 10h3.189A1.75 1.75 0 0012 8.25v-5.5A1.75 1.75 0 0010.25 1h-8.5zM14.5 4.75a.25.25 0 00-.25-.25h-.5a.75.75 0 110-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0114.25 12H14v1.543a1.457 1.457 0 01-2.487 1.03L9.22 12.28a.75.75 0 111.06-1.06l2.22 2.22v-2.19a.75.75 0 01.75-.75h1a.25.25 0 00.25-.25v-5.5z"/>
                     </svg>
-                    Overall users reactions from last 182 comments
+                    Overall users reactions from last 183 comments
                 </h2>
                 <div class="row">
                     <section>
@@ -897,7 +658,7 @@ Co-authored-by: mikachan &lt;mikachan@git.wordpress.org&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2025, 11:28:48 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2025, 12:27:07 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
