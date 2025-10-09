@@ -62,8 +62,8 @@ I love collaborating with other developers, contributing to open-source, and sha
 
 - 🔗 Website: [alaminahamed.com](https://alaminahamed.com)
 - ✉️ Email: mrabir.ahamed@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/alaminahamed](https://linkedin.com/in/mralaminahamed)
-- 🐦 Twitter: [@alaminahamed](https://twitter.com/mralaminahamed)
+- 💼 LinkedIn: [linkedin.com/in/mralaminahamed](https://linkedin.com/in/mralaminahamed)
+- 🐦 Twitter: [@mralaminahamed](https://twitter.com/mralaminahamed)
 
 ---
 
