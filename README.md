@@ -1,3 +1,4 @@
+
 <!-- GitHub Profile README for Al Amin Ahamed -->
 
 <h2 align="center">👋 Hi, I'm Al Amin Ahamed!</h2>
@@ -12,40 +13,54 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack Software Engineer** specializing in:
+As a Software Engineer specializing in AI-driven eCommerce and multi-vendor solutions, I craft scalable WordPress platforms that empower businesses with intelligent, high-performance features. With over four years of full-stack experience, I excel in WooCommerce, Dokan, and EasyCommerce integrations, leveraging PHP, ReactJS, TypeScript, and JavaScript to deliver predictive analytics, personalized shopping, and seamless payment gateways.
 
-- **WordPress Plugin & Theme Development**
-- **eCommerce Solutions & Payment Gateway Integration**
-- **Modern Web Apps with PHP, TypeScript, ReactJS**
-
-I love collaborating with other developers, contributing to open-source, and sharing knowledge through blog posts and tutorials.
+I am committed to open-source contributions, fostering WordPress community growth, and mentoring emerging developers in eCommerce innovation.
 
 ---
 
-### 🚩 My Contribution Focus
+### 🚀 Core Expertise
 
-#### 🌟 What I’m Best At:
-- Building scalable WordPress plugins and themes
-- Integrating eCommerce/payment gateways for global reach
-- Developing modern, maintainable React apps
+#### 🌟 Key Specializations:
+- AI-enhanced eCommerce platforms and multi-vendor marketplaces
+- Custom WordPress plugins, themes, and Gutenberg blocks
+- WooCommerce extensions for payment gateways and subscription models
 
-#### 🛠️ My Open Source Highlights:
-- 300+ public repositories
-- 18 public gists (handy code snippets & utilities)
-- Recent contributions to WooCommerce, WordPress, and payment integrations
+#### 🛠️ Open-Source Impact:
+- 300+ public repositories with focus on scalable eCommerce tools
+- Contributions to Dokan (50,000+ installations) and WooCommerce ecosystems
+- Active in code reviews, documentation, and community translations
+
+#### 📌 Top Skills
+| Skill | Description |
+|-------|-------------|
+| **WordPress Development** | Custom plugins, themes, and Gutenberg blocks for scalable sites |
+| **WooCommerce** | eCommerce integrations, multi-vendor setups, and payment gateways |
+| **PHP** | Backend development for robust, performant applications |
+| **ReactJS** | Interactive frontend components and dashboards |
+| **AI-Driven eCommerce** | Predictive analytics, smart search, and personalized features |
+| **TypeScript** | Type-safe JavaScript for maintainable codebases |
+| **Dokan Multivendor** | Marketplace platforms with WooCommerce extensions |
+| **JavaScript** | Dynamic scripting and API integrations |
+| **MySQL** | Database optimization for eCommerce data management |
+| **Plugin Development** | Extensible WordPress add-ons and modules |
 
 #### 📌 Featured Projects
-- **eCommerce plugins** for custom payment flows
-- **SEO-friendly WordPress themes** for businesses and blogs
-- **React dashboards and tools** for web startups
+*(Sorted by solution type: eCommerce/multi-vendor first; secondarily by primary technologies within groups.)*
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Dokan** | Leading multi-vendor marketplace plugin for WooCommerce, enabling vendor onboarding, product management, and commission-based sales. | PHP, WooCommerce, WordPress |
+| **EasyCommerce** | AI-powered eCommerce plugin for WordPress, supporting physical, digital, licensed, and subscription products with smart features like AI search and product generation. | PHP, TypeScript, AI integrations, WooCommerce |
+| **EasyCommerce-FakerPress** | Data faker tool integrated with EasyCommerce for generating realistic test products, orders, and customer data to streamline development and testing. | PHP, FakerPress, WordPress
 
 ---
 
-### 🤝 How You Can Connect & Collaborate
+### 🤝 Connect & Collaborate
 
-- 💬 Open to friendly chats, code reviews, and joint projects
-- 🚀 Looking for contributors for several ongoing plugins & themes
-- 📝 Happy to mentor or answer questions about WordPress, React, or payment integrations
+- 💬 Open to discussions on AI eCommerce trends, code reviews, or joint open-source initiatives
+- 🚀 Seeking contributors for multi-vendor plugin enhancements and WooCommerce extensions
+- 📝 Available for mentorship on WordPress development, ReactJS, or scalable architectures
 
 ---
 
@@ -58,21 +73,22 @@ I love collaborating with other developers, contributing to open-source, and sha
 
 ---
 
-### 🌐 Find Me Online
+### 🌐 Online Presence
 
-- 🔗 Website: [alaminahamed.com](https://alaminahamed.com)
+- 🔗 Portfolio: [alaminahamed.com](https://alaminahamed.com)
+- 📝 WordPress.org Profile: [profiles.wordpress.org/mralaminahamed](https://profiles.wordpress.org/mralaminahamed/)
 - ✉️ Email: mrabir.ahamed@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mralaminahamed](https://linkedin.com/in/mralaminahamed)
-- 🐦 Twitter: [@mralaminahamed](https://twitter.com/mralaminahamed)
+- 📂 GitHub: [github.com/mralaminahamed](https://github.com/mralaminahamed)
 
 ---
 
 ### 💡 Fun Fact
 
-When I’m not coding, I love sharing tech tips, exploring local food spots, and learning about new cultures!
+Beyond code, I explore AI applications in everyday tech and savor Dhaka's vibrant street cuisine—fueling creativity one bite at a time!
 
 ---
 
 <p align="center">
-  <em>“Let's build the future of open source, together!”</em>
+  <em>“Scaling intelligent eCommerce, one commit at a time.”</em>
 </p>
