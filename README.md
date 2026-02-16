@@ -1,94 +1,95 @@
-
 <!-- GitHub Profile README for Al Amin Ahamed -->
 
-<h2 align="center">👋 Hi, I'm Al Amin Ahamed!</h2>
+<h1 align="center">Al Amin Ahamed</h1>
+<h3 align="center">Senior Software Engineer & Team Lead of Product | AI-Driven eCommerce & Multi-Vendor Specialist</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mralaminahamed?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/mralaminahamed?label=Stars&style=social" />
-  <img src="https://img.shields.io/badge/Hireable-Yes-success" />
-  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-blue" />
+  <a href="https://github.com/mralaminahamed?tab=followers">
+    <img src="https://img.shields.io/github/followers/mralaminahamed?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/mralaminahamed?tab=stars">
+    <img src="https://img.shields.io/github/stars/mralaminahamed?label=Stars&style=social" alt="GitHub stars" />
+  </a>
+  <img src="https://img.shields.io/badge/Current%20Role-Senior%20Software%20Engineer-success" alt="Current Role" />
+  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-blue" alt="Location" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### Professional Summary
 
-As a Software Engineer specializing in AI-driven eCommerce and multi-vendor solutions, I craft scalable WordPress platforms that empower businesses with intelligent, high-performance features. With over four years of full-stack experience, I excel in WooCommerce, Dokan, and EasyCommerce integrations, leveraging PHP, ReactJS, TypeScript, and JavaScript to deliver predictive analytics, personalized shopping, and seamless payment gateways.
+As **Senior Software Engineer** and **Team Lead of Product** at Codexpert, Inc., I architect and lead the development of AI-enhanced eCommerce platforms on WordPress. With more than four years of full-stack expertise, I specialize in scalable multi-vendor marketplaces and intelligent online stores leveraging WooCommerce, Dokan, and proprietary solutions such as EasyCommerce.
 
-I am committed to open-source contributions, fostering WordPress community growth, and mentoring emerging developers in eCommerce innovation.
+Key responsibilities and focus areas include:
 
----
-
-### 🚀 Core Expertise
-
-#### 🌟 Key Specializations:
-- AI-enhanced eCommerce platforms and multi-vendor marketplaces
-- Custom WordPress plugins, themes, and Gutenberg blocks
-- WooCommerce extensions for payment gateways and subscription models
-
-#### 🛠️ Open-Source Impact:
-- 300+ public repositories with focus on scalable eCommerce tools
-- Contributions to Dokan (50,000+ installations) and WooCommerce ecosystems
-- Active in code reviews, documentation, and community translations
-
-#### 📌 Top Skills
-| Skill | Description |
-|-------|-------------|
-| **WordPress Development** | Custom plugins, themes, and Gutenberg blocks for scalable sites |
-| **WooCommerce** | eCommerce integrations, multi-vendor setups, and payment gateways |
-| **PHP** | Backend development for robust, performant applications |
-| **ReactJS** | Interactive frontend components and dashboards |
-| **AI-Driven eCommerce** | Predictive analytics, smart search, and personalized features |
-| **TypeScript** | Type-safe JavaScript for maintainable codebases |
-| **Dokan Multivendor** | Marketplace platforms with WooCommerce extensions |
-| **JavaScript** | Dynamic scripting and API integrations |
-| **MySQL** | Database optimization for eCommerce data management |
-| **Plugin Development** | Extensible WordPress add-ons and modules |
-
-#### 📌 Featured Projects
-*(Sorted by solution type: eCommerce/multi-vendor first; secondarily by primary technologies within groups.)*
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Dokan** | Leading multi-vendor marketplace plugin for WooCommerce, enabling vendor onboarding, product management, and commission-based sales. | PHP, WooCommerce, WordPress |
-| **EasyCommerce** | AI-powered eCommerce plugin for WordPress, supporting physical, digital, licensed, and subscription products with smart features like AI search and product generation. | PHP, TypeScript, AI integrations, WooCommerce |
-| **EasyCommerce-FakerPress** | Data faker tool integrated with EasyCommerce for generating realistic test products, orders, and customer data to streamline development and testing. | PHP, FakerPress, WordPress
+- Leading product strategy, technical architecture, and cross-functional delivery
+- Designing extensible plugin systems with strong emphasis on performance and maintainability
+- Integrating AI capabilities for predictive analytics, semantic search, personalized recommendations, and automated content generation
+- Mentoring engineers, enforcing code quality standards, and contributing to the WordPress open-source ecosystem
 
 ---
 
-### 🤝 Connect & Collaborate
+### Core Technical Expertise
 
-- 💬 Open to discussions on AI eCommerce trends, code reviews, or joint open-source initiatives
-- 🚀 Seeking contributors for multi-vendor plugin enhancements and WooCommerce extensions
-- 📝 Available for mentorship on WordPress development, ReactJS, or scalable architectures
+| Category                  | Key Technologies & Tools                              | Senior-Level Proficiency Highlights                          |
+|---------------------------|-------------------------------------------------------|--------------------------------------------------------------|
+| WordPress & eCommerce     | WordPress, WooCommerce, Dokan, Gutenberg blocks      | Large-scale plugin architecture, multi-vendor extensibility, marketplace scaling |
+| Backend Engineering       | PHP 8+, MySQL optimization, REST/GraphQL APIs        | High-performance backend logic, secure data modeling, query optimization for large datasets |
+| Frontend & Application    | ReactJS, TypeScript, Modern JavaScript               | Complex UIs, state management patterns, reusable component systems, admin dashboards |
+| AI & Intelligent Features | AI/ML integrations (product generation, smart search, personalization) | Full-cycle implementation of intelligent merchant tools |
+| Marketplace Systems       | Multi-vendor commission engines, vendor onboarding, dashboards | End-to-end ownership: requirements definition through production scaling |
+| Plugin & Theme Development| Modular architecture, accessibility, performance tuning | Production-grade, testable, well-documented, extensible codebases |
+| Leadership & Processes    | Code reviews, mentoring, CI/CD, release management   | Architectural decision-making, team guidance, process optimization |
 
 ---
 
-### 📊 GitHub Stats
+### Key Contributions & Projects
+
+- **[EasyCommerce – AI-Powered eCommerce](https://wordpress.org/plugins/easycommerce/)** (Codexpert flagship product)  
+  Lead development of an advanced WordPress eCommerce solution supporting physical, digital, licensed, and subscription-based products. Core features include AI-assisted product creation, intelligent search, personalized shopping experiences, and robust merchant tooling.
+
+- **[EasyCommerce FakerPress](https://github.com/mralaminahamed/easycommerce-fakerpress)**  
+  Authored and maintain this companion plugin that generates realistic, production-grade test data (products, orders, customers, coupons, vendors) with full EasyCommerce integration. Widely used to accelerate development, testing, and demo creation.
+
+- **[Dokan Multivendor Marketplace](https://github.com/getdokan/dokan)** (weDevs / getdokan ecosystem)  
+  Active contributor to the leading WooCommerce multi-vendor platform (40,000+ active installations). Delivered performance improvements, feature enhancements, bug fixes, documentation updates, and community support to the official repository.
+
+My public GitHub portfolio includes over 300 repositories, predominantly focused on WooCommerce extensions, developer utilities, testing tools, and scalable eCommerce components.
+
+---
+
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mralaminahamed&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mralaminahamed&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-### 🌐 Online Presence
+### Collaboration & Mentorship
 
-- 🔗 Portfolio: [alaminahamed.com](https://alaminahamed.com)
-- 📝 WordPress.org Profile: [profiles.wordpress.org/mralaminahamed](https://profiles.wordpress.org/mralaminahamed/)
-- ✉️ Email: mrabir.ahamed@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/mralaminahamed](https://linkedin.com/in/mralaminahamed)
-- 📂 GitHub: [github.com/mralaminahamed](https://github.com/mralaminahamed)
+I welcome opportunities for technical discussions, architectural consultations, code reviews, open-source contributions, and mentorship in:
+
+- Advanced WordPress & WooCommerce development
+- AI-enhanced eCommerce strategies
+- Multi-vendor marketplace architecture and monetization
+- React + TypeScript in plugin ecosystems
+- Engineering leadership and modern development workflows
 
 ---
 
-### 💡 Fun Fact
+### Professional Presence
 
-Beyond code, I explore AI applications in everyday tech and savor Dhaka's vibrant street cuisine—fueling creativity one bite at a time!
+- **Portfolio**: https://alaminahamed.com
+- **WordPress.org Profile**: https://profiles.wordpress.org/mralaminahamed/
+- **LinkedIn**: https://linkedin.com/in/mralaminahamed
+- **Email**: me@alaminahamed.com (preferred) / mrabir.ahamed@gmail.com
+- **GitHub**: https://github.com/mralaminahamed
+- **X / Twitter**: https://x.com/mralaminahamed
 
 ---
 
 <p align="center">
-  <em>“Scaling intelligent eCommerce, one commit at a time.”</em>
+  <em>“Architecting intelligent, scalable commerce platforms with precision and performance — one strategic commit at a time.”</em>
 </p>
