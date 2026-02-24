@@ -4,10 +4,10 @@
 <h3 align="center">Senior Software Engineer & Team Lead of Product | AI-Driven eCommerce & Multi-Vendor Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/mralaminahamed?tab=followers">
+  <a href="https://github.com/mralaminahamed?tab=followers" style="display:inline-block">
     <img src="https://img.shields.io/github/followers/mralaminahamed?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/mralaminahamed?tab=stars">
+  <a href="https://github.com/mralaminahamed?tab=stars" style="display:inline-block">
     <img src="https://img.shields.io/github/stars/mralaminahamed?label=Stars&style=social" alt="GitHub stars" />
   </a>
   <img src="https://img.shields.io/badge/Current%20Role-Senior%20Software%20Engineer-success" alt="Current Role" />
