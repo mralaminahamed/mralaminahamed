@@ -90,7 +90,7 @@ Kotlin-based IntelliJ/JetBrains IDE plugin that plays a dramatic sound when test
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mralaminahamed&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mralaminahamed&theme=dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mralaminahamed&theme=dark&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -109,4 +109,6 @@ Technical discussions on WordPress plugin architecture, eCommerce platform desig
   <a href="https://linkedin.com/in/mralaminahamed">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://profiles.wordpress.org/mralaminahamed/">WordPress.org</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/mralaminahamed">X / Twitter</a>
 </p>
