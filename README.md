@@ -16,8 +16,7 @@
   <a href="https://linkedin.com/in/mralaminahamed">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://profiles.wordpress.org/mralaminahamed/">WordPress.org</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/mralaminahamed">X / Twitter</a>
+
 </p>
 
 ---
@@ -109,6 +108,5 @@ Technical discussions on WordPress plugin architecture, eCommerce platform desig
   <a href="https://linkedin.com/in/mralaminahamed">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://profiles.wordpress.org/mralaminahamed/">WordPress.org</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/mralaminahamed">X / Twitter</a>
+
 </p>
