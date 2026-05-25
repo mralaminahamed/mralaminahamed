@@ -1,11 +1,11 @@
 <h1 align="center">Al Amin Ahamed</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer &nbsp;·&nbsp; Team Lead of Product &nbsp;·&nbsp; Dhaka, Bangladesh</strong>
+  <strong>Senior Software Engineer &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; LLM Pipelines &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Agentic Systems</strong>
 </p>
 
 <p align="center">
-  PHP &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; ReactJS &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; WordPress &nbsp;·&nbsp; AI-Driven eCommerce
+  PHP &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; WordPress Core Contributor
 </p>
 
 <p align="center">
@@ -16,72 +16,88 @@
   <a href="https://linkedin.com/in/mralaminahamed">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://profiles.wordpress.org/mralaminahamed/">WordPress.org</a>
-
 </p>
 
 ---
 
-I'm a Senior Software Engineer and Team Lead of Product at [Codexpert, Inc.](https://codexpert.io), where I lead the architecture and delivery of AI-enhanced eCommerce platforms on WordPress. My work sits at the intersection of scalable plugin engineering, intelligent commerce features, and developer tooling — with a strong bias toward clean architecture, static analysis, and testable, maintainable code.
+I build production AI systems — LLM pipelines, RAG architectures, and agentic workflows — and ship them inside real products used by real businesses.
 
-Over four-plus years of full-stack experience I've shipped flagship products, led cross-functional teams, and contributed to major open-source ecosystems including WooCommerce, Dokan, and the broader WordPress plugin landscape.
+As **Team Lead of Product** and **Senior Software Engineer** at [Codexpert, Inc.](https://codexpert.io), I lead **EasyCommerce**: an AI-powered WordPress eCommerce platform integrating OpenAI, Anthropic Claude, Gemini, and DeepSeek for automated product content generation, smart pricing logic, fraud detection, and predictive analytics. Custom database architecture delivering 3–5× faster performance than WooCommerce. 35% conversion uplift in beta.
 
----
-
-### Technical Stack
-
-**Backend**
-PHP 8+, Laravel, WordPress, MySQL — plugin architecture, REST APIs, WP-CLI, query optimization, PHPUnit, PHPStan
-
-**Frontend & Application**
-TypeScript, ReactJS, Next.js, modern JavaScript, Gutenberg blocks, browser extensions (Chrome/Firefox), Vite
-
-**eCommerce & Marketplace**
-WooCommerce, EasyCommerce, Dokan multi-vendor, Fluent Cart — commission engines, vendor onboarding, product lifecycle, subscription systems
-
-**AI & Intelligent Features**
-LangChain, custom AI providers for WordPress (Minimax, OpenCode Zen), AI-assisted product creation, semantic search, personalized recommendations
-
-**Tooling & Quality**
-PHPStan (custom stubs for major WP plugins/SDKs), PHPUnit, Composer, CI/CD, code reviews, architectural decision-making
+4+ years of full-stack production engineering. 8 plugins independently authored on WordPress.org. Code contributed to products serving 60,000+ active businesses. WordPress Core Contributor since 2021.
 
 ---
 
-### Selected Work
+### Core Stack
 
-**[EasyCommerce](https://wordpress.org/plugins/easycommerce/)** — Codexpert flagship
-AI-powered WordPress eCommerce plugin. Supports physical, digital, licensed, and subscription products. Core features: AI-assisted product creation, intelligent search, personalized storefronts, advanced merchant tooling. I lead architecture and product engineering.
+| Layer | Technologies |
+|---|---|
+| **AI / LLM** | OpenAI · Anthropic Claude · Gemini · DeepSeek · Ollama · LangChain · pgvector · RAG · MCP SDK |
+| **Languages** | PHP 8.x · Python 3.12 · TypeScript · Go · Rust |
+| **Backend** | FastAPI · Laravel · WordPress · REST · WebSocket · SSE · WP-CLI |
+| **Frontend** | React 18 · TypeScript · Tailwind CSS · Vite · Gutenberg Block API · Inertia.js |
+| **Data** | PostgreSQL + pgvector · MySQL · Redis · SQLite · Meilisearch |
+| **DevOps** | Docker · GitHub Actions CI/CD · Caddy · Linux · Hetzner |
+| **Testing** | PHPUnit · Brain\Monkey · PHPStan · pytest · Playwright · WP_Mock |
+
+---
+
+### AI Projects
+
+**[JobPulse RAG](https://github.com/mralaminahamed/jobpulse)**
+AI-powered job discovery platform with RAG-grounded cover letter generation. Multi-source pipeline across 12 sources in 3 tiers: search engines (SerpAPI, JSearch), free boards (RemoteOK, WWR, Remotive, HN), and ATS public APIs (Greenhouse, Lever, Ashby, Workable, SmartRecruiters). Resume embedding via text-embedding-3-large + pgvector cosine retrieval — all cover letters grounded in actual resume content via Claude Sonnet. Composite scoring: semantic + BM25 + salary + geo.
+`Python` `FastAPI` `pgvector` `Redis` `Celery` `OpenAI` `Anthropic` `React 18` `Tailwind` `Docker`
+
+**[codebase-research-agent](https://github.com/mralaminahamed/codebase-research-agent)**
+Tool-using ReAct AI agent that researches codebases through multi-step reasoning over a hybrid retrieval substrate. Agent loop wraps semantic search, AST navigation, symbol lookup, grep, and git blame as callable tools via OpenAI function calling and Anthropic tool use — iterates think → act → observe until grounded. Privacy-first dual mode: cloud (OpenAI + Claude Sonnet) or fully local (Ollama + deepseek-coder). Exposed as a **Claude Code MCP server** with streaming SSE and file/line citations.
+`Python` `FastAPI` `tree-sitter` `pgvector` `BM25` `Ollama` `OpenAI` `Anthropic` `MCP SDK` `Docker`
+
+**[Specialized Technical Assistant (RAG)](https://github.com/mralaminahamed/specialized-technical-assistant-rag)**
+Domain-specific AI assistant pipeline grounded in your own documentation. Python-based RAG with LangChain, pgvector, PostgreSQL, Claude, and Sentence Transformers.
+`Python` `LangChain` `pgvector` `PostgreSQL` `Claude` `Sentence Transformers`
+
+---
+
+### Production AI Engineering — EasyCommerce
+
+**[EasyCommerce](https://wordpress.org/plugins/easycommerce/)** — Codexpert flagship product
+AI-powered WordPress eCommerce plugin. I lead architecture and product engineering.
+
+- AI content generation pipeline: OpenAI GPT-4o + Google Gemini for automated product descriptions, DALL·E 3 image generation, and personalised marketing copy
+- Smart recommendation engine: vector similarity search + collaborative filtering — 35% conversion uplift in beta
+- Anthropic Claude + DeepSeek as fallback providers with cost-aware routing and content-hash caching
+- Fraud detection: behavioural analysis + predictive scoring integrated into checkout via REST API
+- Dedicated database architecture delivering 3–5× performance gains vs WooCommerce
+- LLM cost circuit breakers, prompt versioning, and structured evals
+
+---
+
+### WordPress & Open Source
 
 **[EasyCommerce FakerPress](https://github.com/mralaminahamed/easycommerce-fakerpress)** `19★`
-Generates realistic test data — products, orders, customers, coupons, vendors — for EasyCommerce stores. Used across teams to accelerate dev, testing, and demo cycles.
+Realistic test data generator for EasyCommerce stores — 14 data generators, WP-CLI integration, 131 Playwright E2E tests.
 
 **[Fluent Cart FakerPress](https://github.com/mralaminahamed/fluent-cart-fakerpress)**
-Same concept applied to Fluent Cart. Realistic test data generation for a fast-growing WooCommerce alternative.
+Test data generation for Fluent Cart — locale-aware sample data, WP-CLI support.
 
 **[EasyCommerce Email Tester](https://github.com/mralaminahamed/easycommerce-email-tester)**
-Developer tool to test, preview, and debug all EasyCommerce email notifications. Dry-run preview, recipient override, unresolved placeholder detection, full log viewer with per-email inspection.
-
-**[WC Affiliate Email Tester](https://github.com/mralaminahamed/wc-affiliate-email-tester)**
-Companion tool scoped to WC Affiliate notifications — same developer-focused email testing experience tailored to affiliate commission and referral emails.
-
-**AI Providers for WordPress**
-[Minimax AI Provider](https://github.com/mralaminahamed/ai-provider-for-minimax) · [OpenCode Zen AI Provider](https://github.com/mralaminahamed/ai-provider-for-opencode-zen) — pluggable AI backends for the WordPress AI Client ecosystem.
-
-**PHPStan Stubs Collection**
-Purpose-built stub packages enabling proper IDE completion and static analysis for major WordPress plugins and SDKs that don't ship their own stubs:
-
-[Freemius SDK](https://github.com/mralaminahamed/phpstan-freemius-stubs) · [WooCommerce Subscriptions](https://github.com/mralaminahamed/phpstan-woocommerce-subscriptions-stubs) · [WooCommerce Product Add-Ons](https://github.com/mralaminahamed/phpstan-woocommerce-product-addons-stubs) · [Fluent Forms](https://github.com/mralaminahamed/phpstan-fluent-forms-stubs) · [WPForms Lite](https://github.com/mralaminahamed/phpstan-wpforms-lite-stubs) · [Ninja Forms](https://github.com/mralaminahamed/phpstan-ninja-forms-stubs) · [Forminator](https://github.com/mralaminahamed/phpstan-forminator-stubs) · [Squad Modules for Divi](https://github.com/mralaminahamed/phpstan-squad-modules-lite-stubs)
-
-**[Dokan Multivendor Marketplace](https://github.com/getdokan/dokan)** — open-source contributor
-Active contributor to the leading WooCommerce multi-vendor platform (40,000+ active installs). Performance improvements, feature enhancements, bug fixes, documentation.
+Developer tool for testing, previewing, and debugging all EasyCommerce email notifications — dry-run preview, recipient override, placeholder detection.
 
 **[Author Profile Blocks](https://github.com/mralaminahamed/author-profile-blocks)**
-Gutenberg blocks for displaying author profiles — grid, list, carousel, and single profile views.
+Gutenberg block library for rich author bios, social links, and responsive profile grids.
 
-**[GitHub Profile Customizer](https://github.com/mralaminahamed/github-profile-customizer)**
-Browser extension (ReactJS + TypeScript + Vite) for customizing the GitHub profile interface.
+**[WP PostgreSQL Database](https://github.com/mralaminahamed/wp-pgsql-database)**
+Drop-in `wpdb` replacement that runs full WordPress sites on PostgreSQL instead of MySQL.
 
-**[Faaaa Sound — JetBrains Plugin](https://github.com/mralaminahamed/faaaa_sound_jetbrains)** `1★`
-Kotlin-based IntelliJ/JetBrains IDE plugin that plays a dramatic sound when tests fail. Because test failures deserve ceremony.
+**AI Providers for WordPress**
+[Minimax AI Provider](https://github.com/mralaminahamed/ai-provider-for-minimax) · [OpenCode Zen AI Provider](https://github.com/mralaminahamed/ai-provider-for-opencode-zen) — pluggable AI backends for the WordPress AI Client ecosystem supporting Claude, OpenAI, and Gemini via a unified adapter interface.
+
+**[Dokan Multivendor Marketplace](https://github.com/getdokan/dokan)** — open-source contributor
+Active contributor to the leading WooCommerce multi-vendor platform (60,000+ active installs). Vendor dashboard features, commission logic, REST API integrations, documentation.
+
+**PHPStan Stubs Collection**
+Purpose-built stub packages enabling static analysis for major WordPress plugins that don't ship their own stubs:
+[Freemius SDK](https://github.com/mralaminahamed/phpstan-freemius-stubs) · [WooCommerce Subscriptions](https://github.com/mralaminahamed/phpstan-woocommerce-subscriptions-stubs) · [Fluent Forms](https://github.com/mralaminahamed/phpstan-fluent-forms-stubs) · [WPForms Lite](https://github.com/mralaminahamed/phpstan-wpforms-lite-stubs) · [Forminator](https://github.com/mralaminahamed/phpstan-forminator-stubs) · [Squad Modules for Divi](https://github.com/mralaminahamed/phpstan-squad-modules-lite-stubs)
 
 ---
 
@@ -94,9 +110,18 @@ Kotlin-based IntelliJ/JetBrains IDE plugin that plays a dramatic sound when test
 
 ---
 
+### Community
+
+- **WordPress Core Contributor** since August 2021 · 5 hrs/week
+- **Polyglots Bengali (bn_BD) Translation Editor** — WooCommerce (7M+ installs), Site Kit by Google (5M+), Dokan, EasyCommerce, FluentCart · reviewed 8,000+ strings across 6 languages
+- **WordCamp Dhaka 2025** — Sponsor Team · Contributor Day · Core Team table
+- **Badges** — Plugin Developer · Translation Editor · Translation Contributor
+
+---
+
 ### Open to
 
-Technical discussions on WordPress plugin architecture, eCommerce platform design, AI integrations in WordPress, static analysis tooling, and multi-vendor marketplace systems. Open-source collaboration, code reviews, and engineering mentorship welcome.
+Technical discussions on AI systems, LLM pipeline architecture, RAG design, agentic workflows, WordPress plugin engineering, eCommerce platform design, and multi-vendor marketplace systems. Open-source collaboration, code reviews, and engineering mentorship welcome.
 
 ---
 
@@ -108,5 +133,4 @@ Technical discussions on WordPress plugin architecture, eCommerce platform desig
   <a href="https://linkedin.com/in/mralaminahamed">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://profiles.wordpress.org/mralaminahamed/">WordPress.org</a>
-
 </p>
