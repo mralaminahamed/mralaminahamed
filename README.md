@@ -44,7 +44,7 @@ As **Team Lead of Product** and **Senior Software Engineer** at [Codexpert, Inc.
 
 ### AI Projects
 
-**[JobPulse RAG](https://github.com/mralaminahamed/jobpulse)**
+**[JobPulse RAG](https://github.com/mralaminahamed/jobpulse-rag)**
 AI-powered job discovery platform with RAG-grounded cover letter generation. Multi-source pipeline across 12 sources in 3 tiers: search engines (SerpAPI, JSearch), free boards (RemoteOK, WWR, Remotive, HN), and ATS public APIs (Greenhouse, Lever, Ashby, Workable, SmartRecruiters). Resume embedding via text-embedding-3-large + pgvector cosine retrieval — all cover letters grounded in actual resume content via Claude Sonnet. Composite scoring: semantic + BM25 + salary + geo.
 `Python` `FastAPI` `pgvector` `Redis` `Celery` `OpenAI` `Anthropic` `React 18` `Tailwind` `Docker`
 
