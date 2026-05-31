@@ -50,7 +50,7 @@ Self-hosted RAG support desk for WordPress plugins. Ingests GitHub issues + Word
 ReAct tool-using agent over hybrid code retrieval: pgvector cosine + BM25 + symbol graph via RRF. AST-aware chunking via tree-sitter. Cloud or fully local (Ollama). Exposed as a **Claude Code MCP server** with streaming SSE and file/line citations.
 `Python` `FastAPI` `tree-sitter` `pgvector` `MCP SDK` `Anthropic` `OpenAI` `Docker`
 
-**[jobpulse-rag](https://github.com/mralaminahamed/jobpulse)**
+**[jobpulse-rag](https://github.com/mralaminahamed/jobpulse-rag)**
 12-source job discovery with pgvector retrieval and Claude-grounded cover letter generation. Composite scoring: semantic + BM25 + salary + geo.
 `Python` `FastAPI` `pgvector` `Redis` `Celery` `OpenAI` `Anthropic` `React 18` `Docker`
 
