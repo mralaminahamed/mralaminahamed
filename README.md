@@ -62,6 +62,10 @@ Legal document RAG. Section-scoped chunking + exemplar prompting. Edit distance:
 WordPress plugin development skills for AI coding agents — Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, GitHub Copilot, opencode, and more. Skills activate automatically when their description matches the task.
 `WordPress` `Claude Code` `Gemini CLI` `Agent Skills` `PHP`
 
+**[wordpress-official-agent-skills](https://github.com/mralaminahamed/wordpress-official-agent-skills)**
+Expert-level WordPress knowledge for AI coding assistants — blocks, themes, plugins, and best practices. Customized for personal workflow.
+`WordPress` `Agent Skills` `Blocks` `PHP`
+
 **WordPress AI Providers (original — published on WordPress.org)**
 [ai-provider-for-minimax](https://github.com/mralaminahamed/ai-provider-for-minimax) · [ai-provider-for-opencode-zen](https://github.com/mralaminahamed/ai-provider-for-opencode-zen) — MiniMax and OpenCode Zen adapters for the WordPress AI Client ecosystem.
 `PHP` `WordPress`
