@@ -58,9 +58,9 @@ ReAct tool-using agent over hybrid code retrieval: pgvector cosine + BM25 + symb
 Legal document RAG. Section-scoped chunking + exemplar prompting. Edit distance: 168 → 43 on held-out eval. CI eval suite on every commit.
 `Python` `pgvector` `Anthropic` `FastAPI` `PostgreSQL`
 
-**[claude-plugins](https://github.com/mralaminahamed/claude-plugins)**
-Personal Claude Code plugin marketplace — command-center-quote-assistant and github-project-manager. PHP 8.5+ monorepo with GitHub Actions CI/CD.
-`PHP` `Shell` `Claude Code Plugin SDK`
+**[wp-dev-skills](https://github.com/mralaminahamed/wp-dev-skills)**
+WordPress plugin development skills for AI coding agents — Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, GitHub Copilot, opencode, and more. Skills activate automatically when their description matches the task.
+`WordPress` `Claude Code` `Gemini CLI` `Agent Skills` `PHP`
 
 **WordPress AI Providers (original — published on WordPress.org)**
 [ai-provider-for-minimax](https://github.com/mralaminahamed/ai-provider-for-minimax) · [ai-provider-for-opencode-zen](https://github.com/mralaminahamed/ai-provider-for-opencode-zen) — MiniMax and OpenCode Zen adapters for the WordPress AI Client ecosystem.
