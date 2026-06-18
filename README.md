@@ -50,15 +50,15 @@ Self-hosted RAG support desk for WordPress plugins. Ingests GitHub issues + Word
 ReAct tool-using agent over hybrid code retrieval: pgvector cosine + BM25 + symbol graph via RRF. AST-aware chunking via tree-sitter. Cloud or fully local (Ollama). Exposed as a **Claude Code MCP server** with streaming SSE and file/line citations.
 `Python` `FastAPI` `tree-sitter` `pgvector` `MCP SDK` `Anthropic` `OpenAI` `Docker`
 
-**[jobpulse-rag](https://github.com/mralaminahamed/jobpulse-rag)**
-12-source job discovery with pgvector retrieval and Claude-grounded cover letter generation. Composite scoring: semantic + BM25 + salary + geo.
-`Python` `FastAPI` `pgvector` `Redis` `Celery` `OpenAI` `Anthropic` `React 18` `Docker`
+**[bd-legal-rag](https://github.com/mralaminahamed/bd-legal-rag)**
+RAG service for Bangladeshi statute law — bilingual Bengali/English, section-hierarchy-aware chunking, Cohere multilingual embeddings, mandatory rerank, grounded answers with canonical legal citations.
+`Python` `pgvector` `Cohere` `FastAPI` `PostgreSQL`
 
 **[legal-rag](https://github.com/mralaminahamed/legal-rag)**
 Legal document RAG. Section-scoped chunking + exemplar prompting. Edit distance: 168 → 43 on held-out eval. CI eval suite on every commit.
 `Python` `pgvector` `Anthropic` `FastAPI` `PostgreSQL`
 
-**[wp-dev-skills](https://github.com/mralaminahamed/wp-dev-skills)**
+**[wp-dev-skills](https://github.com/mralaminahamed/wp-dev-skills)** `21★`
 WordPress plugin development skills for AI coding agents — Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, GitHub Copilot, opencode, and more. Skills activate automatically when their description matches the task.
 `WordPress` `Claude Code` `Gemini CLI` `Agent Skills` `PHP`
 
@@ -70,11 +70,15 @@ WordPress plugin development skills for AI coding agents — Claude Code, Gemini
 
 ### WordPress & Open Source
 
-**[easycommerce-fakerpress](https://github.com/mralaminahamed/easycommerce-fakerpress)** `19★`
+**[easycommerce-fakerpress](https://github.com/mralaminahamed/easycommerce-fakerpress)** `18★`
 Test data generator for WordPress eCommerce — 14 generators, WP-CLI integration, 131 Playwright E2E tests.
 
 **[wp-pgsql-database](https://github.com/mralaminahamed/wp-pgsql-database)**
 Drop-in `wpdb` replacement that runs WordPress on PostgreSQL instead of MySQL.
+
+**[tundra](https://github.com/mralaminahamed/tundra)** `5★`
+Self-hosted server-management platform — modern alternative to Plesk/cPanel. Full operator control, native deployment of WordPress, Laravel, Node.js, Python, Go, and Rust applications.
+`Rust` `Server Management` `DevOps`
 
 **[author-profile-blocks](https://github.com/mralaminahamed/author-profile-blocks)**
 Gutenberg block library for rich author bios, social links, and responsive profile grids. Published on WordPress.org.
@@ -87,7 +91,7 @@ Author Profile Blocks · AI Provider for MiniMax · AI Provider for OpenCode Zen
 Business Accounts Router for GiveWP · EasyCommerce FakerPress · Swift Menu Duplicator · Warranty Cart
 
 **WordPress PHPStan Stubs:**
-[Freemius SDK](https://github.com/mralaminahamed/phpstan-freemius-stubs) · [WooCommerce Subscriptions](https://github.com/mralaminahamed/phpstan-woocommerce-subscriptions-stubs) · [Fluent Forms](https://github.com/mralaminahamed/phpstan-fluent-forms-stubs) · [WPForms Lite](https://github.com/mralaminahamed/phpstan-wpforms-lite-stubs) · [Forminator](https://github.com/mralaminahamed/phpstan-forminator-stubs) · [Squad Modules](https://github.com/mralaminahamed/phpstan-squad-modules-lite-stubs)
+[WooCommerce](https://github.com/mralaminahamed/phpstan-woocommerce-stubs) · [WooCommerce Subscriptions](https://github.com/mralaminahamed/phpstan-woocommerce-subscriptions-stubs) · [WooCommerce Product Add-Ons](https://github.com/mralaminahamed/phpstan-woocommerce-product-addons-stubs) · [Freemius SDK](https://github.com/mralaminahamed/phpstan-freemius-stubs) · [Dokan](https://github.com/mralaminahamed/phpstan-dokan-stubs) · [SureCart](https://github.com/mralaminahamed/phpstan-surecart-stubs) · [Fluent Forms](https://github.com/mralaminahamed/phpstan-fluent-forms-stubs) · [WPForms Lite](https://github.com/mralaminahamed/phpstan-wpforms-lite-stubs) · [Ninja Forms](https://github.com/mralaminahamed/phpstan-ninja-forms-stubs) · [Forminator](https://github.com/mralaminahamed/phpstan-forminator-stubs) · [Easy Digital Downloads](https://github.com/mralaminahamed/phpstan-easy-digital-downloads-stubs) · [EDD Pro](https://github.com/mralaminahamed/phpstan-easy-digital-downloads-pro-stubs) · [Action Scheduler](https://github.com/mralaminahamed/phpstan-action-scheduler-stubs) · [Squad Modules](https://github.com/mralaminahamed/phpstan-squad-modules-lite-stubs)
 
 ---
 
