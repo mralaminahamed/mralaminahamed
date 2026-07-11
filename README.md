@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://alaminahamed.com">alaminahamed.com</a>
   &nbsp;·&nbsp;
-  <a href="mailto:mrabir.ahamed@gmail.com">mrabir.ahamed@gmail.com</a>
+  <a href="mailto:alamin.ahamed.dev@gmail.com">alamin.ahamed.dev@gmail.com</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mralaminahamed">LinkedIn</a>
   &nbsp;·&nbsp;
@@ -127,7 +127,7 @@ Technical conversations on LLM integration architecture, RAG systems, agentic wo
 <p align="center">
   <a href="https://alaminahamed.com">alaminahamed.com</a>
   &nbsp;·&nbsp;
-  <a href="mailto:me@alaminahamed.com">me@alaminahamed.com</a>
+  <a href="mailto:alamin.ahamed.dev@gmail.com">alamin.ahamed.dev@gmail.com</a>
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mralaminahamed">LinkedIn</a>
   &nbsp;·&nbsp;
