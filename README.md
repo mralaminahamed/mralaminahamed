@@ -1,11 +1,11 @@
 <h1 align="center">Al Amin Ahamed</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer &nbsp;·&nbsp; Commerce Products &nbsp;·&nbsp; Applied AI &nbsp;·&nbsp; Developer Tooling</strong>
+  <strong>Senior Software Engineer &nbsp;·&nbsp; Rust Services &nbsp;·&nbsp; AI Infrastructure</strong>
 </p>
 
 <p align="center">
-  PHP &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Go &nbsp;·&nbsp; React &nbsp;·&nbsp; WordPress Polyglots Translation Editor
+  Rust &nbsp;·&nbsp; Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Go &nbsp;·&nbsp; PHP &nbsp;·&nbsp; React &nbsp;·&nbsp; WordPress Polyglots Translation Editor
 </p>
 
 <p align="center">
@@ -20,9 +20,23 @@
 
 ---
 
-Team Lead of Product at [@codexpertio](https://github.com/codexpertio), Dhaka. I own commercial commerce products end to end, and build the systems around them: retrieval and agent services in Python, distributed services in Go, and the static-analysis tooling the WordPress plugin ecosystem was missing. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve.
+Senior software engineer building Rust services and AI infrastructure. I am Team Lead of Product at [@codexpertio](https://github.com/codexpertio), Dhaka, where I own commercial commerce products end to end. Rust became my primary stack in October 2026; before that I spent years shipping payment systems, marketplaces and retrieval-based AI in PHP, Python and Go. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve.
 
 **Anthropic Certified** — Claude API · MCP · Subagents · Agentic Workflows · Claude Code · AI Fluency.
+
+---
+
+### Rust
+
+New services, daemons and tools start in Rust. The plan, its milestones and the status of each are public at [alaminahamed.com/rust](https://alaminahamed.com/rust).
+
+**[tundra](https://github.com/mralaminahamed/tundra)** `6★`
+Self-hosted server-management platform — an alternative to Plesk and cPanel. Full operator control, native deployment of WordPress, Laravel, Node.js, Python, Go and Rust applications.
+`Rust` `React` `DevOps`
+
+**[valet-manager](https://github.com/mralaminahamed/valet-manager)**
+Native Linux desktop application for managing Laravel Valet environments.
+`Rust` `Linux` `Desktop`
 
 ---
 
@@ -112,7 +126,7 @@ WordPress plugin development skills for AI coding agents — Claude Code, Gemini
 
 ---
 
-### Go &amp; Systems
+### Go & Systems
 
 **[sitemon](https://github.com/mralaminahamed/sitemon)**
 Site-health monitoring as six services over NATS JetStream: HTTP, SSL and load-testing checks, MongoDB history, Redis-cached status, Slack / Discord / Telegram alerting, React 19 dashboard, Claude-written incident summaries via the Anthropic Go SDK, and an MCP server. Prometheus and Grafana, Docker and Kubernetes manifests, race-tested CI gate.
@@ -133,10 +147,6 @@ Multi-market telehealth: the patient books, pays, holds the consultation and rec
 **[reclaim](https://github.com/mralaminahamed/reclaim)**
 Process-aware storage reclamation CLI for Ubuntu and Debian. Tiered, dry-run by default, no third-party dependencies.
 `Go` `CLI` `Linux`
-
-**[tundra](https://github.com/mralaminahamed/tundra)** `13★`
-Self-hosted server-management platform — an alternative to Plesk and cPanel. Full operator control, native deployment of WordPress, Laravel, Node.js, Python, Go and Rust applications.
-`Rust` `React` `DevOps`
 
 ---
 
@@ -165,7 +175,7 @@ Gutenberg block library for rich author bios, social links, and responsive profi
 | Layer | Technologies |
 |---|---|
 | **AI / LLM** | Anthropic Claude · OpenAI · Gemini · DeepSeek · Ollama · pgvector · MCP SDK · LangChain · tree-sitter |
-| **Languages** | PHP 8.x · Python 3.12 · TypeScript · Go · Rust |
+| **Languages** | Rust · Python 3.12 · TypeScript · Go · PHP 8.x |
 | **Backend** | WordPress · WooCommerce · Laravel · FastAPI · gRPC · NATS · REST · WebSocket · WP-CLI |
 | **Frontend** | React 18/19 · Next.js · TypeScript · Tailwind CSS · Vite · Gutenberg &amp; Divi 5 Block APIs |
 | **Data** | PostgreSQL + pgvector · MySQL · MongoDB · Redis · SQLite |
@@ -198,7 +208,7 @@ Gutenberg block library for rich author bios, social links, and responsive profi
 
 ### Open to
 
-Senior and lead engineering roles at product companies working on commerce platforms, developer tooling, or applied AI. Happy to talk about commerce at scale, keeping large PHP codebases analysable, Go services over NATS, MCP server design, or putting retrieval somewhere it has to be correct.
+Senior and lead engineering roles building Rust services and AI infrastructure, and at product companies working on commerce platforms, developer tooling, or applied AI. Happy to talk about commerce at scale, keeping large PHP codebases analysable, Go services over NATS, MCP server design, or putting retrieval somewhere it has to be correct.
 
 ---
 
