@@ -20,7 +20,7 @@
 
 ---
 
-AI-first senior software engineer building Rust services and AI infrastructure. I am Team Lead of Product at [@codexpertio](https://github.com/codexpertio), Dhaka, where I own commercial commerce products end to end. Rust became my primary stack in October 2026; before that I spent years shipping payment systems, marketplaces and retrieval-based AI in PHP, Python and Go. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve.
+AI-first senior software engineer building Rust services and AI infrastructure. I am a Senior Software Engineer at [@codexpertio](https://github.com/codexpertio), Dhaka, where I own commercial commerce products end to end. Rust became my primary stack in October 2026; before that I spent years shipping payment systems, marketplaces and retrieval-based AI in PHP, Python and Go. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve.
 
 **Anthropic Certified** — Claude API · MCP · Subagents · Agentic Workflows · Claude Code · AI Fluency.
 
@@ -54,11 +54,11 @@ Knowledge base, ticketing with eight stages and automatic assignment, email pipi
 
 **[Uposham](https://uposham.com)** — telehealth for Bangladesh, live
 Booked entirely inside Facebook Messenger: no app, no account. The assistant reads the complaint in Bangla, English or romanized Bangla, maps it to a specialty, shows BMDC-verified doctors with their fees and open slots, books, takes payment via bKash, Nagad or Rocket, delivers the video call link, and returns the prescription to the same thread. Around 70 verified doctors across 15 specialties at ৳200 to ৳800 a visit. API-first WordPress backend with roughly 50 REST routes, three Next.js apps including a Capacitor build for the doctor dashboard, per-actor auth, and signed outbound webhooks so the bot is replaceable.
-`PHP` `Next.js` `Capacitor` `LLM agent` `bKash / Nagad`
+`PHP` `Next.js 16` `Capacitor` `LLM agent` `bKash / Nagad`
 
 **[PluginTracker](https://plugintracker.dev)** — 900+ plugins tracked, 820+ authors
 Analytics for WordPress.org plugin authors. The directory floors active installs to one significant figure and keeps no history; PluginTracker reads what it publishes daily and adds granular install estimates, keyword rank tracking, competitor movement, review and support-ticket health, alerts and AI-drafted replies. Alongside it, an opt-in Composer telemetry SDK reports PHP and WordPress versions, release spread and deactivation reasons: nothing is sent before a site admin consents, the author chooses which fields exist at all, and an opt-out applies at ingestion so it reaches installs already in the wild.
-`PHP` `Next.js` `Composer` `Telemetry`
+`PHP` `Next.js 16` `Composer` `Telemetry`
 
 **[EasyCommerce](https://easycommerce.dev)** — [Codexpert](https://codexpert.io)
 AI-first commerce plugin built on dedicated database tables rather than WordPress posts, for 3 to 5 times the throughput of post-based stores. I built the integration surface across fourteen repositories: Paystack, Razorpay, HitPay, 2Checkout, UnionPay, ShipStation, FedEx, DHL, Zapier, subscriptions and licensing. Rated 4.7 on [WordPress.org](https://wordpress.org/plugins/easycommerce/).
@@ -92,7 +92,7 @@ Twelve applications outside the WordPress stack: a CMS, a school management syst
 
 ### AI Systems
 
-**[wp-support-rag](https://github.com/mralaminahamed/wp-support-rag)**
+**wp-support-rag** — private
 Self-hosted RAG support desk for plugin authors. Ingests GitHub issues and WordPress.org forum threads, answers with citations, and degrades to source links rather than guessing when the model is unavailable. FastAPI + pgvector + Celery backend, React/Tailwind admin, embeddable widget, Playwright E2E, Turborepo monorepo.
 `Python` `FastAPI` `pgvector` `Celery` `Redis` `OpenAI` `Anthropic` `TypeScript` `React` `Docker`
 
@@ -112,12 +112,12 @@ Legal document RAG. Section-scoped chunking + exemplar prompting. Edit distance:
 RAG service for Bangladeshi statute law — bilingual Bengali/English, section-hierarchy-aware chunking, Cohere multilingual embeddings, mandatory rerank, grounded answers with canonical legal citations.
 `Python` `pgvector` `Cohere` `FastAPI` `PostgreSQL`
 
-**[jobpulse-rag](https://github.com/mralaminahamed/jobpulse-rag)**
+**jobpulse-rag** — private
 Job discovery across 12 sources behind one async adapter protocol, with resume-grounded scoring and cover letter generation.
 `Python` `FastAPI` `pgvector` `Celery` `React`
 
-**[wp-dev-skills](https://github.com/mralaminahamed/wp-dev-skills)** `27★`
-WordPress plugin development skills for AI coding agents — Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, GitHub Copilot, opencode, and more. Skills activate automatically when their description matches the task. Alongside [wordpress-official-agent-skills](https://github.com/mralaminahamed/wordpress-official-agent-skills) and [scrumloop](https://github.com/mralaminahamed/scrumloop), which runs sprint ceremonies and backlog grooming against GitHub Projects v2.
+**[wp-dev-skills](https://github.com/mralaminahamed/wp-dev-skills)** `28★`
+WordPress plugin development skills for AI coding agents — Claude Code, Gemini CLI, Cursor, Windsurf, Cline, Codex, GitHub Copilot, opencode, and more. Skills activate automatically when their description matches the task. Alongside [wordpress-official-agent-skills](https://github.com/mralaminahamed/wordpress-official-agent-skills) and scrumloop (private), which runs sprint ceremonies and backlog grooming against GitHub Projects v2.
 `WordPress` `Claude Code` `Agent Skills` `PHP`
 
 **WordPress AI Providers (original — published on WordPress.org)**
@@ -208,7 +208,7 @@ Gutenberg block library for rich author bios, social links, and responsive profi
 
 ### Open to
 
-Senior and lead engineering roles building Rust services and AI infrastructure, and at product companies working on commerce platforms, developer tooling, or applied AI. Happy to talk about commerce at scale, keeping large PHP codebases analysable, Go services over NATS, MCP server design, or putting retrieval somewhere it has to be correct.
+Senior and lead engineering roles as an AI-first engineer building Rust services and AI infrastructure, and at product companies working on commerce platforms, developer tooling, or applied AI. Happy to talk about commerce at scale, keeping large PHP codebases analysable, Go services over NATS, MCP server design, or putting retrieval somewhere it has to be correct.
 
 ---
 
