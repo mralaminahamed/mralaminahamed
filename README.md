@@ -1,7 +1,7 @@
 <h1 align="center">Al Amin Ahamed</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer &nbsp;·&nbsp; Rust Services &nbsp;·&nbsp; AI Infrastructure</strong>
+  <strong>AI-First Senior Software Engineer &nbsp;·&nbsp; Rust Services &nbsp;·&nbsp; AI Infrastructure</strong>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-Senior software engineer building Rust services and AI infrastructure. I am Team Lead of Product at [@codexpertio](https://github.com/codexpertio), Dhaka, where I own commercial commerce products end to end. Rust became my primary stack in October 2026; before that I spent years shipping payment systems, marketplaces and retrieval-based AI in PHP, Python and Go. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve.
+AI-first senior software engineer building Rust services and AI infrastructure. I am Team Lead of Product at [@codexpertio](https://github.com/codexpertio), Dhaka, where I own commercial commerce products end to end. Rust became my primary stack in October 2026; before that I spent years shipping payment systems, marketplaces and retrieval-based AI in PHP, Python and Go. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve.
 
 **Anthropic Certified** — Claude API · MCP · Subagents · Agentic Workflows · Claude Code · AI Fluency.
 
