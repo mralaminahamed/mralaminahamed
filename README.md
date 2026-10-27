@@ -20,7 +20,7 @@
 
 ---
 
-AI-first senior software engineer building Rust services and AI infrastructure. I am a Senior Software Engineer at [@codexpertio](https://github.com/codexpertio), Dhaka, where I own commercial commerce products end to end. Rust became my primary stack in October 2026; before that I spent years shipping payment systems, marketplaces and retrieval-based AI in PHP, Python and Go. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve. I work AI-first: Claude Code, MCP servers and agent skills in the daily loop, with tests, evaluation suites and CI gates deciding what ships.
+AI-first senior software engineer building Rust services and AI infrastructure. I am a Senior Software Engineer at [@codexpertio](https://github.com/codexpertio), Dhaka, where I own commercial commerce products end to end. Rust became my primary stack in December 2025; before that I spent years shipping payment systems, marketplaces and retrieval-based AI in PHP, Python and Go. Since 2025 most of my work has been putting retrieval and agents where an answer has to be correct, cited, and cheap to serve. I work AI-first: Claude Code, MCP servers and agent skills in the daily loop, with tests, evaluation suites and CI gates deciding what ships.
 
 **Anthropic Certified** — Claude API · MCP · Subagents · Agentic Workflows · Claude Code · AI Fluency. **Google** — Generative AI · Large Language Models · Responsible AI. **Education** — Post Graduate Diploma in Information Technology (Computer Engineering), Jahangirnagar University.
 
