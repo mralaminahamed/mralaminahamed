@@ -38,6 +38,14 @@ Self-hosted server-management platform — an alternative to Plesk and cPanel. F
 Native Linux desktop application for managing Laravel Valet environments.
 `Rust` `Linux` `Desktop`
 
+**[dioxus-tubegrab](https://github.com/mralaminahamed/dioxus-tubegrab)**
+Desktop YouTube video and playlist downloader built with Rust and Dioxus.
+`Rust` `Dioxus` `Desktop`
+
+**Zorlya** (private)
+The backend is written in Rust and compiled to WebAssembly on Cloudflare Workers, with D1 (SQLite) behind a repository trait. The front end is TypeScript, React and Astro.
+`Rust` `WebAssembly` `Cloudflare Workers` `D1`
+
 ---
 
 ### Products
@@ -152,9 +160,9 @@ Process-aware storage reclamation CLI for Ubuntu and Debian. Tiered, dry-run by 
 
 ### Developer Tooling
 
-**PHPStan stubs for the WordPress ecosystem** — 18 published
+**PHPStan stubs for the WordPress ecosystem** — 20 published
 Static analysis on a plugin stops at the first call into another plugin's code. These Composer packages fix that.
-[WooCommerce Subscriptions](https://github.com/mralaminahamed/phpstan-woocommerce-subscriptions-stubs) · [Product Add-Ons](https://github.com/mralaminahamed/phpstan-woocommerce-product-addons-stubs) · [Action Scheduler](https://github.com/mralaminahamed/phpstan-action-scheduler-stubs) · [Easy Digital Downloads](https://github.com/mralaminahamed/phpstan-easy-digital-downloads-stubs) · [EDD Pro](https://github.com/mralaminahamed/phpstan-easy-digital-downloads-pro-stubs) · [Freemius SDK](https://github.com/mralaminahamed/phpstan-freemius-stubs) · [SureCart](https://github.com/mralaminahamed/phpstan-surecart-stubs) · [StoreEngine](https://github.com/mralaminahamed/phpstan-storeengine-stubs) · [Fluent Cart](https://github.com/mralaminahamed/phpstan-fluent-cart-stubs) · [Fluent Cart Pro](https://github.com/mralaminahamed/phpstan-fluent-cart-pro-stubs) · [FluentCRM](https://github.com/mralaminahamed/phpstan-fluent-crm-stubs) · [Fluent Forms](https://github.com/mralaminahamed/phpstan-fluent-forms-stubs) · [WPForms Lite](https://github.com/mralaminahamed/phpstan-wpforms-lite-stubs) · [Ninja Forms](https://github.com/mralaminahamed/phpstan-ninja-forms-stubs) · [Forminator](https://github.com/mralaminahamed/phpstan-forminator-stubs) · [Secure Custom Fields](https://github.com/mralaminahamed/phpstan-secure-custom-fields-stubs) · [EasyCommerce](https://github.com/mralaminahamed/phpstan-easycommerce-stubs) · [Squad Modules](https://github.com/mralaminahamed/phpstan-squad-modules-lite-stubs)
+[WooCommerce Subscriptions](https://github.com/mralaminahamed/phpstan-woocommerce-subscriptions-stubs) · [Product Add-Ons](https://github.com/mralaminahamed/phpstan-woocommerce-product-addons-stubs) · [Action Scheduler](https://github.com/mralaminahamed/phpstan-action-scheduler-stubs) · [Easy Digital Downloads](https://github.com/mralaminahamed/phpstan-easy-digital-downloads-stubs) · [EDD Pro](https://github.com/mralaminahamed/phpstan-easy-digital-downloads-pro-stubs) · [Freemius SDK](https://github.com/mralaminahamed/phpstan-freemius-stubs) · [SureCart](https://github.com/mralaminahamed/phpstan-surecart-stubs) · [StoreEngine](https://github.com/mralaminahamed/phpstan-storeengine-stubs) · [Fluent Cart](https://github.com/mralaminahamed/phpstan-fluent-cart-stubs) · [Fluent Cart Pro](https://github.com/mralaminahamed/phpstan-fluent-cart-pro-stubs) · [FluentCRM](https://github.com/mralaminahamed/phpstan-fluent-crm-stubs) · [Fluent Forms](https://github.com/mralaminahamed/phpstan-fluent-forms-stubs) · [WPForms Lite](https://github.com/mralaminahamed/phpstan-wpforms-lite-stubs) · [Ninja Forms](https://github.com/mralaminahamed/phpstan-ninja-forms-stubs) · [Forminator](https://github.com/mralaminahamed/phpstan-forminator-stubs) · [Secure Custom Fields](https://github.com/mralaminahamed/phpstan-secure-custom-fields-stubs) · [EasyCommerce](https://github.com/mralaminahamed/phpstan-easycommerce-stubs) · [Squad Modules](https://github.com/mralaminahamed/phpstan-squad-modules-lite-stubs) · [Dokan](https://github.com/mralaminahamed/phpstan-dokan-stubs) · [WooCommerce](https://github.com/mralaminahamed/phpstan-woocommerce-stubs)
 
 **[wp-pgsql-database](https://github.com/mralaminahamed/wp-pgsql-database)**
 Drop-in `wpdb` replacement that runs WordPress on PostgreSQL instead of MySQL, following the SQLite drop-in pattern.
